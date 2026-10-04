@@ -1,0 +1,27 @@
+name: docs
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+# Validates the agent-docs-kit frontmatter contract. The linter is zero-dependency
+# node, so the kit is checked out at a pinned commit rather than installed.
+jobs:
+  lint:
+    name: lint docs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+      - uses: actions/checkout@v4
+        with:
+          repository: dafrimer/agent-docs-kit
+          ref: d9264c2a4bc77e8f1f3a303331b9b843ea534e62
+          path: .agent-docs-kit
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Validate the frontmatter contract
+        run: node .agent-docs-kit/bin/agent-docs-kit.mjs lint docs
