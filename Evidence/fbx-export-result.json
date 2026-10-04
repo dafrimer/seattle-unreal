@@ -1,0 +1,5401 @@
+{
+  "success": true,
+  "renderer_used": false,
+  "exports": [
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-35824879.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_35824879.fbx",
+      "vertices": 267678,
+      "triangles": 102198,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -2469.4669999999996,
+          "y": -2346.142,
+          "z": 0.0
+        },
+        "max": {
+          "x": 2468.926,
+          "y": 2346.311,
+          "z": 15600.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -2469.4677352905273,
+          "y": -2346.1429595947266,
+          "z": -6.469555842159025e-05
+        },
+        "max": {
+          "x": 2468.9254760742188,
+          "y": 2346.310043334961,
+          "z": 15600.0
+        }
+      },
+      "materialSlots": [
+        "concrete",
+        "light_stone",
+        "roof",
+        "window_reveal",
+        "aluminium",
+        "glass_light",
+        "interior_shadow",
+        "interior_wall",
+        "warm_interior",
+        "glass",
+        "metal"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-35824879-collision.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_35824879_collision.fbx",
+      "vertices": 488,
+      "triangles": 240,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -2451.524,
+          "y": -2328.198,
+          "z": 0.0
+        },
+        "max": {
+          "x": 2450.982,
+          "y": 2328.368,
+          "z": 15600.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -2451.5241622924805,
+          "y": -2328.199005126953,
+          "z": -6.469555842159025e-05
+        },
+        "max": {
+          "x": 2450.982093811035,
+          "y": 2328.367805480957,
+          "z": 15600.0
+        }
+      },
+      "materialSlots": [
+        "concrete",
+        "light_stone",
+        "roof"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-35824976.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_35824976.fbx",
+      "vertices": 245882,
+      "triangles": 107546,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -4106.696,
+          "y": -4188.235000000001,
+          "z": 0.0
+        },
+        "max": {
+          "x": 3557.827,
+          "y": 4157.949,
+          "z": 4600.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -4106.696319580078,
+          "y": -4188.2354736328125,
+          "z": -0.00039985229705052916
+        },
+        "max": {
+          "x": 3557.8269958496094,
+          "y": 4157.948684692383,
+          "z": 4600.000381469727
+        }
+      },
+      "materialSlots": [
+        "hotel_stone",
+        "roof",
+        "window_reveal",
+        "bronze",
+        "glass",
+        "interior_shadow",
+        "interior_wall",
+        "light_stone",
+        "glass_shadow",
+        "warm_interior",
+        "concrete",
+        "metal",
+        "aluminium",
+        "sign_white"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-35824976-collision.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_35824976_collision.fbx",
+      "vertices": 168,
+      "triangles": 68,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -4063.8269999999998,
+          "y": -4145.365000000001,
+          "z": 0.0
+        },
+        "max": {
+          "x": 3514.956,
+          "y": 4115.079,
+          "z": 4600.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -4063.8275146484375,
+          "y": -4145.365524291992,
+          "z": -0.00039985229705052916
+        },
+        "max": {
+          "x": 3514.9559020996094,
+          "y": 4115.079116821289,
+          "z": 4600.000381469727
+        }
+      },
+      "materialSlots": [
+        "hotel_stone",
+        "roof"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-37585125.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_37585125.fbx",
+      "vertices": 115634,
+      "triangles": 51830,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -5744.767,
+          "y": -2359.8559999999998,
+          "z": 0.0
+        },
+        "max": {
+          "x": 5334.599999999999,
+          "y": 2224.969,
+          "z": 2580.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -5744.766998291016,
+          "y": -2359.856414794922,
+          "z": -0.0003753409373530303
+        },
+        "max": {
+          "x": 5334.600067138672,
+          "y": 2224.968910217285,
+          "z": 2580.0003051757812
+        }
+      },
+      "materialSlots": [
+        "sandstone",
+        "roof",
+        "window_reveal",
+        "bronze",
+        "glass",
+        "interior_shadow",
+        "interior_wall",
+        "glass_shadow",
+        "sandstone_light",
+        "warm_interior",
+        "concrete",
+        "metal",
+        "aluminium",
+        "theatre_red",
+        "sign_white"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-37585125-collision.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_37585125_collision.fbx",
+      "vertices": 68,
+      "triangles": 28,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -5701.884,
+          "y": -2316.974,
+          "z": 0.0
+        },
+        "max": {
+          "x": 5291.717,
+          "y": 2182.086,
+          "z": 2580.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -5701.884078979492,
+          "y": -2316.974449157715,
+          "z": -0.0003753409373530303
+        },
+        "max": {
+          "x": 5291.717147827148,
+          "y": 2182.086181640625,
+          "z": 2580.0003051757812
+        }
+      },
+      "materialSlots": [
+        "sandstone",
+        "roof"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-107124282.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_107124282.fbx",
+      "vertices": 210416,
+      "triangles": 80932,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -4103.624,
+          "y": -1905.2939999999999,
+          "z": 0.0
+        },
+        "max": {
+          "x": 2747.12,
+          "y": 2081.084,
+          "z": 8400.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -4103.62434387207,
+          "y": -1905.2946090698242,
+          "z": -0.0002551524175942177
+        },
+        "max": {
+          "x": 2747.1200942993164,
+          "y": 2081.0842514038086,
+          "z": 8400.0
+        }
+      },
+      "materialSlots": [
+        "office_stone",
+        "roof",
+        "window_reveal",
+        "aluminium",
+        "glass",
+        "interior_shadow",
+        "interior_wall",
+        "bronze",
+        "glass_shadow",
+        "glass_light",
+        "warm_interior",
+        "light_stone",
+        "concrete",
+        "metal",
+        "sign_white"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-107124282-collision.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_107124282_collision.fbx",
+      "vertices": 108,
+      "triangles": 44,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -4062.9240000000004,
+          "y": -1864.594,
+          "z": 0.0
+        },
+        "max": {
+          "x": 2706.439,
+          "y": 2040.4039999999998,
+          "z": 8400.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -4062.9241943359375,
+          "y": -1864.5946502685547,
+          "z": -0.0002551524175942177
+        },
+        "max": {
+          "x": 2706.4390182495117,
+          "y": 2040.4041290283203,
+          "z": 8400.0
+        }
+      },
+      "materialSlots": [
+        "office_stone",
+        "roof"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-131705785.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_131705785.fbx",
+      "vertices": 25738,
+      "triangles": 10918,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -3711.656,
+          "y": -2060.419,
+          "z": 0.0
+        },
+        "max": {
+          "x": 3832.3300000000004,
+          "y": 1805.1760000000002,
+          "z": 1500.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -3711.6561889648438,
+          "y": -2060.419273376465,
+          "z": -0.0002415899416519096
+        },
+        "max": {
+          "x": 3832.3299407958984,
+          "y": 1805.1759719848633,
+          "z": 1500.000286102295
+        }
+      },
+      "materialSlots": [
+        "light_stone",
+        "roof",
+        "window_reveal",
+        "aluminium",
+        "glass",
+        "interior_shadow",
+        "interior_wall",
+        "bronze",
+        "glass_shadow",
+        "warm_interior",
+        "concrete",
+        "metal",
+        "sign_white"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-131705785-collision.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_131705785_collision.fbx",
+      "vertices": 278,
+      "triangles": 112,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -3684.7140000000004,
+          "y": -2033.426,
+          "z": 0.0
+        },
+        "max": {
+          "x": 3805.351,
+          "y": 1778.2150000000001,
+          "z": 1500.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -3684.714126586914,
+          "y": -2033.426284790039,
+          "z": -0.0002415899416519096
+        },
+        "max": {
+          "x": 3805.350875854492,
+          "y": 1778.2150268554688,
+          "z": 1500.000286102295
+        }
+      },
+      "materialSlots": [
+        "light_stone",
+        "roof"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-232079314.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_232079314.fbx",
+      "vertices": 78332,
+      "triangles": 34700,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -1831.8370000000002,
+          "y": -1959.319,
+          "z": 0.0
+        },
+        "max": {
+          "x": 1819.857,
+          "y": 1955.91,
+          "z": 4400.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -1831.837272644043,
+          "y": -1959.3191146850586,
+          "z": -0.00018028480326393037
+        },
+        "max": {
+          "x": 1819.856834411621,
+          "y": 1955.9097290039062,
+          "z": 4400.0
+        }
+      },
+      "materialSlots": [
+        "sandstone",
+        "roof",
+        "window_reveal",
+        "bronze",
+        "glass",
+        "interior_shadow",
+        "interior_wall",
+        "glass_shadow",
+        "sandstone_light",
+        "warm_interior",
+        "concrete",
+        "metal",
+        "aluminium",
+        "sign_white"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-232079314-collision.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_232079314_collision.fbx",
+      "vertices": 28,
+      "triangles": 12,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -1788.966,
+          "y": -1916.449,
+          "z": 0.0
+        },
+        "max": {
+          "x": 1776.965,
+          "y": 1913.0389999999998,
+          "z": 4400.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -1788.966178894043,
+          "y": -1916.4491653442383,
+          "z": -0.00018028476915787905
+        },
+        "max": {
+          "x": 1776.9649505615234,
+          "y": 1913.0390167236328,
+          "z": 4400.0
+        }
+      },
+      "materialSlots": [
+        "sandstone",
+        "roof"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-358980801.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_358980801.fbx",
+      "vertices": 150132,
+      "triangles": 57020,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -2992.5820000000003,
+          "y": -2033.276,
+          "z": 0.0
+        },
+        "max": {
+          "x": 2992.6310000000003,
+          "y": 2033.607,
+          "z": 10100.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -2992.5819396972656,
+          "y": -2033.2761764526367,
+          "z": -0.00023709808374405839
+        },
+        "max": {
+          "x": 2992.630958557129,
+          "y": 2033.6071014404297,
+          "z": 10100.0
+        }
+      },
+      "materialSlots": [
+        "office_stone",
+        "roof",
+        "window_reveal",
+        "aluminium",
+        "glass",
+        "interior_shadow",
+        "interior_wall",
+        "bronze",
+        "glass_shadow",
+        "warm_interior",
+        "light_stone",
+        "concrete",
+        "metal"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-358980801-collision.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_358980801_collision.fbx",
+      "vertices": 28,
+      "triangles": 12,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -2965.663,
+          "y": -2006.3580000000002,
+          "z": 0.0
+        },
+        "max": {
+          "x": 2965.712,
+          "y": 2006.689,
+          "z": 10100.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -2965.663528442383,
+          "y": -2006.3587188720703,
+          "z": -0.00023709808374405839
+        },
+        "max": {
+          "x": 2965.7119750976562,
+          "y": 2006.6892623901367,
+          "z": 10100.0
+        }
+      },
+      "materialSlots": [
+        "office_stone",
+        "roof"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-470300696.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_470300696.fbx",
+      "vertices": 37876,
+      "triangles": 17072,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -1036.313,
+          "y": -1892.516,
+          "z": 0.0
+        },
+        "max": {
+          "x": 1047.8249999999998,
+          "y": 1948.069,
+          "z": 2400.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -1036.3131523132324,
+          "y": -1892.5161361694336,
+          "z": -0.00014260444913816173
+        },
+        "max": {
+          "x": 1047.8249549865723,
+          "y": 1948.0690002441406,
+          "z": 2400.0001907348633
+        }
+      },
+      "materialSlots": [
+        "sandstone",
+        "roof",
+        "window_reveal",
+        "bronze",
+        "glass",
+        "interior_shadow",
+        "interior_wall",
+        "glass_shadow",
+        "sandstone_light",
+        "warm_interior",
+        "concrete",
+        "metal",
+        "aluminium",
+        "sign_white"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-470300696-collision.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_470300696_collision.fbx",
+      "vertices": 28,
+      "triangles": 12,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -993.4205999999999,
+          "y": -1849.645,
+          "z": 0.0
+        },
+        "max": {
+          "x": 1004.9540000000001,
+          "y": 1856.633,
+          "z": 2400.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -993.4207916259766,
+          "y": -1849.6452331542969,
+          "z": -0.00014260444913816173
+        },
+        "max": {
+          "x": 1004.9540519714355,
+          "y": 1856.6329956054688,
+          "z": 2400.0001907348633
+        }
+      },
+      "materialSlots": [
+        "sandstone",
+        "roof"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-686348108.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_686348108.fbx",
+      "vertices": 284196,
+      "triangles": 142092,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -4650.64,
+          "y": -4663.672,
+          "z": 0.0
+        },
+        "max": {
+          "x": 6433.279,
+          "y": 3736.4400000000005,
+          "z": 25900.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -4650.640487670898,
+          "y": -4663.671875,
+          "z": -0.0004534472282102797
+        },
+        "max": {
+          "x": 6433.278656005859,
+          "y": 3736.4402770996094,
+          "z": 25900.0
+        }
+      },
+      "materialSlots": [
+        "office_stone",
+        "roof",
+        "metal",
+        "glass_light",
+        "interior_shadow",
+        "aluminium",
+        "glass",
+        "sign_white"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-686348108-collision.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_686348108_collision.fbx",
+      "vertices": 972,
+      "triangles": 480,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -4632.697,
+          "y": -4645.728,
+          "z": 0.0
+        },
+        "max": {
+          "x": 6415.334,
+          "y": 3718.4959999999996,
+          "z": 25876.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -4632.697296142578,
+          "y": -4645.728302001953,
+          "z": -0.00045344713726080954
+        },
+        "max": {
+          "x": 6415.334320068359,
+          "y": 3718.496322631836,
+          "z": 25876.0009765625
+        }
+      },
+      "materialSlots": [
+        "office_stone",
+        "roof",
+        "glass"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-tree-0.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_tree_0.fbx",
+      "vertices": 82392,
+      "triangles": 28784,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -296.7013,
+          "y": -225.7945,
+          "z": -0.6221
+        },
+        "max": {
+          "x": 229.83570000000003,
+          "y": 272.0138,
+          "z": 704.3538
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -296.7013120651245,
+          "y": -225.79455375671387,
+          "z": -0.6220982410013676
+        },
+        "max": {
+          "x": 229.83567714691162,
+          "y": 272.0137596130371,
+          "z": 704.3538093566895
+        }
+      },
+      "materialSlots": [
+        "bark",
+        "leaf_vein",
+        "leaf",
+        "leaf_dark",
+        "leaf_light",
+        "metal",
+        "bronze"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-tree-0.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_tree_0_collision.fbx",
+      "vertices": 288,
+      "triangles": 96,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -24.4975612,
+          "y": -24.494509400000002,
+          "z": -0.611223187
+        },
+        "max": {
+          "x": 24.4975612,
+          "y": 24.494509400000002,
+          "z": 514.3823150000001
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -24.497561156749725,
+          "y": -24.494509398937225,
+          "z": -0.6112214177846909
+        },
+        "max": {
+          "x": 24.497561156749725,
+          "y": 24.494509398937225,
+          "z": 514.3823146820068
+        }
+      },
+      "materialSlots": []
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-tree-1.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_tree_1.fbx",
+      "vertices": 73253,
+      "triangles": 25509,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -135.1243,
+          "y": -141.5003,
+          "z": -0.49040000000000006
+        },
+        "max": {
+          "x": 169.4685,
+          "y": 167.9128,
+          "z": 831.9088
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -135.12433767318726,
+          "y": -141.50032997131348,
+          "z": -0.4903998225927353
+        },
+        "max": {
+          "x": 169.4684624671936,
+          "y": 167.912757396698,
+          "z": 831.9087982177734
+        }
+      },
+      "materialSlots": [
+        "bark",
+        "leaf_vein",
+        "leaf_dark",
+        "leaf",
+        "leaf_light",
+        "metal",
+        "bronze"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-tree-1.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_tree_1_collision.fbx",
+      "vertices": 336,
+      "triangles": 112,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -20.496614299999997,
+          "y": -20.4972565,
+          "z": -0.5006142889999999
+        },
+        "max": {
+          "x": 20.496614299999997,
+          "y": 20.4972565,
+          "z": 710.0734229999999
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -20.496614277362823,
+          "y": -20.49725651741028,
+          "z": -0.5006145220249891
+        },
+        "max": {
+          "x": 20.496614277362823,
+          "y": 20.49725651741028,
+          "z": 710.0734233856201
+        }
+      },
+      "materialSlots": []
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-tree-2.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_tree_2.fbx",
+      "vertices": 63924,
+      "triangles": 22004,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -231.34369999999998,
+          "y": -294.779,
+          "z": -0.8702
+        },
+        "max": {
+          "x": 203.515,
+          "y": 276.59340000000003,
+          "z": 741.7991
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -231.34372234344482,
+          "y": -294.77901458740234,
+          "z": -0.8701992221176624
+        },
+        "max": {
+          "x": 203.51498126983643,
+          "y": 276.59335136413574,
+          "z": 741.7991161346436
+        }
+      },
+      "materialSlots": [
+        "bark",
+        "leaf_vein",
+        "leaf",
+        "leaf_dark",
+        "leaf_light",
+        "metal",
+        "bronze"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-tree-2.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_tree_2_collision.fbx",
+      "vertices": 240,
+      "triangles": 80,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -24.994775699999998,
+          "y": -26.6488522,
+          "z": -0.863225572
+        },
+        "max": {
+          "x": 24.994775699999998,
+          "y": 24.9899179,
+          "z": 364.95273099999997
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -24.994775652885437,
+          "y": -26.64887309074402,
+          "z": -0.8632252924144268
+        },
+        "max": {
+          "x": 24.994775652885437,
+          "y": 24.989917874336243,
+          "z": 364.9527311325073
+        }
+      },
+      "materialSlots": []
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-lamp.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_lamp.fbx",
+      "vertices": 8832,
+      "triangles": 2956,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -38.7111,
+          "y": -38.7111,
+          "z": 0.0
+        },
+        "max": {
+          "x": 38.7111,
+          "y": 38.7111,
+          "z": 588.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -38.711124658584595,
+          "y": -38.71113359928131,
+          "z": -1.9103477910675792e-06
+        },
+        "max": {
+          "x": 38.711076974868774,
+          "y": 38.71106803417206,
+          "z": 588.0000114440918
+        }
+      },
+      "materialSlots": [
+        "metal",
+        "bronze",
+        "lamp_globe"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-lamp.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_lamp_collision.fbx",
+      "vertices": 320,
+      "triangles": 128,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -28.0000001,
+          "y": -28.0000001,
+          "z": 0.0
+        },
+        "max": {
+          "x": 28.0000001,
+          "y": 28.0000001,
+          "z": 494.99998099999993
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -28.00000011920929,
+          "y": -28.00000011920929,
+          "z": -2.0572951342501256e-06
+        },
+        "max": {
+          "x": 28.00000011920929,
+          "y": 28.00000011920929,
+          "z": 494.9999809265137
+        }
+      },
+      "materialSlots": []
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-bench.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_bench.fbx",
+      "vertices": 8016,
+      "triangles": 2828,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -41.4754,
+          "y": -97.5,
+          "z": 0.0
+        },
+        "max": {
+          "x": 32.5,
+          "y": 97.5,
+          "z": 105.55000000000001
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -41.475409269332886,
+          "y": -97.50000834465027,
+          "z": -6.124616191982568e-06
+        },
+        "max": {
+          "x": 32.50000178813934,
+          "y": 97.50000238418579,
+          "z": 105.55000305175781
+        }
+      },
+      "materialSlots": [
+        "metal",
+        "bronze",
+        "wood"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-bench.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_bench_collision.fbx",
+      "vertices": 48,
+      "triangles": 24,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -38.499999,
+          "y": -97.5000024,
+          "z": 0.0
+        },
+        "max": {
+          "x": 29.499998700000003,
+          "y": 97.5000024,
+          "z": 104.99999499999998
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -38.5000079870224,
+          "y": -97.50000834465027,
+          "z": -7.1009381485964695e-06
+        },
+        "max": {
+          "x": 29.500001668930054,
+          "y": 97.50000238418579,
+          "z": 104.99999523162842
+        }
+      },
+      "materialSlots": []
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-signal.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_signal.fbx",
+      "vertices": 8508,
+      "triangles": 3204,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -25.0,
+          "y": -25.0,
+          "z": 0.0
+        },
+        "max": {
+          "x": 47.3,
+          "y": 360.0337,
+          "z": 586.8491
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -25.0,
+          "y": -25.0,
+          "z": -1.700026075468486e-06
+        },
+        "max": {
+          "x": 47.29996621608734,
+          "y": 360.0336790084839,
+          "z": 586.8491172790527
+        }
+      },
+      "materialSlots": [
+        "metal",
+        "yellow_marking",
+        "window_reveal",
+        "signal_green",
+        "bronze",
+        "signal_amber",
+        "signal_red",
+        "sign_white"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-signal.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_signal_collision.fbx",
+      "vertices": 220,
+      "triangles": 88,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -25.0,
+          "y": -25.0,
+          "z": 0.0
+        },
+        "max": {
+          "x": 25.0,
+          "y": 25.0,
+          "z": 570.000029
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -25.0,
+          "y": -25.0,
+          "z": -1.8368705667626273e-06
+        },
+        "max": {
+          "x": 25.0,
+          "y": 25.0,
+          "z": 570.0000286102295
+        }
+      },
+      "materialSlots": []
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-bollard.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_bollard.fbx",
+      "vertices": 4656,
+      "triangles": 1552,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -17.0,
+          "y": -17.0,
+          "z": 0.0
+        },
+        "max": {
+          "x": 17.0,
+          "y": 17.0,
+          "z": 100.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -17.000000178813934,
+          "y": -17.000000178813934,
+          "z": -1.1021235479802272e-06
+        },
+        "max": {
+          "x": 17.000000178813934,
+          "y": 17.000000178813934,
+          "z": 100.0
+        }
+      },
+      "materialSlots": [
+        "metal",
+        "bronze",
+        "sign_white"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-bollard.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_bollard_collision.fbx",
+      "vertices": 240,
+      "triangles": 96,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -17.000000200000002,
+          "y": -17.000000200000002,
+          "z": 0.0
+        },
+        "max": {
+          "x": 17.000000200000002,
+          "y": 17.000000200000002,
+          "z": 100.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -17.000000178813934,
+          "y": -17.000000178813934,
+          "z": -1.2490719569768771e-06
+        },
+        "max": {
+          "x": 17.000000178813934,
+          "y": 17.000000178813934,
+          "z": 100.0
+        }
+      },
+      "materialSlots": []
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-planter.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_planter.fbx",
+      "vertices": 9462,
+      "triangles": 3270,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -65.0,
+          "y": -65.0,
+          "z": 0.0
+        },
+        "max": {
+          "x": 65.0,
+          "y": 65.0,
+          "z": 134.33870000000002
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -65.00000357627869,
+          "y": -65.00000357627869,
+          "z": -3.1226814911633483e-06
+        },
+        "max": {
+          "x": 64.99999165534973,
+          "y": 64.99999165534973,
+          "z": 134.3387007713318
+        }
+      },
+      "materialSlots": [
+        "concrete",
+        "light_stone",
+        "soil",
+        "metal",
+        "bark",
+        "leaf_vein",
+        "leaf",
+        "leaf_dark",
+        "leaf_light"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-planter.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_planter_collision.fbx",
+      "vertices": 120,
+      "triangles": 48,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -63.9999986,
+          "y": -63.9999986,
+          "z": 0.0
+        },
+        "max": {
+          "x": 63.9999986,
+          "y": 63.9999986,
+          "z": 81.9999993
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -64.000004529953,
+          "y": -64.000004529953,
+          "z": -3.6002663961198778e-06
+        },
+        "max": {
+          "x": 63.99999260902405,
+          "y": 63.99999260902405,
+          "z": 82.00000524520874
+        }
+      },
+      "materialSlots": []
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-barrier.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_barrier.fbx",
+      "vertices": 6792,
+      "triangles": 3060,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -47.0,
+          "y": -142.0,
+          "z": 0.0
+        },
+        "max": {
+          "x": 47.0,
+          "y": 142.0,
+          "z": 126.6984
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -47.00000584125519,
+          "y": -141.99999570846558,
+          "z": -1.010502970189009e-05
+        },
+        "max": {
+          "x": 47.00000584125519,
+          "y": 141.99999570846558,
+          "z": 126.69841051101685
+        }
+      },
+      "materialSlots": [
+        "rubber",
+        "metal",
+        "bronze",
+        "yellow_marking",
+        "sign_white"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-barrier.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_barrier_collision.fbx",
+      "vertices": 72,
+      "triangles": 36,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -46.9999999,
+          "y": -142.49999499999998,
+          "z": 0.0
+        },
+        "max": {
+          "x": 46.9999999,
+          "y": 142.49999499999998,
+          "z": 134.000003
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -47.00000584125519,
+          "y": -142.50000715255737,
+          "z": -1.0518293436234671e-05
+        },
+        "max": {
+          "x": 47.00000584125519,
+          "y": 142.49999523162842,
+          "z": 134.00001525878906
+        }
+      },
+      "materialSlots": []
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-street-sign-5TH-AVE.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_street_sign_5TH_AVE.fbx",
+      "vertices": 5760,
+      "triangles": 2416,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -6.7,
+          "y": -77.75,
+          "z": 0.0
+        },
+        "max": {
+          "x": 6.7,
+          "y": 77.75,
+          "z": 372.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -6.700015813112259,
+          "y": -77.75001525878906,
+          "z": -4.0180636595721353e-07
+        },
+        "max": {
+          "x": 6.699987500905991,
+          "y": 77.7499794960022,
+          "z": 372.00000286102295
+        }
+      },
+      "materialSlots": [
+        "metal",
+        "sign_white",
+        "sign_green",
+        "bronze"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-street-sign-5TH-AVE.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_street_sign_5TH_AVE_collision.fbx",
+      "vertices": 100,
+      "triangles": 40,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -8.08398053,
+          "y": -8.50000009,
+          "z": 0.0
+        },
+        "max": {
+          "x": 8.08398053,
+          "y": 8.50000009,
+          "z": 359.99998999999997
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -8.083996176719666,
+          "y": -8.500021696090698,
+          "z": -6.28269614111332e-07
+        },
+        "max": {
+          "x": 8.083980530500412,
+          "y": 8.500000089406967,
+          "z": 359.99999046325684
+        }
+      },
+      "materialSlots": []
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-street-sign-UNIVERSITY-ST.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_street_sign_UNIVERSITY_ST.fbx",
+      "vertices": 8304,
+      "triangles": 3688,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -6.7,
+          "y": -122.95,
+          "z": 0.0
+        },
+        "max": {
+          "x": 6.7,
+          "y": 122.95,
+          "z": 372.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -6.700015813112259,
+          "y": -122.95002937316895,
+          "z": -4.0180636595721353e-07
+        },
+        "max": {
+          "x": 6.699987500905991,
+          "y": 122.94999361038208,
+          "z": 372.00000286102295
+        }
+      },
+      "materialSlots": [
+        "metal",
+        "sign_white",
+        "sign_green",
+        "bronze"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-street-sign-UNIVERSITY-ST.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_street_sign_UNIVERSITY_ST_collision.fbx",
+      "vertices": 100,
+      "triangles": 40,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -8.08398053,
+          "y": -8.50000009,
+          "z": 0.0
+        },
+        "max": {
+          "x": 8.08398053,
+          "y": 8.50000009,
+          "z": 359.99998999999997
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -8.083996176719666,
+          "y": -8.500021696090698,
+          "z": -6.28269614111332e-07
+        },
+        "max": {
+          "x": 8.083980530500412,
+          "y": 8.500000089406967,
+          "z": 359.99999046325684
+        }
+      },
+      "materialSlots": []
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-street-sign-SENECA-STREET.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_street_sign_SENECA_STREET.fbx",
+      "vertices": 7824,
+      "triangles": 3448,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -6.7,
+          "y": -122.95,
+          "z": 0.0
+        },
+        "max": {
+          "x": 6.7,
+          "y": 122.95,
+          "z": 372.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -6.700015813112259,
+          "y": -122.95002937316895,
+          "z": -4.0180636595721353e-07
+        },
+        "max": {
+          "x": 6.699987500905991,
+          "y": 122.94999361038208,
+          "z": 372.00000286102295
+        }
+      },
+      "materialSlots": [
+        "metal",
+        "sign_white",
+        "sign_green",
+        "bronze"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-street-sign-SENECA-STREET.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_street_sign_SENECA_STREET_collision.fbx",
+      "vertices": 100,
+      "triangles": 40,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -8.08398053,
+          "y": -8.50000009,
+          "z": 0.0
+        },
+        "max": {
+          "x": 8.08398053,
+          "y": 8.50000009,
+          "z": 359.99998999999997
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -8.083996176719666,
+          "y": -8.500021696090698,
+          "z": -6.28269614111332e-07
+        },
+        "max": {
+          "x": 8.083980530500412,
+          "y": 8.500000089406967,
+          "z": 359.99999046325684
+        }
+      },
+      "materialSlots": []
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-street-sign-UNION-STREET.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_street_sign_UNION_STREET.fbx",
+      "vertices": 8160,
+      "triangles": 3616,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -6.7,
+          "y": -115.05000000000001,
+          "z": 0.0
+        },
+        "max": {
+          "x": 6.7,
+          "y": 115.05000000000001,
+          "z": 372.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -6.700015813112259,
+          "y": -115.05002975463867,
+          "z": -4.0180636595721353e-07
+        },
+        "max": {
+          "x": 6.699987500905991,
+          "y": 115.0499939918518,
+          "z": 372.00000286102295
+        }
+      },
+      "materialSlots": [
+        "metal",
+        "sign_white",
+        "sign_green",
+        "bronze"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-street-sign-UNION-STREET.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_street_sign_UNION_STREET_collision.fbx",
+      "vertices": 100,
+      "triangles": 40,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -8.08398053,
+          "y": -8.50000009,
+          "z": 0.0
+        },
+        "max": {
+          "x": 8.08398053,
+          "y": 8.50000009,
+          "z": 359.99998999999997
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -8.083996176719666,
+          "y": -8.500021696090698,
+          "z": -6.28269614111332e-07
+        },
+        "max": {
+          "x": 8.083980530500412,
+          "y": 8.500000089406967,
+          "z": 359.99999046325684
+        }
+      },
+      "materialSlots": []
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-ground-0.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_ground_0.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -7900.0,
+          "y": -11200.0,
+          "z": -12.0
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 11200.0,
+          "z": -12.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -7900.000762939453,
+          "y": -11200.0,
+          "z": -12.00101226568222
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 11200.000762939453,
+          "z": -11.998645961284637
+        }
+      },
+      "materialSlots": [
+        "ground"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-road-1.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_road_1.fbx",
+      "vertices": 124,
+      "triangles": 124,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -7900.0,
+          "y": -11200.0,
+          "z": 0.0
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 11200.0,
+          "z": 0.0
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -7900.0,
+          "y": -11200.0,
+          "z": -0.0009576319826010149
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 11200.0,
+          "z": 0.0010512271728657652
+        }
+      },
+      "materialSlots": [
+        "road"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-2.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_2.fbx",
+      "vertices": 7,
+      "triangles": 5,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -7900.0,
+          "y": -3220.13,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": -7573.75,
+          "y": -1514.71,
+          "z": 14.000000000000002
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -7900.0,
+          "y": -3220.1305389404297,
+          "z": 13.999462127685547
+        },
+        "max": {
+          "x": -7573.750305175781,
+          "y": -1514.7104263305664,
+          "z": 13.999563455581665
+        }
+      },
+      "materialSlots": [
+        "sidewalk"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-3.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_3.fbx",
+      "vertices": 40,
+      "triangles": 38,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -6694.31,
+          "y": -10711.279999999999,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 5993.589999999999,
+          "y": -976.18,
+          "z": 14.000000000000002
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -6694.309234619141,
+          "y": -10711.280059814453,
+          "z": 13.999070227146149
+        },
+        "max": {
+          "x": 5993.590545654297,
+          "y": -976.1797904968262,
+          "z": 14.000175893306732
+        }
+      },
+      "materialSlots": [
+        "sidewalk"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-4.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_4.fbx",
+      "vertices": 9,
+      "triangles": 7,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 666.13,
+          "y": -11200.0,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 6051.89,
+          "y": -10849.769999999999,
+          "z": 14.000000000000002
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 666.1304950714111,
+          "y": -11200.0,
+          "z": 13.999362289905548
+        },
+        "max": {
+          "x": 6051.890563964844,
+          "y": -10849.77035522461,
+          "z": 13.999609649181366
+        }
+      },
+      "materialSlots": [
+        "sidewalk"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-5.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_5.fbx",
+      "vertices": 10,
+      "triangles": 8,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 6802.09,
+          "y": -11200.0,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 9692.99,
+          "y": -10552.52,
+          "z": 14.000000000000002
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 6802.0904541015625,
+          "y": -11200.0,
+          "z": 13.999630510807037
+        },
+        "max": {
+          "x": 9692.99087524414,
+          "y": -10552.519226074219,
+          "z": 13.99979442358017
+        }
+      },
+      "materialSlots": [
+        "sidewalk"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-6.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_6.fbx",
+      "vertices": 37,
+      "triangles": 37,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 6341.38,
+          "y": -9785.4,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 15021.13,
+          "y": -253.25000000000003,
+          "z": 14.000000000000002
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 6341.379928588867,
+          "y": -9785.399627685547,
+          "z": 13.99972140789032
+        },
+        "max": {
+          "x": 15021.13037109375,
+          "y": -253.24935913085938,
+          "z": 14.00061696767807
+        }
+      },
+      "materialSlots": [
+        "sidewalk"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-7.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_7.fbx",
+      "vertices": 8,
+      "triangles": 6,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 9703.619999999999,
+          "y": -10864.47,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 15542.57,
+          "y": -9996.67,
+          "z": 14.000000000000002
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 9703.620910644531,
+          "y": -10864.469146728516,
+          "z": 13.999778032302856
+        },
+        "max": {
+          "x": 15542.570495605469,
+          "y": -9996.669006347656,
+          "z": 14.00008350610733
+        }
+      },
+      "materialSlots": [
+        "sidewalk"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-8.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_8.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15445.859999999999,
+          "y": -3835.23,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 15700.0,
+          "y": -157.36,
+          "z": 14.000000000000002
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15445.860290527344,
+          "y": -3835.2291107177734,
+          "z": 14.000459015369415
+        },
+        "max": {
+          "x": 15700.0,
+          "y": -157.35931396484375,
+          "z": 14.000678062438965
+        }
+      },
+      "materialSlots": [
+        "sidewalk"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-9.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_9.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -7900.0,
+          "y": -1003.0699999999999,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": -7729.51,
+          "y": 1431.48,
+          "z": 14.000000000000002
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -7900.0,
+          "y": -1003.0703544616699,
+          "z": 13.999594748020172
+        },
+        "max": {
+          "x": -7729.509735107422,
+          "y": 1431.4796447753906,
+          "z": 13.999739289283752
+        }
+      },
+      "materialSlots": [
+        "sidewalk"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-10.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_10.fbx",
+      "vertices": 6,
+      "triangles": 4,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -7411.21,
+          "y": 3662.1699999999996,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": -6755.95,
+          "y": 8454.699999999999,
+          "z": 14.000000000000002
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -7411.209869384766,
+          "y": 3662.169647216797,
+          "z": 13.999907672405243
+        },
+        "max": {
+          "x": -6755.950164794922,
+          "y": 8454.69970703125,
+          "z": 14.000193774700165
+        }
+      },
+      "materialSlots": [
+        "sidewalk"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-11.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_11.fbx",
+      "vertices": 26,
+      "triangles": 24,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -7075.04,
+          "y": -912.06,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 5290.15,
+          "y": 9473.32,
+          "z": 14.000000000000002
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -7075.0396728515625,
+          "y": -912.0602607727051,
+          "z": 13.999651372432709
+        },
+        "max": {
+          "x": 5290.15007019043,
+          "y": 9473.320007324219,
+          "z": 14.00076448917389
+        }
+      },
+      "materialSlots": [
+        "sidewalk"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-12.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_12.fbx",
+      "vertices": 72,
+      "triangles": 72,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -463.31,
+          "y": -4.77,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 4439.19,
+          "y": 4651.79,
+          "z": 14.000000000000002
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -463.31019401550293,
+          "y": -4.770005866885185,
+          "z": 13.999994099140167
+        },
+        "max": {
+          "x": 4439.189910888672,
+          "y": 4651.789855957031,
+          "z": 14.000456035137177
+        }
+      },
+      "materialSlots": [
+        "sidewalk"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-13.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_13.fbx",
+      "vertices": 8,
+      "triangles": 6,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 4128.71,
+          "y": 9453.140000000001,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 4570.95,
+          "y": 11162.75,
+          "z": 14.000000000000002
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 4128.70979309082,
+          "y": 9453.140258789062,
+          "z": 14.000749588012695
+        },
+        "max": {
+          "x": 4570.949554443359,
+          "y": 11162.750244140625,
+          "z": 14.00085985660553
+        }
+      },
+      "materialSlots": [
+        "sidewalk"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-14.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_14.fbx",
+      "vertices": 45,
+      "triangles": 43,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 5427.79,
+          "y": 118.19999999999999,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 14401.259999999998,
+          "y": 11200.0,
+          "z": 14.000000000000002
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 5427.789688110352,
+          "y": 118.20027828216553,
+          "z": 14.000281691551208
+        },
+        "max": {
+          "x": 14401.260375976562,
+          "y": 11200.0,
+          "z": 14.00100439786911
+        }
+      },
+      "materialSlots": [
+        "sidewalk"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-15.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_15.fbx",
+      "vertices": 10,
+      "triangles": 8,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 14991.390000000001,
+          "y": 354.04,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 6663.78,
+          "z": 14.000000000000002
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 14991.389465332031,
+          "y": 354.04069423675537,
+          "z": 14.000707864761353
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 6663.780975341797,
+          "z": 14.001066982746124
+        }
+      },
+      "materialSlots": [
+        "sidewalk"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-continuous-curbs.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_continuous_curbs.fbx",
+      "vertices": 1144,
+      "triangles": 572,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -7900.0,
+          "y": -11200.0,
+          "z": 0.0
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 11200.0,
+          "z": 14.000000000000002
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -7900.0,
+          "y": -11200.0,
+          "z": -0.0009300493729824666
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 11200.0,
+          "z": 14.001066982746124
+        }
+      },
+      "materialSlots": [
+        "curb"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-17.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_17.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -6110.179999999999,
+          "y": -1550.44,
+          "z": 1.2
+        },
+        "max": {
+          "x": -6021.990000000001,
+          "y": -1530.56,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -6110.179901123047,
+          "y": -1550.4403114318848,
+          "z": 1.1996405199170113
+        },
+        "max": {
+          "x": -6021.989822387695,
+          "y": -1530.560302734375,
+          "z": 1.1996454559266567
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-18.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_18.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -6138.320000000001,
+          "y": -1211.35,
+          "z": 1.2
+        },
+        "max": {
+          "x": -6048.59,
+          "y": -1191.6000000000001,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -6138.320159912109,
+          "y": -1211.3502502441406,
+          "z": 1.1996597051620483
+        },
+        "max": {
+          "x": -6048.590087890625,
+          "y": -1191.6003227233887,
+          "z": 1.1996645480394363
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-19.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_19.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -5614.21,
+          "y": -1511.17,
+          "z": 1.2
+        },
+        "max": {
+          "x": -5274.240000000001,
+          "y": -1471.44,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -5614.21012878418,
+          "y": -1511.1702919006348,
+          "z": 1.1996645480394363
+        },
+        "max": {
+          "x": -5274.2401123046875,
+          "y": -1471.4402198791504,
+          "z": 1.1996816843748093
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-20.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_20.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -5640.97,
+          "y": -1172.22,
+          "z": 1.2
+        },
+        "max": {
+          "x": -5301.0,
+          "y": -1132.5,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -5640.9698486328125,
+          "y": -1172.2203254699707,
+          "z": 1.199683640152216
+        },
+        "max": {
+          "x": -5300.99983215332,
+          "y": -1132.500171661377,
+          "z": 1.1997007764875889
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-21.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_21.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -4866.530000000001,
+          "y": -1452.13,
+          "z": 1.2
+        },
+        "max": {
+          "x": -4526.570000000001,
+          "y": -1412.41,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -4866.529846191406,
+          "y": -1452.1302223205566,
+          "z": 1.1997007764875889
+        },
+        "max": {
+          "x": -4526.570129394531,
+          "y": -1412.4101638793945,
+          "z": 1.1997179128229618
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-22.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_22.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -4893.3,
+          "y": -1113.18,
+          "z": 1.2
+        },
+        "max": {
+          "x": -4553.33,
+          "y": -1073.46,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -4893.299865722656,
+          "y": -1113.180160522461,
+          "z": 1.1997198686003685
+        },
+        "max": {
+          "x": -4553.329849243164,
+          "y": -1073.4601974487305,
+          "z": 1.199736911803484
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-23.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_23.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -4118.86,
+          "y": -1393.09,
+          "z": 1.2
+        },
+        "max": {
+          "x": -3778.89,
+          "y": -1353.37,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -4118.85986328125,
+          "y": -1393.0901527404785,
+          "z": 1.199736911803484
+        },
+        "max": {
+          "x": -3778.889846801758,
+          "y": -1353.370189666748,
+          "z": 1.1997541412711143
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-24.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_24.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -4145.62,
+          "y": -1054.1499999999999,
+          "z": 1.2
+        },
+        "max": {
+          "x": -3805.6600000000003,
+          "y": -1014.43,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -4145.619964599609,
+          "y": -1054.1501998901367,
+          "z": 1.1997560039162636
+        },
+        "max": {
+          "x": -3805.659866333008,
+          "y": -1014.4302368164062,
+          "z": 1.1997731402516365
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-25.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_25.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -3371.19,
+          "y": -1334.06,
+          "z": 1.2
+        },
+        "max": {
+          "x": -3031.2200000000003,
+          "y": -1294.3300000000002,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -3371.1898803710938,
+          "y": -1334.0601921081543,
+          "z": 1.1997731402516365
+        },
+        "max": {
+          "x": -3031.220054626465,
+          "y": -1294.33012008667,
+          "z": 1.199790369719267
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-26.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_26.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -3397.9500000000003,
+          "y": -995.11,
+          "z": 1.2
+        },
+        "max": {
+          "x": -3057.98,
+          "y": -955.3900000000001,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -3397.949981689453,
+          "y": -995.1102256774902,
+          "z": 1.1997922323644161
+        },
+        "max": {
+          "x": -3057.979965209961,
+          "y": -955.3900718688965,
+          "z": 1.199809368699789
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-27.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_27.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -2623.52,
+          "y": -1275.02,
+          "z": 1.2
+        },
+        "max": {
+          "x": -2283.55,
+          "y": -1235.3,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -2623.520088195801,
+          "y": -1275.0201225280762,
+          "z": 1.199809368699789
+        },
+        "max": {
+          "x": -2283.5500717163086,
+          "y": -1235.300064086914,
+          "z": 1.199826505035162
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-28.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_28.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -2650.28,
+          "y": -936.0799999999999,
+          "z": 1.2
+        },
+        "max": {
+          "x": -2310.31,
+          "y": -896.35,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -2650.279998779297,
+          "y": -936.0800743103027,
+          "z": 1.1998284608125687
+        },
+        "max": {
+          "x": -2310.3099822998047,
+          "y": -896.35009765625,
+          "z": 1.1998455040156841
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-29.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_29.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -1875.8400000000001,
+          "y": -1215.99,
+          "z": 1.2
+        },
+        "max": {
+          "x": -1535.8700000000001,
+          "y": -1176.26,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -1875.8399963378906,
+          "y": -1215.9900665283203,
+          "z": 1.1998455971479416
+        },
+        "max": {
+          "x": -1535.8698844909668,
+          "y": -1176.2600898742676,
+          "z": 1.1998627334833145
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-30.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_30.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -1902.61,
+          "y": -877.0400000000001,
+          "z": 1.2
+        },
+        "max": {
+          "x": -1562.64,
+          "y": -837.32,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -1902.6100158691406,
+          "y": -877.0401000976562,
+          "z": 1.1998645961284637
+        },
+        "max": {
+          "x": -1562.6399993896484,
+          "y": -837.3201370239258,
+          "z": 1.1998817324638367
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-31.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_31.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -1128.17,
+          "y": -1156.95,
+          "z": 1.2
+        },
+        "max": {
+          "x": -788.1999999999999,
+          "y": -1117.23,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -1128.1699180603027,
+          "y": -1156.9500923156738,
+          "z": 1.1998818255960941
+        },
+        "max": {
+          "x": -788.1999492645264,
+          "y": -1117.2300338745117,
+          "z": 1.199898961931467
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-32.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_32.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -1154.93,
+          "y": -818.0,
+          "z": 1.2
+        },
+        "max": {
+          "x": -814.9599999999999,
+          "y": -778.28,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -1154.930019378662,
+          "y": -818.0001258850098,
+          "z": 1.1999007314443588
+        },
+        "max": {
+          "x": -814.9600028991699,
+          "y": -778.2800674438477,
+          "z": 1.1999179609119892
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-33.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_33.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -380.5,
+          "y": -1097.91,
+          "z": 1.2
+        },
+        "max": {
+          "x": -40.53,
+          "y": -1058.1899999999998,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -380.4999589920044,
+          "y": -1097.9100227355957,
+          "z": 1.1999179609119892
+        },
+        "max": {
+          "x": -40.52995145320892,
+          "y": -1058.1899642944336,
+          "z": 1.1999350972473621
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-34.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_34.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -407.26000000000005,
+          "y": -758.9699999999999,
+          "z": 1.2
+        },
+        "max": {
+          "x": -67.29,
+          "y": -719.24,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -407.2599411010742,
+          "y": -758.9700222015381,
+          "z": 1.1999369598925114
+        },
+        "max": {
+          "x": -67.28997230529785,
+          "y": -719.2399978637695,
+          "z": 1.1999541893601418
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-35.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_35.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 367.18,
+          "y": -1038.8799999999999,
+          "z": 1.2
+        },
+        "max": {
+          "x": 707.14,
+          "y": -999.15,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 367.1800374984741,
+          "y": -1038.8799667358398,
+          "z": 1.1999541893601418
+        },
+        "max": {
+          "x": 707.140064239502,
+          "y": -999.1499900817871,
+          "z": 1.1999713256955147
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-36.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_36.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 340.41,
+          "y": -699.93,
+          "z": 1.2
+        },
+        "max": {
+          "x": 680.38,
+          "y": -660.21,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 340.4100179672241,
+          "y": -699.9300003051758,
+          "z": 1.199973188340664
+        },
+        "max": {
+          "x": 680.3800582885742,
+          "y": -660.2099418640137,
+          "z": 1.1999903246760368
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-37.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_37.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 1114.8500000000001,
+          "y": -979.8400000000001,
+          "z": 1.2
+        },
+        "max": {
+          "x": 1454.82,
+          "y": -940.1199999999999,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 1114.8500442504883,
+          "y": -979.8398971557617,
+          "z": 1.1999904178082943
+        },
+        "max": {
+          "x": 1454.8199653625488,
+          "y": -940.1199340820312,
+          "z": 1.2000074610114098
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-38.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_38.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 1088.0900000000001,
+          "y": -640.9,
+          "z": 1.2
+        },
+        "max": {
+          "x": 1428.05,
+          "y": -601.1700000000001,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 1088.0900382995605,
+          "y": -640.8999443054199,
+          "z": 1.2000094167888165
+        },
+        "max": {
+          "x": 1428.0500411987305,
+          "y": -601.1699676513672,
+          "z": 1.2000265531241894
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-39.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_39.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 1862.52,
+          "y": -920.8000000000001,
+          "z": 1.2
+        },
+        "max": {
+          "x": 2202.49,
+          "y": -881.08,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 1862.5200271606445,
+          "y": -920.7999229431152,
+          "z": 1.2000266462564468
+        },
+        "max": {
+          "x": 2202.4900436401367,
+          "y": -881.0798645019531,
+          "z": 1.2000436894595623
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-40.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_40.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 1835.7600000000002,
+          "y": -581.86,
+          "z": 1.2
+        },
+        "max": {
+          "x": 2175.73,
+          "y": -542.14,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 1835.7599258422852,
+          "y": -581.8599224090576,
+          "z": 1.200045645236969
+        },
+        "max": {
+          "x": 2175.7299423217773,
+          "y": -542.1399116516113,
+          "z": 1.200062781572342
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-41.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_41.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 2610.19,
+          "y": -861.77,
+          "z": 1.2
+        },
+        "max": {
+          "x": 2950.16,
+          "y": -822.04,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 2610.190010070801,
+          "y": -861.7698669433594,
+          "z": 1.200062781572342
+        },
+        "max": {
+          "x": 2950.160026550293,
+          "y": -822.0398902893066,
+          "z": 1.2000799179077148
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-42.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_42.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 2583.43,
+          "y": -522.82,
+          "z": 1.2
+        },
+        "max": {
+          "x": 2923.4,
+          "y": -483.1,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 2583.4299087524414,
+          "y": -522.8199005126953,
+          "z": 1.200081780552864
+        },
+        "max": {
+          "x": 2923.3999252319336,
+          "y": -483.0998420715332,
+          "z": 1.2000990100204945
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-43.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_43.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 3357.87,
+          "y": -802.73,
+          "z": 1.2
+        },
+        "max": {
+          "x": 3697.84,
+          "y": -763.01,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 3357.870101928711,
+          "y": -802.7297973632812,
+          "z": 1.200098916888237
+        },
+        "max": {
+          "x": 3697.840118408203,
+          "y": -763.0098342895508,
+          "z": 1.2001161463558674
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-44.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_44.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 3331.1,
+          "y": -463.79,
+          "z": 1.2
+        },
+        "max": {
+          "x": 3671.07,
+          "y": -424.05999999999995,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 3331.100082397461,
+          "y": -463.78984451293945,
+          "z": 1.2001180090010166
+        },
+        "max": {
+          "x": 3671.070098876953,
+          "y": -424.0598678588867,
+          "z": 1.200135238468647
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-45.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_45.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 4105.54,
+          "y": -743.7,
+          "z": 1.2
+        },
+        "max": {
+          "x": 4445.51,
+          "y": -703.97,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 4105.540084838867,
+          "y": -743.6997890472412,
+          "z": 1.2001351453363895
+        },
+        "max": {
+          "x": 4445.510101318359,
+          "y": -703.9698123931885,
+          "z": 1.2001522816717625
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-46.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_46.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 4078.7799999999997,
+          "y": -404.75000000000006,
+          "z": 1.2
+        },
+        "max": {
+          "x": 4418.75,
+          "y": -365.03000000000003,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 4078.779983520508,
+          "y": -404.74982261657715,
+          "z": 1.2001542374491692
+        },
+        "max": {
+          "x": 4418.75,
+          "y": -365.02981185913086,
+          "z": 1.2001712806522846
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-47.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_47.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 7096.24,
+          "y": -505.46,
+          "z": 1.2
+        },
+        "max": {
+          "x": 7436.1900000000005,
+          "y": -465.36,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 7096.240234375,
+          "y": -505.4596424102783,
+          "z": 1.2002801522612572
+        },
+        "max": {
+          "x": 7436.190032958984,
+          "y": -465.3596878051758,
+          "z": 1.20029728859663
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-48.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_48.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 7069.09,
+          "y": -166.55,
+          "z": 1.2
+        },
+        "max": {
+          "x": 7409.05,
+          "y": -126.44999999999999,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 7069.090270996094,
+          "y": -166.54969453811646,
+          "z": 1.2002990581095219
+        },
+        "max": {
+          "x": 7409.049987792969,
+          "y": -126.44968032836914,
+          "z": 1.2003162875771523
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-49.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_49.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 7843.84,
+          "y": -445.59,
+          "z": 1.2
+        },
+        "max": {
+          "x": 8183.799999999999,
+          "y": -405.49,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 7843.840026855469,
+          "y": -445.5896854400635,
+          "z": 1.2003163807094097
+        },
+        "max": {
+          "x": 8183.799743652344,
+          "y": -405.4896354675293,
+          "z": 1.2003335170447826
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-50.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_50.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 7816.7,
+          "y": -106.67,
+          "z": 1.2
+        },
+        "max": {
+          "x": 8156.650000000001,
+          "y": -66.57,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 7816.699981689453,
+          "y": -106.66965246200562,
+          "z": 1.2003353796899319
+        },
+        "max": {
+          "x": 8156.6497802734375,
+          "y": -66.56964421272278,
+          "z": 1.2003525160253048
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-51.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_51.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 8591.45,
+          "y": -385.71,
+          "z": 1.2
+        },
+        "max": {
+          "x": 8931.4,
+          "y": -345.61,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 8591.449737548828,
+          "y": -385.7096195220947,
+          "z": 1.2003526091575623
+        },
+        "max": {
+          "x": 8931.400299072266,
+          "y": -345.60961723327637,
+          "z": 1.2003697454929352
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-52.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_52.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 8564.310000000001,
+          "y": -46.800000000000004,
+          "z": 1.2
+        },
+        "max": {
+          "x": 8904.259999999998,
+          "y": -6.7,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 8564.309692382812,
+          "y": -46.79962396621704,
+          "z": 1.2003716081380844
+        },
+        "max": {
+          "x": 8904.26025390625,
+          "y": -6.699611246585846,
+          "z": 1.2003888376057148
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-53.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_53.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 9339.060000000001,
+          "y": -325.84,
+          "z": 1.2
+        },
+        "max": {
+          "x": 9679.01,
+          "y": -285.74,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 9339.06021118164,
+          "y": -325.83959102630615,
+          "z": 1.2003888376057148
+        },
+        "max": {
+          "x": 9679.010009765625,
+          "y": -285.7395648956299,
+          "z": 1.2004059739410877
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-54.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_54.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 9311.91,
+          "y": 13.07,
+          "z": 1.2
+        },
+        "max": {
+          "x": 9651.86,
+          "y": 53.18000000000001,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 9311.910247802734,
+          "y": 13.070407509803772,
+          "z": 1.200407836586237
+        },
+        "max": {
+          "x": 9651.860046386719,
+          "y": 53.18042039871216,
+          "z": 1.2004250660538673
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-55.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_55.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 10086.66,
+          "y": -265.96999999999997,
+          "z": 1.2
+        },
+        "max": {
+          "x": 10426.609999999999,
+          "y": -225.87,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 10086.66000366211,
+          "y": -265.9695625305176,
+          "z": 1.2004251591861248
+        },
+        "max": {
+          "x": 10426.609802246094,
+          "y": -225.8695363998413,
+          "z": 1.2004422023892403
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-56.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_56.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 10059.52,
+          "y": 72.95,
+          "z": 1.2
+        },
+        "max": {
+          "x": 10399.47,
+          "y": 113.05000000000001,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 10059.519958496094,
+          "y": 72.9504406452179,
+          "z": 1.200444158166647
+        },
+        "max": {
+          "x": 10399.469757080078,
+          "y": 113.05044889450073,
+          "z": 1.2004612013697624
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-57.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_57.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 10834.269999999999,
+          "y": -206.09000000000003,
+          "z": 1.2
+        },
+        "max": {
+          "x": 11174.22,
+          "y": -165.98999999999998,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 10834.269714355469,
+          "y": -206.08952045440674,
+          "z": 1.2004613876342773
+        },
+        "max": {
+          "x": 11174.220275878906,
+          "y": -165.98950624465942,
+          "z": 1.2004785239696503
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-58.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_58.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 10807.12,
+          "y": 132.82,
+          "z": 1.2
+        },
+        "max": {
+          "x": 11147.08,
+          "y": 172.92000000000002,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 10807.119750976562,
+          "y": 132.82047510147095,
+          "z": 1.2004803866147995
+        },
+        "max": {
+          "x": 11147.08023071289,
+          "y": 172.92048931121826,
+          "z": 1.2004975229501724
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-59.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_59.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 11581.87,
+          "y": -146.22,
+          "z": 1.2
+        },
+        "max": {
+          "x": 11921.83,
+          "y": -106.11999999999999,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 11581.87026977539,
+          "y": -146.21950387954712,
+          "z": 1.2004975229501724
+        },
+        "max": {
+          "x": 11921.829986572266,
+          "y": -106.11947774887085,
+          "z": 1.2005147524178028
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-60.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_60.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 11554.730000000001,
+          "y": 192.70000000000002,
+          "z": 1.2
+        },
+        "max": {
+          "x": 11894.68,
+          "y": 232.79999999999998,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 11554.730224609375,
+          "y": 192.70050525665283,
+          "z": 1.200516615062952
+        },
+        "max": {
+          "x": 11894.68002319336,
+          "y": 232.8005313873291,
+          "z": 1.200533751398325
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-61.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_61.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 12329.12,
+          "y": -87.26,
+          "z": 1.2
+        },
+        "max": {
+          "x": 12669.11,
+          "y": -48.04,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 12329.119873046875,
+          "y": -87.25946545600891,
+          "z": 1.200533751398325
+        },
+        "max": {
+          "x": 12669.110107421875,
+          "y": -48.03944528102875,
+          "z": 1.200550887733698
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-62.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_62.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 12302.87,
+          "y": 251.73000000000002,
+          "z": 1.2
+        },
+        "max": {
+          "x": 12642.86,
+          "y": 290.94,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 12302.870178222656,
+          "y": 251.73053741455078,
+          "z": 1.2005528435111046
+        },
+        "max": {
+          "x": 12642.859649658203,
+          "y": 290.9405469894409,
+          "z": 1.20056988671422
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-63.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_63.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 13076.88,
+          "y": -29.349999999999998,
+          "z": 1.2
+        },
+        "max": {
+          "x": 13416.87,
+          "y": 9.86,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 13076.8798828125,
+          "y": -29.349428415298462,
+          "z": 1.20056988671422
+        },
+        "max": {
+          "x": 13416.8701171875,
+          "y": 9.860586374998093,
+          "z": 1.200587023049593
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-64.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_64.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 13050.630000000001,
+          "y": 309.64,
+          "z": 1.2
+        },
+        "max": {
+          "x": 13390.62,
+          "y": 348.85,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 13050.630187988281,
+          "y": 309.64057445526123,
+          "z": 1.2005889788269997
+        },
+        "max": {
+          "x": 13390.620422363281,
+          "y": 348.8506078720093,
+          "z": 1.2006060220301151
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-65.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_65.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 13825.380000000001,
+          "y": 28.02,
+          "z": 1.2
+        },
+        "max": {
+          "x": 13857.400000000001,
+          "y": 43.33,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 13825.379943847656,
+          "y": 28.020605444908142,
+          "z": 1.2006060220301151
+        },
+        "max": {
+          "x": 13857.400512695312,
+          "y": 43.33060383796692,
+          "z": 1.2006081640720367
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-66.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_66.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 13797.7,
+          "y": 366.89,
+          "z": 1.2
+        },
+        "max": {
+          "x": 13827.6,
+          "y": 382.29,
+          "z": 1.2
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 13797.700500488281,
+          "y": 366.8905973434448,
+          "z": 1.2006250210106373
+        },
+        "max": {
+          "x": 13827.60009765625,
+          "y": 382.2906017303467,
+          "z": 1.2006272561848164
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-67.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_67.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 14059.36,
+          "y": -242.83999999999997,
+          "z": 1.6
+        },
+        "max": {
+          "x": 14404.18,
+          "y": -142.75,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 14059.359741210938,
+          "y": -242.8393840789795,
+          "z": 1.6006004065275192
+        },
+        "max": {
+          "x": 14404.179382324219,
+          "y": -142.7493691444397,
+          "z": 1.6006208956241608
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-68.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_68.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 14049.78,
+          "y": -128.24,
+          "z": 1.6
+        },
+        "max": {
+          "x": 14394.6,
+          "y": -28.15,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 14049.7802734375,
+          "y": -128.23938131332397,
+          "z": 1.6006069257855415
+        },
+        "max": {
+          "x": 14394.599914550781,
+          "y": -28.149372339248657,
+          "z": 1.600627414882183
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-69.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_69.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 14040.19,
+          "y": -13.639999999999999,
+          "z": 1.6
+        },
+        "max": {
+          "x": 14385.01,
+          "y": 86.45,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 14040.190124511719,
+          "y": -13.639385998249054,
+          "z": 1.600613258779049
+        },
+        "max": {
+          "x": 14385.009765625,
+          "y": 86.45062446594238,
+          "z": 1.6006337478756905
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-70.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_70.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 14030.609999999999,
+          "y": 100.96000000000001,
+          "z": 1.6
+        },
+        "max": {
+          "x": 14375.43,
+          "y": 201.04999999999998,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 14030.610656738281,
+          "y": 100.9606122970581,
+          "z": 1.6006195917725563
+        },
+        "max": {
+          "x": 14375.430297851562,
+          "y": 201.05061531066895,
+          "z": 1.6006400808691978
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-71.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_71.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 14021.019999999999,
+          "y": 215.56000000000003,
+          "z": 1.6
+        },
+        "max": {
+          "x": 14365.84,
+          "y": 315.65,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 14021.0205078125,
+          "y": 215.56062698364258,
+          "z": 1.6006261110305786
+        },
+        "max": {
+          "x": 14365.840148925781,
+          "y": 315.6506299972534,
+          "z": 1.6006466001272202
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-72.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_72.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 14011.439999999999,
+          "y": 330.16,
+          "z": 1.6
+        },
+        "max": {
+          "x": 14356.25,
+          "y": 430.25,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 14011.439514160156,
+          "y": 330.16061782836914,
+          "z": 1.600632630288601
+        },
+        "max": {
+          "x": 14356.25,
+          "y": 430.25059700012207,
+          "z": 1.6006531193852425
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-73.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_73.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 14001.849999999999,
+          "y": 444.76000000000005,
+          "z": 1.6
+        },
+        "max": {
+          "x": 14346.67,
+          "y": 544.85,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 14001.849365234375,
+          "y": 444.7606086730957,
+          "z": 1.6006387770175934
+        },
+        "max": {
+          "x": 14346.670532226562,
+          "y": 544.8506355285645,
+          "z": 1.600659266114235
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-74.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_74.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 13992.259999999998,
+          "y": 559.36,
+          "z": 1.6
+        },
+        "max": {
+          "x": 14337.08,
+          "y": 659.45,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 13992.2607421875,
+          "y": 559.3605995178223,
+          "z": 1.6006452962756157
+        },
+        "max": {
+          "x": 14337.080383300781,
+          "y": 659.450626373291,
+          "z": 1.6006657853722572
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-75.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_75.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15510.939999999999,
+          "y": -126.84,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": -41.04,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15510.940551757812,
+          "y": -126.83931589126587,
+          "z": 1.6006706282496452
+        },
+        "max": {
+          "x": 15700.0,
+          "y": -41.03931486606598,
+          "z": 1.6006838530302048
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-76.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_76.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15502.46,
+          "y": -12.15,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 74.27,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15502.459716796875,
+          "y": -12.149322032928467,
+          "z": 1.6006771475076675
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 74.2706835269928,
+          "z": 1.600690744817257
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-77.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_77.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15493.97,
+          "y": 102.53000000000002,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 189.59,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15493.9697265625,
+          "y": 102.53068208694458,
+          "z": 1.6006836667656898
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 189.5906925201416,
+          "z": 1.600697636604309
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-78.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_78.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15485.480000000001,
+          "y": 217.22000000000003,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 304.9,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15485.479736328125,
+          "y": 217.22066402435303,
+          "z": 1.6006901860237122
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 304.9006938934326,
+          "z": 1.6007045283913612
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-79.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_79.fbx",
+      "vertices": 5,
+      "triangles": 3,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15476.990000000002,
+          "y": 331.91,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 419.86,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15476.98974609375,
+          "y": 331.91065788269043,
+          "z": 1.6006965190172195
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 419.8606491088867,
+          "z": 1.6007110476493835
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-80.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_80.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15468.5,
+          "y": 446.59000000000003,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15691.95,
+          "y": 534.54,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15468.499755859375,
+          "y": 446.5906620025635,
+          "z": 1.6007030382752419
+        },
+        "max": {
+          "x": 15691.949462890625,
+          "y": 534.5406532287598,
+          "z": 1.6007175669074059
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-81.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_81.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15460.02,
+          "y": 561.28,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15683.47,
+          "y": 649.23,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15460.020446777344,
+          "y": 561.2806797027588,
+          "z": 1.6007095575332642
+        },
+        "max": {
+          "x": 15683.470153808594,
+          "y": 649.2306709289551,
+          "z": 1.6007240861654282
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-82.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_82.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15451.529999999999,
+          "y": 675.9699999999999,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15674.98,
+          "y": 763.91,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15451.530456542969,
+          "y": 675.9706497192383,
+          "z": 1.6007158905267715
+        },
+        "max": {
+          "x": 15674.980163574219,
+          "y": 763.9106750488281,
+          "z": 1.6007304191589355
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-83.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_83.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 4951.46,
+          "y": -965.6700000000001,
+          "z": 1.6
+        },
+        "max": {
+          "x": 5296.24,
+          "y": -865.9100000000001,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 4951.459884643555,
+          "y": -965.6698226928711,
+          "z": 1.6001591458916664
+        },
+        "max": {
+          "x": 5296.239852905273,
+          "y": -865.9097671508789,
+          "z": 1.600179634988308
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-84.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_84.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 4941.99,
+          "y": -851.0600000000001,
+          "z": 1.6
+        },
+        "max": {
+          "x": 5286.7699999999995,
+          "y": -751.3,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 4941.989898681641,
+          "y": -851.0598182678223,
+          "z": 1.6001656651496887
+        },
+        "max": {
+          "x": 5286.769866943359,
+          "y": -751.2997627258301,
+          "z": 1.6001861542463303
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-85.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_85.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 4932.52,
+          "y": -736.4499999999999,
+          "z": 1.6
+        },
+        "max": {
+          "x": 5277.3,
+          "y": -636.69,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 4932.519912719727,
+          "y": -736.4497661590576,
+          "z": 1.600171998143196
+        },
+        "max": {
+          "x": 5277.299880981445,
+          "y": -636.6897583007812,
+          "z": 1.6001924872398376
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-86.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_86.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 4923.05,
+          "y": -621.84,
+          "z": 1.6
+        },
+        "max": {
+          "x": 5267.82,
+          "y": -522.0799999999999,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 4923.0499267578125,
+          "y": -621.8397617340088,
+          "z": 1.6001785174012184
+        },
+        "max": {
+          "x": 5267.819976806641,
+          "y": -522.0797538757324,
+          "z": 1.60019900649786
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-87.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_87.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 4913.58,
+          "y": -507.23,
+          "z": 1.6
+        },
+        "max": {
+          "x": 5258.35,
+          "y": -407.47,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 4913.579940795898,
+          "y": -507.22975730895996,
+          "z": 1.6001848503947258
+        },
+        "max": {
+          "x": 5258.349990844727,
+          "y": -407.4697494506836,
+          "z": 1.6002055257558823
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-88.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_88.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 4904.11,
+          "y": -392.62,
+          "z": 1.6
+        },
+        "max": {
+          "x": 5248.88,
+          "y": -292.86,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 4904.109954833984,
+          "y": -392.61977672576904,
+          "z": 1.6001911833882332
+        },
+        "max": {
+          "x": 5248.8800048828125,
+          "y": -292.8597688674927,
+          "z": 1.6002116724848747
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-89.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_89.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 4894.639999999999,
+          "y": -278.01,
+          "z": 1.6
+        },
+        "max": {
+          "x": 5239.41,
+          "y": -178.26,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 4894.63996887207,
+          "y": -278.0097961425781,
+          "z": 1.6001977026462555
+        },
+        "max": {
+          "x": 5239.410018920898,
+          "y": -178.2597780227661,
+          "z": 1.600218191742897
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-90.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_90.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 4885.16,
+          "y": -163.39999999999998,
+          "z": 1.6
+        },
+        "max": {
+          "x": 5229.94,
+          "y": -63.65,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 4885.160064697266,
+          "y": -163.39977979660034,
+          "z": 1.6002042219042778
+        },
+        "max": {
+          "x": 5229.940032958984,
+          "y": -63.649773597717285,
+          "z": 1.6002247110009193
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-91.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_91.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 6403.900000000001,
+          "y": -849.8699999999999,
+          "z": 1.6
+        },
+        "max": {
+          "x": 6748.33,
+          "y": -752.6099999999999,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 6403.900146484375,
+          "y": -849.8697280883789,
+          "z": 1.6002295538783073
+        },
+        "max": {
+          "x": 6748.329925537109,
+          "y": -752.6097297668457,
+          "z": 1.600249856710434
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-92.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_92.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 6395.280000000001,
+          "y": -735.1899999999999,
+          "z": 1.6
+        },
+        "max": {
+          "x": 6739.719999999999,
+          "y": -637.93,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 6395.280075073242,
+          "y": -735.1897239685059,
+          "z": 1.6002360731363297
+        },
+        "max": {
+          "x": 6739.720153808594,
+          "y": -637.9297256469727,
+          "z": 1.6002563759684563
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-93.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_93.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 6386.67,
+          "y": -620.52,
+          "z": 1.6
+        },
+        "max": {
+          "x": 6731.11,
+          "y": -523.25,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 6386.669921875,
+          "y": -620.5197334289551,
+          "z": 1.600242406129837
+        },
+        "max": {
+          "x": 6731.109619140625,
+          "y": -523.2497215270996,
+          "z": 1.6002628952264786
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-94.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_94.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 6378.05,
+          "y": -505.84,
+          "z": 1.6
+        },
+        "max": {
+          "x": 6722.490000000001,
+          "y": -408.58,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 6378.049850463867,
+          "y": -505.83972930908203,
+          "z": 1.6002489253878593
+        },
+        "max": {
+          "x": 6722.489929199219,
+          "y": -408.5797309875488,
+          "z": 1.600269228219986
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-95.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_95.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 6369.4400000000005,
+          "y": -391.15999999999997,
+          "z": 1.6
+        },
+        "max": {
+          "x": 6713.88,
+          "y": -293.9,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 6369.440078735352,
+          "y": -391.159725189209,
+          "z": 1.6002554446458817
+        },
+        "max": {
+          "x": 6713.880157470703,
+          "y": -293.89970302581787,
+          "z": 1.6002757474780083
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-96.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_96.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 6360.82,
+          "y": -276.49,
+          "z": 1.6
+        },
+        "max": {
+          "x": 6705.26,
+          "y": -179.22,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 6360.820007324219,
+          "y": -276.4897108078003,
+          "z": 1.600261963903904
+        },
+        "max": {
+          "x": 6705.259704589844,
+          "y": -179.21969890594482,
+          "z": 1.6002822667360306
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-97.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_97.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 6352.21,
+          "y": -161.81,
+          "z": 1.6
+        },
+        "max": {
+          "x": 6696.65,
+          "y": -64.53999999999999,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 6352.209854125977,
+          "y": -161.80973052978516,
+          "z": 1.6002682968974113
+        },
+        "max": {
+          "x": 6696.649932861328,
+          "y": -64.53970670700073,
+          "z": 1.600288599729538
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-98.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_98.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 6343.6,
+          "y": -47.13,
+          "z": 1.6
+        },
+        "max": {
+          "x": 6688.030000000001,
+          "y": 50.129999999999995,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 6343.600082397461,
+          "y": -47.12972342967987,
+          "z": 1.6002748161554337
+        },
+        "max": {
+          "x": 6688.030242919922,
+          "y": 50.130289793014526,
+          "z": 1.6002951189875603
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-99.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_99.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15526.169999999998,
+          "y": -125.71000000000001,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": -41.04,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15526.170349121094,
+          "y": -125.70931911468506,
+          "z": 1.6006715595722198
+        },
+        "max": {
+          "x": 15700.0,
+          "y": -41.03931486606598,
+          "z": 1.6006838530302048
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-100.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_100.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15517.679999999998,
+          "y": -11.03,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 74.27,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15517.680358886719,
+          "y": -11.02932095527649,
+          "z": 1.6006778925657272
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 74.2706835269928,
+          "z": 1.600690744817257
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-101.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_101.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15509.2,
+          "y": 103.66,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 189.59,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15509.199523925781,
+          "y": 103.66067886352539,
+          "z": 1.6006844118237495
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 189.5906925201416,
+          "z": 1.600697636604309
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-102.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_102.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15500.710000000001,
+          "y": 218.35,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 304.9,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15500.709533691406,
+          "y": 218.3506727218628,
+          "z": 1.6006909310817719
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 304.9006938934326,
+          "z": 1.6007045283913612
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-103.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_103.fbx",
+      "vertices": 5,
+      "triangles": 3,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15492.220000000001,
+          "y": 333.03,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 419.86,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15492.219543457031,
+          "y": 333.03067684173584,
+          "z": 1.6006974503397942
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 419.8606491088867,
+          "z": 1.6007110476493835
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-104.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_104.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15483.73,
+          "y": 447.71999999999997,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15691.95,
+          "y": 534.54,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15483.729553222656,
+          "y": 447.72067070007324,
+          "z": 1.6007037833333015
+        },
+        "max": {
+          "x": 15691.949462890625,
+          "y": 534.5406532287598,
+          "z": 1.6007175669074059
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-105.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_105.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15475.24,
+          "y": 562.4100000000001,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15683.47,
+          "y": 649.23,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15475.239562988281,
+          "y": 562.4106884002686,
+          "z": 1.6007103025913239
+        },
+        "max": {
+          "x": 15683.470153808594,
+          "y": 649.2306709289551,
+          "z": 1.6007240861654282
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-106.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_106.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": 15466.759999999998,
+          "y": 677.09,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15674.98,
+          "y": 763.91,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": 15466.76025390625,
+          "y": 677.0906448364258,
+          "z": 1.6007168218493462
+        },
+        "max": {
+          "x": 15674.980163574219,
+          "y": 763.9106750488281,
+          "z": 1.6007304191589355
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-107.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_107.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -6616.7,
+          "y": -1879.99,
+          "z": 1.6
+        },
+        "max": {
+          "x": -6272.13,
+          "y": -1781.72,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -6616.699981689453,
+          "y": -1879.9903869628906,
+          "z": 1.5995990484952927
+        },
+        "max": {
+          "x": -6272.129821777344,
+          "y": -1781.7201614379883,
+          "z": 1.5996195375919342
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-108.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_108.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -6625.660000000001,
+          "y": -1765.3400000000001,
+          "z": 1.6
+        },
+        "max": {
+          "x": -6281.089999999999,
+          "y": -1667.07,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -6625.659942626953,
+          "y": -1765.3404235839844,
+          "z": 1.5996053814888
+        },
+        "max": {
+          "x": -6281.09016418457,
+          "y": -1667.070198059082,
+          "z": 1.5996260568499565
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-109.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_109.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -6634.62,
+          "y": -1650.69,
+          "z": 1.6
+        },
+        "max": {
+          "x": -6290.04,
+          "y": -1552.42,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -6634.619903564453,
+          "y": -1650.6904602050781,
+          "z": 1.5996119007468224
+        },
+        "max": {
+          "x": -6290.039825439453,
+          "y": -1552.4203300476074,
+          "z": 1.599632389843464
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-110.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_110.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -6643.58,
+          "y": -1536.04,
+          "z": 1.6
+        },
+        "max": {
+          "x": -6299.0,
+          "y": -1437.77,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -6643.579864501953,
+          "y": -1536.0403060913086,
+          "z": 1.5996182337403297
+        },
+        "max": {
+          "x": -6299.00016784668,
+          "y": -1437.7702713012695,
+          "z": 1.5996387228369713
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-111.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_111.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -6652.540000000001,
+          "y": -1421.39,
+          "z": 1.6
+        },
+        "max": {
+          "x": -6307.96,
+          "y": -1323.12,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -6652.539825439453,
+          "y": -1421.3902473449707,
+          "z": 1.599624752998352
+        },
+        "max": {
+          "x": -6307.96012878418,
+          "y": -1323.1203079223633,
+          "z": 1.5996452420949936
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-112.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_112.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -6661.490000000001,
+          "y": -1306.73,
+          "z": 1.6
+        },
+        "max": {
+          "x": -6316.92,
+          "y": -1208.47,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -6661.4898681640625,
+          "y": -1306.7302703857422,
+          "z": 1.5996312722563744
+        },
+        "max": {
+          "x": -6316.92008972168,
+          "y": -1208.4702491760254,
+          "z": 1.599651575088501
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-113.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_113.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -6670.45,
+          "y": -1192.08,
+          "z": 1.6
+        },
+        "max": {
+          "x": -6325.88,
+          "y": -1093.82,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -6670.4498291015625,
+          "y": -1192.080307006836,
+          "z": 1.5996377915143967
+        },
+        "max": {
+          "x": -6325.88005065918,
+          "y": -1093.8202857971191,
+          "z": 1.5996580943465233
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-114.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_114.fbx",
+      "vertices": 4,
+      "triangles": 2,
+      "expectedUnrealBounds": {
+        "min": {
+          "x": -6679.41,
+          "y": -1077.43,
+          "z": 1.6
+        },
+        "max": {
+          "x": -6334.83,
+          "y": -979.1700000000001,
+          "z": 1.6
+        }
+      },
+      "blenderConvertedBounds": {
+        "min": {
+          "x": -6679.4097900390625,
+          "y": -1077.430248260498,
+          "z": 1.599644124507904
+        },
+        "max": {
+          "x": -6334.830093383789,
+          "y": -979.1703224182129,
+          "z": 1.5996646136045456
+        }
+      },
+      "materialSlots": [
+        "marking"
+      ]
+    }
+  ]
+}

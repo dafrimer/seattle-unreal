@@ -1,0 +1,576 @@
+{
+  "schemaVersion": 2,
+  "preparedUtc": "2026-09-13T17:58:28.498465+00:00",
+  "userAgent": "SeattleRebuiltAssetPreparation/2.0",
+  "providerCredit": "Scanned surface textures by Poly Haven contributors (CC0).",
+  "providerLicenseStatement": "https://polyhaven.com/license",
+  "apiTerms": "https://github.com/Poly-Haven/Public-API/blob/master/ToS.md",
+  "licenseFile": {
+    "path": "Unity/Assets/Resources/PbrSources/CC0-1.0.txt",
+    "sourceUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt",
+    "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+    "bytes": 7048
+  },
+  "sourceTextureBytes": 68595363,
+  "sourceTextureCount": 24,
+  "preparation": "CPU-only HTTPS acquisition, provider MD5/length verification and PNG decoding. No render/example images; no GPU processing.",
+  "unityProcessing": {
+    "entrypoint": "RebuildScene.Materials.cs/CreatePalette; offline only; missing maps are fatal",
+    "albedo": "sRGB import; restrained near-white tint retains photographed coloration",
+    "normal": "TextureImporterType.NormalMap; OpenGL +Y, no green-channel inversion",
+    "roughness": "Linear readable source; CPU packs RGBA metallic/smoothness PNG: R=0, G=0, B=0, A=255-roughness.R",
+    "ao": "Linear import; Standard reads G; strength tuned per material",
+    "uv": "Mesh UV distances are metres. Base scale is reciprocal of provider millimetres/1000; copied to every channel.",
+    "export": "Original source PNGs and generated packed/procedural PNGs copied to AssetsExport/Textures under their texture asset names.",
+    "extras": "Original deterministic analytic glass waviness, glazing dirt, interior blinds, leaf veins and microfinish maps; no random colour blocks."
+  },
+  "assets": [
+    {
+      "id": "asphalt_02",
+      "name": "Asphalt 02",
+      "provider": "Poly Haven",
+      "assetUrl": "https://polyhaven.com/a/asphalt_02",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt",
+      "infoUrl": "https://api.polyhaven.com/info/asphalt_02",
+      "filesUrl": "https://api.polyhaven.com/files/asphalt_02",
+      "infoSha256": "2987cd6ff9bcee5db7393c275fada7ce1a5220391c994db5cb57f5b3861eaca7",
+      "filesSha256": "1249520977b7ba990db96a9b4dea2d7d5b8ff6d70c61a7d348310e92f68130d2",
+      "description": "Free 8K texture of weathered grey asphalt: gritty coarse aggregate, subtle tar cracks, rough matte surface with uneven wear.",
+      "providerDimensionsMillimetres": [
+        3000.000238418579,
+        3000
+      ],
+      "tileSizeMetres": [
+        3.0,
+        3.0
+      ],
+      "resolution": "1k",
+      "channels": [
+        {
+          "channel": "Diffuse",
+          "interpretation": "sRGB albedo",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/asphalt_02/asphalt_02_diff_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/asphalt_02/asphalt_02_diff_1k.png",
+          "bytes": 2485545,
+          "providerMd5": "ac3d05aae774a5dce71a31b8c761fa47",
+          "verifiedMd5": "ac3d05aae774a5dce71a31b8c761fa47",
+          "sha256": "68f85c76965ea664d500839c7ffe28fc7f2ddd297db32323dd63976589316bd3",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "RGB",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "nor_gl",
+          "interpretation": "OpenGL tangent-space normal",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/asphalt_02/asphalt_02_nor_gl_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/asphalt_02/asphalt_02_nor_gl_1k.png",
+          "bytes": 2323825,
+          "providerMd5": "910d4b3882858368622eaa1b973bb290",
+          "verifiedMd5": "910d4b3882858368622eaa1b973bb290",
+          "sha256": "b2069741070f0107c81d001eabfffd6d6644f249cd4ffdf52852e4b5e746a959",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "RGB",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "Rough",
+          "interpretation": "linear perceptual roughness",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/asphalt_02/asphalt_02_rough_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/asphalt_02/asphalt_02_rough_1k.png",
+          "bytes": 732747,
+          "providerMd5": "7db5fbd81763e89539cc0d808a97449e",
+          "verifiedMd5": "7db5fbd81763e89539cc0d808a97449e",
+          "sha256": "aa820bd79355a4b5a94e14915f275584080a071c45a218a13ca61c2840158300",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "L",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "AO",
+          "interpretation": "linear ambient occlusion",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/asphalt_02/asphalt_02_ao_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/asphalt_02/asphalt_02_ao_1k.png",
+          "bytes": 733585,
+          "providerMd5": "67782606ab946aee870e6cf8051501f6",
+          "verifiedMd5": "67782606ab946aee870e6cf8051501f6",
+          "sha256": "baef7dbfc709700f4caeb8ec96282f56996deaaf066abe6e978758f2e14c2373",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "L",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        }
+      ]
+    },
+    {
+      "id": "concrete_pavement",
+      "name": "Concrete Pavement",
+      "provider": "Poly Haven",
+      "assetUrl": "https://polyhaven.com/a/concrete_pavement",
+      "authors": {
+        "Charlotte Baglioni": "All"
+      },
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt",
+      "infoUrl": "https://api.polyhaven.com/info/concrete_pavement",
+      "filesUrl": "https://api.polyhaven.com/files/concrete_pavement",
+      "infoSha256": "9091666bb9434ee931344f51ff6d21d9e6fc1def70ded5fe04e081296ca825da",
+      "filesSha256": "72fdd157a7733870377c11670f1d9c306d36ce2bdcef5b1cf3a09573496a5ab8",
+      "description": "Free 8K concrete texture of rough, coarse rectangular pavement pavers with sandy aggregate, subtle wear and flat matte finish in warm gray-beige tones.",
+      "providerDimensionsMillimetres": [
+        1800.0000715255737,
+        1800.0000715255737
+      ],
+      "tileSizeMetres": [
+        1.8,
+        1.8
+      ],
+      "resolution": "1k",
+      "channels": [
+        {
+          "channel": "Diffuse",
+          "interpretation": "sRGB albedo",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/concrete_pavement/concrete_pavement_diff_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/concrete_pavement/concrete_pavement_diff_1k.png",
+          "bytes": 5754280,
+          "providerMd5": "17ed111caa1e92341a8eb741d91d2312",
+          "verifiedMd5": "17ed111caa1e92341a8eb741d91d2312",
+          "sha256": "eb1a433ffbb22ee124cc0d7e04e9344d73cb255550e091777450841ad3436c3e",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "RGB",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "nor_gl",
+          "interpretation": "OpenGL tangent-space normal",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/concrete_pavement/concrete_pavement_nor_gl_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/concrete_pavement/concrete_pavement_nor_gl_1k.png",
+          "bytes": 5974518,
+          "providerMd5": "6676e0e60345c2697ff62aedeaaafe4f",
+          "verifiedMd5": "6676e0e60345c2697ff62aedeaaafe4f",
+          "sha256": "9800e6b905862cbe4c5729d60d62b1c9dbf8e9cb52a7a468489131c556ec5e7c",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "RGB",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "Rough",
+          "interpretation": "linear perceptual roughness",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/concrete_pavement/concrete_pavement_rough_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/concrete_pavement/concrete_pavement_rough_1k.png",
+          "bytes": 2409808,
+          "providerMd5": "f888482083833815e8aa9cf3395660aa",
+          "verifiedMd5": "f888482083833815e8aa9cf3395660aa",
+          "sha256": "ad66866f5ade952461d5bf140f0388fc87cfe7ae3519ec7931d562edad7da0f6",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "RGB",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "AO",
+          "interpretation": "linear ambient occlusion",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/concrete_pavement/concrete_pavement_ao_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/concrete_pavement/concrete_pavement_ao_1k.png",
+          "bytes": 1967020,
+          "providerMd5": "c0ba734236ee2e90ce8959a81a56be9a",
+          "verifiedMd5": "c0ba734236ee2e90ce8959a81a56be9a",
+          "sha256": "61ce31b73bb338cf3bc252201abf8e65def9e0d650891212a063813ac7f3c20e",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "I",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        }
+      ]
+    },
+    {
+      "id": "concrete_wall_006",
+      "name": "Concrete Wall 006",
+      "provider": "Poly Haven",
+      "assetUrl": "https://polyhaven.com/a/concrete_wall_006",
+      "authors": {
+        "Dario Barresi": "Processing",
+        "Charlotte Baglioni": "Photography"
+      },
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt",
+      "infoUrl": "https://api.polyhaven.com/info/concrete_wall_006",
+      "filesUrl": "https://api.polyhaven.com/files/concrete_wall_006",
+      "infoSha256": "b3eab2bf86f1964ff975f9453bc7cd667572fe62909b3d92377363629f599ad7",
+      "filesSha256": "dd5440cf3eb1bf752c1c0fca51145a77e89c8d303da3a1009a493f47aa53abf4",
+      "description": "Free 8K texture of weathered concrete wall: rough, chipped plaster with pitted holes, scratches and stains, coarse gritty surface and horizontal form marks.",
+      "providerDimensionsMillimetres": [
+        2000,
+        2000
+      ],
+      "tileSizeMetres": [
+        2.0,
+        2.0
+      ],
+      "resolution": "1k",
+      "channels": [
+        {
+          "channel": "Diffuse",
+          "interpretation": "sRGB albedo",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/concrete_wall_006/concrete_wall_006_diff_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/concrete_wall_006/concrete_wall_006_diff_1k.png",
+          "bytes": 5579636,
+          "providerMd5": "26b85e579468f0ec61011379c99e8d21",
+          "verifiedMd5": "26b85e579468f0ec61011379c99e8d21",
+          "sha256": "41851ea0513e698ae9ece0b6d5b3d53921134bf1aba89c8f3a4b6cc65be07c2c",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "RGB",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "nor_gl",
+          "interpretation": "OpenGL tangent-space normal",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/concrete_wall_006/concrete_wall_006_nor_gl_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/concrete_wall_006/concrete_wall_006_nor_gl_1k.png",
+          "bytes": 5894007,
+          "providerMd5": "51e23227755f95a1cab177e68c218643",
+          "verifiedMd5": "51e23227755f95a1cab177e68c218643",
+          "sha256": "3d8ff20f71bfdf9f1559cd607001f504e2eae041d5207554e4d499f91ecc6e01",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "RGB",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "Rough",
+          "interpretation": "linear perceptual roughness",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/concrete_wall_006/concrete_wall_006_rough_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/concrete_wall_006/concrete_wall_006_rough_1k.png",
+          "bytes": 2162180,
+          "providerMd5": "1a073d64371c2845ee2ba6c3d7fae081",
+          "verifiedMd5": "1a073d64371c2845ee2ba6c3d7fae081",
+          "sha256": "3d70f934a307b6d4da97b1b4fa2a6b43a370c980276f7e04fb29aff43d7b94e7",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "RGB",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "AO",
+          "interpretation": "linear ambient occlusion",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/concrete_wall_006/concrete_wall_006_ao_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/concrete_wall_006/concrete_wall_006_ao_1k.png",
+          "bytes": 2008160,
+          "providerMd5": "41cfbc7ed16579aed80df3966a0c5be8",
+          "verifiedMd5": "41cfbc7ed16579aed80df3966a0c5be8",
+          "sha256": "4cbc6a45b45c91f48d927cc304fa6a2ef85e4ba681ca865921413590a1a58341",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "I",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        }
+      ]
+    },
+    {
+      "id": "sandstone_cracks",
+      "name": "Sandstone Cracks",
+      "provider": "Poly Haven",
+      "assetUrl": "https://polyhaven.com/a/sandstone_cracks",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt",
+      "infoUrl": "https://api.polyhaven.com/info/sandstone_cracks",
+      "filesUrl": "https://api.polyhaven.com/files/sandstone_cracks",
+      "infoSha256": "e9cf9ce95431291f3184e6484de71e125986dc2541a776cd39d918c61427ce63",
+      "filesSha256": "0df27c7e3fe8a89fb8315b4750c5762850ee5c29ab4381adf360a7c6de29dace",
+      "description": "Free 8K sandstone cracks texture - rough, sandy surface in warm beige, dusty erosion with fine fissures and plaster-like granular detail.",
+      "providerDimensionsMillimetres": [
+        2000,
+        2000
+      ],
+      "tileSizeMetres": [
+        2.0,
+        2.0
+      ],
+      "resolution": "1k",
+      "channels": [
+        {
+          "channel": "Diffuse",
+          "interpretation": "sRGB albedo",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/sandstone_cracks/sandstone_cracks_diff_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/sandstone_cracks/sandstone_cracks_diff_1k.png",
+          "bytes": 2178096,
+          "providerMd5": "e7997fe5567f8196aef3fc4c9107e300",
+          "verifiedMd5": "e7997fe5567f8196aef3fc4c9107e300",
+          "sha256": "29a5164a73c78244570a3c21a46caf8f702004d21da644ff70d9e2a282abb3cf",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "RGB",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "nor_gl",
+          "interpretation": "OpenGL tangent-space normal",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/sandstone_cracks/sandstone_cracks_nor_gl_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/sandstone_cracks/sandstone_cracks_nor_gl_1k.png",
+          "bytes": 2336597,
+          "providerMd5": "929cfb9b35f8edffd391998a0d31752c",
+          "verifiedMd5": "929cfb9b35f8edffd391998a0d31752c",
+          "sha256": "fff4b00ade517fa543ff86cb1d688cf2536578fc6fecf36d9b42ef37bfba8a64",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "RGB",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "Rough",
+          "interpretation": "linear perceptual roughness",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/sandstone_cracks/sandstone_cracks_rough_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/sandstone_cracks/sandstone_cracks_rough_1k.png",
+          "bytes": 1883067,
+          "providerMd5": "d9d491321afb03ee05c6b95a55a0bf67",
+          "verifiedMd5": "d9d491321afb03ee05c6b95a55a0bf67",
+          "sha256": "3c061dbc0f93c3a1e49a1bb85a93a58db64d76b903523976624ead10fa04581a",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "I",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "AO",
+          "interpretation": "linear ambient occlusion",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/sandstone_cracks/sandstone_cracks_ao_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/sandstone_cracks/sandstone_cracks_ao_1k.png",
+          "bytes": 883430,
+          "providerMd5": "43658e6a56fefcc88827863c7ca7ab18",
+          "verifiedMd5": "43658e6a56fefcc88827863c7ca7ab18",
+          "sha256": "9105602be73034ede3a3cb0a15828ba526db6c445f09dd1d60b8ade855feeabe",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "L",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        }
+      ]
+    },
+    {
+      "id": "bark_brown_01",
+      "name": "Bark Brown 01",
+      "provider": "Poly Haven",
+      "assetUrl": "https://polyhaven.com/a/bark_brown_01",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt",
+      "infoUrl": "https://api.polyhaven.com/info/bark_brown_01",
+      "filesUrl": "https://api.polyhaven.com/files/bark_brown_01",
+      "infoSha256": "717ccb3a001a84e1fe85eaae35f800e2f773aff31043ad2d43766413c62eb841",
+      "filesSha256": "1c10acbee7bf1fbb871de46c71aa323152558c19f1e573a5f4474498b156a15a",
+      "description": "Free 8K bark texture with deep vertical grooves, rugged fibrous surface, warm brown weathered tones, visible knots and subtle mossy highlights.",
+      "providerDimensionsMillimetres": [
+        999.9990463256836,
+        999.998927116394
+      ],
+      "tileSizeMetres": [
+        0.999999,
+        0.999999
+      ],
+      "resolution": "1k",
+      "channels": [
+        {
+          "channel": "Diffuse",
+          "interpretation": "sRGB albedo",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/bark_brown_01/bark_brown_01_diff_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/bark_brown_01/bark_brown_01_diff_1k.png",
+          "bytes": 2235035,
+          "providerMd5": "c9dc937d2cb82bc26a3973ddd6148db9",
+          "verifiedMd5": "c9dc937d2cb82bc26a3973ddd6148db9",
+          "sha256": "37be9755b9eb02e9df1a1e5a06ea17d5a58161ce76024b5d9ad85b8bca3606e1",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "RGB",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "nor_gl",
+          "interpretation": "OpenGL tangent-space normal",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/bark_brown_01/bark_brown_01_nor_gl_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/bark_brown_01/bark_brown_01_nor_gl_1k.png",
+          "bytes": 2313976,
+          "providerMd5": "531b131bcb9f178357fa948bc06fae71",
+          "verifiedMd5": "531b131bcb9f178357fa948bc06fae71",
+          "sha256": "1d35617ca492eef42b85d877ef99a3a78389920858e37ffadf8f874fa3f18983",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "RGB",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "Rough",
+          "interpretation": "linear perceptual roughness",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/bark_brown_01/bark_brown_01_rough_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/bark_brown_01/bark_brown_01_rough_1k.png",
+          "bytes": 1783164,
+          "providerMd5": "01853f420746ad757a3add59bcd1a9e4",
+          "verifiedMd5": "01853f420746ad757a3add59bcd1a9e4",
+          "sha256": "7c58dc22fb622f44c59d15a5f076d4651a81d24bbe7f40c1bada42604766f9d4",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "I",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "AO",
+          "interpretation": "linear ambient occlusion",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/bark_brown_01/bark_brown_01_ao_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/bark_brown_01/bark_brown_01_ao_1k.png",
+          "bytes": 1002316,
+          "providerMd5": "a653abb7614e8d6abbb53a78256e4070",
+          "verifiedMd5": "a653abb7614e8d6abbb53a78256e4070",
+          "sha256": "ffb39f251abf02cc74de6898057150cc1168d03834f5c038e76ca65941967abd",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "L",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        }
+      ]
+    },
+    {
+      "id": "brown_planks_04",
+      "name": "Brown Planks 04",
+      "provider": "Poly Haven",
+      "assetUrl": "https://polyhaven.com/a/brown_planks_04",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt",
+      "infoUrl": "https://api.polyhaven.com/info/brown_planks_04",
+      "filesUrl": "https://api.polyhaven.com/files/brown_planks_04",
+      "infoSha256": "891851ef520bcdf3ef0b5c4e768342d44615ed8abe73ac1019d1c65d76172bcb",
+      "filesSha256": "1c07f9b26cf0e899218c9dea4a287c862a26823d0605469b44ec6d9c0e25ead6",
+      "description": "Free 8K texture of old untreated brown wooden planks; rough grain, overlapping clapboard boards, visible nail heads and subtle weathering, matte finish.",
+      "providerDimensionsMillimetres": [
+        1000,
+        1000
+      ],
+      "tileSizeMetres": [
+        1.0,
+        1.0
+      ],
+      "resolution": "1k",
+      "channels": [
+        {
+          "channel": "Diffuse",
+          "interpretation": "sRGB albedo",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/brown_planks_04/brown_planks_04_diff_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/brown_planks_04/brown_planks_04_diff_1k.png",
+          "bytes": 6272963,
+          "providerMd5": "4689827855b5b523acede09f3f989486",
+          "verifiedMd5": "4689827855b5b523acede09f3f989486",
+          "sha256": "cd3eb9e38a6156aad75cbc76115e47bcc5566d7d780bdb3793e5116ad3b8f815",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "RGBA",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "nor_gl",
+          "interpretation": "OpenGL tangent-space normal",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/brown_planks_04/brown_planks_04_nor_gl_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/brown_planks_04/brown_planks_04_nor_gl_1k.png",
+          "bytes": 6494681,
+          "providerMd5": "23832513026c8f509c5bc7499ef231d8",
+          "verifiedMd5": "23832513026c8f509c5bc7499ef231d8",
+          "sha256": "bb18bf32692f4da106c2ad6df2927eb05aa81a5eb8026aecbaef50fbbd0ae65d",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "RGBA",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "Rough",
+          "interpretation": "linear perceptual roughness",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/brown_planks_04/brown_planks_04_rough_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/brown_planks_04/brown_planks_04_rough_1k.png",
+          "bytes": 1708024,
+          "providerMd5": "48a76905643849c2ba213cc7792693a6",
+          "verifiedMd5": "48a76905643849c2ba213cc7792693a6",
+          "sha256": "d436073e5b93967ddf9aa213a1f6195b0061796846ed8645385321581944a150",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "I",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        },
+        {
+          "channel": "AO",
+          "interpretation": "linear ambient occlusion",
+          "sourceUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/brown_planks_04/brown_planks_04_ao_1k.png",
+          "path": "Unity/Assets/Resources/PbrSources/brown_planks_04/brown_planks_04_ao_1k.png",
+          "bytes": 1478703,
+          "providerMd5": "853095a90697a7289f1f4e6c53e3cf09",
+          "verifiedMd5": "853095a90697a7289f1f4e6c53e3cf09",
+          "sha256": "bbc04fc8aacf56c6623dc8e3221e0eb01c6988c0a9efcbf5bbe1ff0c4d9abf0d",
+          "dimensionsPixels": [
+            1024,
+            1024
+          ],
+          "decodedMode": "RGBA",
+          "processing": "None: original provider PNG bytes preserved. Unity import settings do not alter source files."
+        }
+      ]
+    }
+  ]
+}

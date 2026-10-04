@@ -1,0 +1,10 @@
+{
+  "source_unity_read_only": true,
+  "mesh_count": 137,
+  "fbx_including_collision": 159,
+  "materials": 38,
+  "instances": 212,
+  "axis_probe_max_error_cm": 0.001354217529296875,
+  "native_collider_preservation": "Exact Unity collider buffers extracted read-only for13 props;9 building collider OBJs transferred unchanged.",
+  "toolchain": "blocked_pending_windows_approval"
+}

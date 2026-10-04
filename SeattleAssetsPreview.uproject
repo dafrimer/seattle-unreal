@@ -1,0 +1,10 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Asset inspection",
+  "Description": "Asset inspection only while native SeattleUnreal runtime build is blocked. Not playable parity.",
+  "Plugins": [
+    {"Name":"PythonScriptPlugin","Enabled":true},
+    {"Name":"EditorScriptingUtilities","Enabled":true}
+  ]
+}

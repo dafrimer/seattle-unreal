@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "assetPreviewOnly": true,
+  "nativeRuntimeCompiled": false,
+  "gameplayVerified": false,
+  "views": [
+    {
+      "id": "street-entry",
+      "path": "H:\\Projects\\seattle-unreal\\Evidence\\unreal-assets-street-entry.png",
+      "bytes": 1672642,
+      "position": {
+        "x": -3309.0240000000003,
+        "y": -1152.18,
+        "z": 170.0
+      },
+      "target": {
+        "x": 6500.0,
+        "y": -300.0,
+        "z": 800.0
+      }
+    },
+    {
+      "id": "hotel-corner",
+      "path": "H:\\Projects\\seattle-unreal\\Evidence\\unreal-assets-hotel-corner.png",
+      "bytes": 1635503,
+      "position": {
+        "x": 5400.0,
+        "y": -600.0,
+        "z": 200.0
+      },
+      "target": {
+        "x": 8500.0,
+        "y": 2300.0,
+        "z": 1200.0
+      }
+    },
+    {
+      "id": "overview",
+      "path": "H:\\Projects\\seattle-unreal\\Evidence\\unreal-assets-overview.png",
+      "bytes": 934858,
+      "position": {
+        "x": -19500.0,
+        "y": -18000.0,
+        "z": 20500.0
+      },
+      "target": {
+        "x": 4000.0,
+        "y": 1200.0,
+        "z": 6800.0
+      }
+    }
+  ],
+  "error": null,
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "disclosure": "Actual Unreal editor asset renders. Playable migration remains blocked by missing C++ compiler/SDK approval."
+}

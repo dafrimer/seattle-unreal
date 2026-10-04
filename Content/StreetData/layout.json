@@ -1,0 +1,382 @@
+{
+  "schemaVersion": 1,
+  "title": "FIFTH / UNIVERSITY",
+  "disclosure": "Stylized reconstruction; mapped footprints, inferred architectural details. No surveyed accuracy claim.",
+  "coordinateSystem": "Unreal centimeters: X=Unity Z, Y=Unity X, Z=Unity Y",
+  "spawn": {
+    "x": -3309.0240000000003,
+    "y": -1152.18,
+    "z": 20.0
+  },
+  "spawnYaw": 4.5,
+  "walkRoute": [
+    {
+      "x": -3309.0240000000003,
+      "y": -1152.18,
+      "z": 20.0
+    },
+    {
+      "x": -2815.126,
+      "y": -1113.182,
+      "z": 20.0
+    },
+    {
+      "x": -2321.229,
+      "y": -1074.184,
+      "z": 20.0
+    },
+    {
+      "x": -1827.3319999999999,
+      "y": -1035.186,
+      "z": 20.0
+    },
+    {
+      "x": -1333.434,
+      "y": -996.1880000000001,
+      "z": 20.0
+    },
+    {
+      "x": -839.537,
+      "y": -957.1899999999999,
+      "z": 20.0
+    },
+    {
+      "x": -345.639,
+      "y": -918.192,
+      "z": 20.0
+    },
+    {
+      "x": 148.258,
+      "y": -879.1940000000001,
+      "z": 20.0
+    },
+    {
+      "x": 642.1560000000001,
+      "y": -840.1949999999999,
+      "z": 20.0
+    },
+    {
+      "x": 1136.053,
+      "y": -801.197,
+      "z": 20.0
+    },
+    {
+      "x": 1629.9510000000002,
+      "y": -762.1990000000001,
+      "z": 20.0
+    },
+    {
+      "x": 2123.848,
+      "y": -723.201,
+      "z": 20.0
+    },
+    {
+      "x": 2617.746,
+      "y": -684.203,
+      "z": 20.0
+    },
+    {
+      "x": 3111.643,
+      "y": -645.2049999999999,
+      "z": 20.0
+    },
+    {
+      "x": 3605.54,
+      "y": -606.207,
+      "z": 20.0
+    },
+    {
+      "x": 4099.438,
+      "y": -567.209,
+      "z": 20.0
+    },
+    {
+      "x": 4593.332,
+      "y": -528.1659999999999,
+      "z": 20.0
+    },
+    {
+      "x": 5087.083,
+      "y": -487.36300000000006,
+      "z": 20.0
+    },
+    {
+      "x": 5580.835,
+      "y": -446.55899999999997,
+      "z": 20.0
+    },
+    {
+      "x": 6074.7390000000005,
+      "y": -407.68899999999996,
+      "z": 20.0
+    },
+    {
+      "x": 6568.782,
+      "y": -370.578,
+      "z": 20.0
+    },
+    {
+      "x": 7062.646,
+      "y": -331.171,
+      "z": 20.0
+    },
+    {
+      "x": 7556.5,
+      "y": -291.62,
+      "z": 20.0
+    },
+    {
+      "x": 8050.353,
+      "y": -252.068,
+      "z": 20.0
+    },
+    {
+      "x": 8544.207,
+      "y": -212.51600000000002,
+      "z": 20.0
+    },
+    {
+      "x": 9038.06,
+      "y": -172.965,
+      "z": 20.0
+    },
+    {
+      "x": 9531.914,
+      "y": -133.413,
+      "z": 20.0
+    },
+    {
+      "x": 10025.767,
+      "y": -93.861,
+      "z": 20.0
+    },
+    {
+      "x": 10519.62,
+      "y": -54.31,
+      "z": 20.0
+    },
+    {
+      "x": 11013.474,
+      "y": -14.758,
+      "z": 20.0
+    },
+    {
+      "x": 11507.327,
+      "y": 24.794,
+      "z": 20.0
+    },
+    {
+      "x": 12001.184000000001,
+      "y": 64.298,
+      "z": 20.0
+    },
+    {
+      "x": 12495.140000000001,
+      "y": 102.55099999999999,
+      "z": 20.0
+    },
+    {
+      "x": 12989.096000000001,
+      "y": 140.804,
+      "z": 20.0
+    }
+  ],
+  "views": [
+    {
+      "id": "reference-1",
+      "position": {
+        "x": 69.91000000000001,
+        "y": -885.38,
+        "z": 170.0
+      },
+      "target": {
+        "x": 2736.705,
+        "y": 488.73800000000006,
+        "z": 170.0
+      },
+      "fov": 64.0,
+      "provenance": "Road-snapped source GPS; viewing direction fitted from registered camera poses; not exact image registration. Source cad33a13-5744-4dec-a3fa-610b19f8d32b"
+    },
+    {
+      "id": "reference-2",
+      "position": {
+        "x": 1252.85,
+        "y": -791.9749999999999,
+        "z": 170.0
+      },
+      "target": {
+        "x": 3908.2740000000003,
+        "y": 603.993,
+        "z": 170.0
+      },
+      "fov": 64.0,
+      "provenance": "Road-snapped source GPS; viewing direction fitted from registered camera poses; not exact image registration. Source ac31d3e4-4d5e-4065-a0db-4f718fb7b899"
+    },
+    {
+      "id": "reference-3",
+      "position": {
+        "x": 2132.588,
+        "y": -722.511,
+        "z": 170.0
+      },
+      "target": {
+        "x": 4799.89,
+        "y": 650.624,
+        "z": 170.0
+      },
+      "fov": 64.0,
+      "provenance": "Road-snapped source GPS; viewing direction fitted from registered camera poses; not exact image registration. Source a60bdb00-1632-423b-bcca-77d3b3c5f6c9"
+    },
+    {
+      "id": "reference-4",
+      "position": {
+        "x": 3140.6110000000003,
+        "y": -642.917,
+        "z": 170.0
+      },
+      "target": {
+        "x": 5806.764,
+        "y": 732.448,
+        "z": 170.0
+      },
+      "fov": 64.0,
+      "provenance": "Road-snapped source GPS; viewing direction fitted from registered camera poses; not exact image registration. Source 041a5cb8-1e6b-4c52-a261-e51b550d5e32"
+    },
+    {
+      "id": "reference-5",
+      "position": {
+        "x": 3938.841,
+        "y": -579.889,
+        "z": 170.0
+      },
+      "target": {
+        "x": 6611.494999999999,
+        "y": 782.798,
+        "z": 170.0
+      },
+      "fov": 64.0,
+      "provenance": "Road-snapped source GPS; viewing direction fitted from registered camera poses; not exact image registration. Source 84a5ff39-63e8-456c-8f0f-b193a0bff827"
+    },
+    {
+      "id": "reference-6",
+      "position": {
+        "x": 4965.542,
+        "y": -497.40700000000004,
+        "z": 170.0
+      },
+      "target": {
+        "x": 7641.294000000001,
+        "y": 859.189,
+        "z": 170.0
+      },
+      "fov": 64.0,
+      "provenance": "Road-snapped source GPS; viewing direction fitted from registered camera poses; not exact image registration. Source 5281e919-8e15-4e00-9b99-681d051a0453"
+    },
+    {
+      "id": "reference-7",
+      "position": {
+        "x": 5847.737999999999,
+        "y": -424.74100000000004,
+        "z": 170.0
+      },
+      "target": {
+        "x": 8516.995,
+        "y": 944.59,
+        "z": 170.0
+      },
+      "fov": 64.0,
+      "provenance": "Road-snapped source GPS; viewing direction fitted from registered camera poses; not exact image registration. Source 8412d76f-692a-407e-8cb7-5a1a7c173b39"
+    },
+    {
+      "id": "street-entry",
+      "position": {
+        "x": -3309.0240000000003,
+        "y": -1152.18,
+        "z": 170.0
+      },
+      "target": {
+        "x": 6500.0,
+        "y": -300.0,
+        "z": 800.0
+      },
+      "fov": 66.0,
+      "provenance": "Authored walkthrough view"
+    },
+    {
+      "id": "hotel-corner",
+      "position": {
+        "x": 5400.0,
+        "y": -600.0,
+        "z": 200.0
+      },
+      "target": {
+        "x": 8500.0,
+        "y": 2300.0,
+        "z": 1200.0
+      },
+      "fov": 62.0,
+      "provenance": "Authored landmark view"
+    },
+    {
+      "id": "overview",
+      "position": {
+        "x": -19500.0,
+        "y": -18000.0,
+        "z": 20500.0
+      },
+      "target": {
+        "x": 4000.0,
+        "y": 1200.0,
+        "z": 6800.0
+      },
+      "fov": 62.0,
+      "provenance": "Authored overview; inferred height profiles visible"
+    }
+  ],
+  "wallProbes": [
+    {
+      "id": "osm-35824976",
+      "start": {
+        "x": 10499.361,
+        "y": 562.8580000000001,
+        "z": 40.0
+      },
+      "direction": {
+        "x": -0.07781,
+        "y": 0.99697,
+        "z": 0.0
+      },
+      "distance": 600.0
+    },
+    {
+      "id": "osm-37585125",
+      "start": {
+        "x": -756.9480000000001,
+        "y": -1700.28,
+        "z": 40.0
+      },
+      "direction": {
+        "x": 0.07383,
+        "y": -0.99727,
+        "z": 0.0
+      },
+      "distance": 600.0
+    },
+    {
+      "id": "osm-107124282",
+      "start": {
+        "x": 9726.784000000001,
+        "y": -1056.841,
+        "z": 40.0
+      },
+      "direction": {
+        "x": 0.0681,
+        "y": -0.99768,
+        "z": 0.0
+      },
+      "distance": 600.0
+    }
+  ],
+  "buildingCount": 9,
+  "propCount": 88
+}

@@ -1,0 +1,106 @@
+{
+  "photographs": [
+    {
+      "id": "cad33a13-5744-4dec-a3fa-610b19f8d32b",
+      "producer": "slinky309",
+      "license": "CC-BY-SA-4.0",
+      "url": "https://panoramax.openstreetmap.fr/images/ca/d3/3a/13/5744-4dec-a3fa-610b19f8d32b.jpg",
+      "position": [
+        -122.3342573,
+        47.6090842
+      ],
+      "role": "Photographic reference, not runtime texture or neural geometry"
+    },
+    {
+      "id": "ac31d3e4-4d5e-4065-a0db-4f718fb7b899",
+      "producer": "slinky309",
+      "license": "CC-BY-SA-4.0",
+      "url": "https://panoramax.openstreetmap.fr/images/ac/31/d3/e4/4d5e-4065-a0db-4f718fb7b899.jpg",
+      "position": [
+        -122.3341684,
+        47.6089959
+      ],
+      "role": "Photographic reference, not runtime texture or neural geometry"
+    },
+    {
+      "id": "a60bdb00-1632-423b-bcca-77d3b3c5f6c9",
+      "producer": "slinky309",
+      "license": "CC-BY-SA-4.0",
+      "url": "https://panoramax.openstreetmap.fr/images/a6/0b/db/00/1632-423b-bcca-77d3b3c5f6c9.jpg",
+      "position": [
+        -122.3340839,
+        47.6089378
+      ],
+      "role": "Photographic reference, not runtime texture or neural geometry"
+    },
+    {
+      "id": "041a5cb8-1e6b-4c52-a261-e51b550d5e32",
+      "producer": "slinky309",
+      "license": "CC-BY-SA-4.0",
+      "url": "https://panoramax.openstreetmap.fr/images/04/1a/5c/b8/1e6b-4c52-a261-e51b550d5e32.jpg",
+      "position": [
+        -122.3340146,
+        47.6088599
+      ],
+      "role": "Photographic reference, not runtime texture or neural geometry"
+    },
+    {
+      "id": "84a5ff39-63e8-456c-8f0f-b193a0bff827",
+      "producer": "slinky309",
+      "license": "CC-BY-SA-4.0",
+      "url": "https://panoramax.openstreetmap.fr/images/84/a5/ff/39/63e8-456c-8f0f-b193a0bff827.jpg",
+      "position": [
+        -122.3339668,
+        47.6087953
+      ],
+      "role": "Photographic reference, not runtime texture or neural geometry"
+    },
+    {
+      "id": "5281e919-8e15-4e00-9b99-681d051a0453",
+      "producer": "slinky309",
+      "license": "CC-BY-SA-4.0",
+      "url": "https://panoramax.openstreetmap.fr/images/52/81/e9/19/8e15-4e00-9b99-681d051a0453.jpg",
+      "position": [
+        -122.3338845,
+        47.608721
+      ],
+      "role": "Photographic reference, not runtime texture or neural geometry"
+    },
+    {
+      "id": "8412d76f-692a-407e-8cb7-5a1a7c173b39",
+      "producer": "slinky309",
+      "license": "CC-BY-SA-4.0",
+      "url": "https://panoramax.openstreetmap.fr/images/84/12/d7/6f/692a-407e-8cb7-5a1a7c173b39.jpg",
+      "position": [
+        -122.3338027,
+        47.6086611
+      ],
+      "role": "Photographic reference, not runtime texture or neural geometry"
+    }
+  ],
+  "photograph_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "map": {
+    "source": "OpenStreetMap contributors",
+    "license": "ODbL-1.0",
+    "license_url": "https://www.openstreetmap.org/copyright",
+    "database_timestamp": "2026-09-13T05:30:30Z",
+    "preserved_query_result": "openstreetmap.json"
+  },
+  "interpretation": "Footprints and available heights from OSM; roof profiles, detailed facades, road widths, level ground, trees and props are authored approximations. No Gaussian data or neural weights are included. Review source licences before redistribution.",
+  "projection": {
+    "origin_lon_lat": [
+      -122.3342573,
+      47.6090842
+    ],
+    "east_scale": 75050.30732944794,
+    "north_scale": 111320,
+    "right_east_north": [
+      -0.8098494776255333,
+      -0.5866377277244031
+    ],
+    "forward_east_north": [
+      0.5866377277244031,
+      -0.8098494776255333
+    ]
+  }
+}

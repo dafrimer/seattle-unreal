@@ -1,0 +1,7404 @@
+{
+  "schemaVersion": 1,
+  "sourceRoot": "H:\\Projects\\seattle-rebuilt\\AssetsExport",
+  "materials": [
+    {
+      "name": "office-stone",
+      "source": "Poly Haven CC0: concrete_wall_006",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_diff_1k.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_nor_gl_1k.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_rough_1k.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_metallic_smoothness.png",
+      "occlusion": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_ao_1k.png",
+      "baseColor": {
+        "r": 0.9599999785423279,
+        "g": 1.0,
+        "b": 1.0499999523162842,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "normalScale": 0.3199999928474426,
+      "smoothnessScale": 1.0,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "roof",
+      "source": "Poly Haven CC0: asphalt_02",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\asphalt_02_diff_1k.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\asphalt_02_nor_gl_1k.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\asphalt_02_rough_1k.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\asphalt_02_metallic_smoothness.png",
+      "occlusion": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\asphalt_02_ao_1k.png",
+      "baseColor": {
+        "r": 0.9799999594688416,
+        "g": 1.0,
+        "b": 1.0199999809265137,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 0.3333333432674408,
+        "y": 0.3333333432674408
+      },
+      "normalScale": 0.550000011920929,
+      "smoothnessScale": 0.699999988079071,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "window-reveal",
+      "source": "Original analytic Coating",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.10499996691942215,
+        "g": 0.11499997228384018,
+        "b": 0.11499997228384018,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.30000001192092896,
+      "smoothnessScale": 0.550000011920929,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "aluminium",
+      "source": "Original analytic BrushedMetal",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Brushed-Metal_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Brushed-Metal_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Brushed-Metal_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Brushed-Metal_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.7899999618530273,
+        "g": 0.8100000023841858,
+        "b": 0.8199999928474426,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.20000000298023224,
+      "smoothnessScale": 1.0,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "glass",
+      "source": "Original analytic Glass",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Glazing_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Glazing_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Glazing_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Glazing_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.2799999713897705,
+        "g": 0.35999998450279236,
+        "b": 0.38999995589256287,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.18000000715255737,
+      "smoothnessScale": 1.0,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "interior-shadow",
+      "source": "Original analytic Interior",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Interior-Blinds_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Interior-Blinds_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Interior-Blinds_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Interior-Blinds_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.13999995589256287,
+        "g": 0.15999996662139893,
+        "b": 0.16999995708465576,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.18000000715255737,
+      "smoothnessScale": 0.44999998807907104,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "interior-wall",
+      "source": "Original analytic Interior",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Interior-Blinds_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Interior-Blinds_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Interior-Blinds_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Interior-Blinds_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.5899999737739563,
+        "g": 0.5699999332427979,
+        "b": 0.5,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.2199999988079071,
+      "smoothnessScale": 0.550000011920929,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "bronze",
+      "source": "Original analytic BrushedMetal",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Brushed-Metal_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Brushed-Metal_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Brushed-Metal_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Brushed-Metal_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.6599999666213989,
+        "g": 0.47999995946884155,
+        "b": 0.2499999701976776,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.2199999988079071,
+      "smoothnessScale": 0.800000011920929,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "glass-shadow",
+      "source": "Original analytic Glass",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Glazing_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Glazing_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Glazing_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Glazing_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.18999996781349182,
+        "g": 0.2499999701976776,
+        "b": 0.2799999713897705,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.2199999988079071,
+      "smoothnessScale": 0.9300000071525574,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "glass-light",
+      "source": "Original analytic Glass",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Glazing_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Glazing_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Glazing_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Glazing_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.35999998450279236,
+        "g": 0.429999977350235,
+        "b": 0.44999998807907104,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.1599999964237213,
+      "smoothnessScale": 1.0,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "warm-interior",
+      "source": "Original analytic Interior",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Interior-Blinds_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Interior-Blinds_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Interior-Blinds_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Interior-Blinds_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.6700000166893005,
+        "g": 0.5699999332427979,
+        "b": 0.4099999666213989,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.2800000011920929,
+      "smoothnessScale": 0.6499999761581421,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "light-stone",
+      "source": "Poly Haven CC0: concrete_wall_006",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_diff_1k.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_nor_gl_1k.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_rough_1k.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_metallic_smoothness.png",
+      "occlusion": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_ao_1k.png",
+      "baseColor": {
+        "r": 1.100000023841858,
+        "g": 1.059999942779541,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "normalScale": 0.3400000035762787,
+      "smoothnessScale": 0.8999999761581421,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "concrete",
+      "source": "Poly Haven CC0: concrete_wall_006",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_diff_1k.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_nor_gl_1k.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_rough_1k.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_metallic_smoothness.png",
+      "occlusion": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_ao_1k.png",
+      "baseColor": {
+        "r": 0.9699999690055847,
+        "g": 1.0,
+        "b": 1.0399999618530273,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "normalScale": 0.550000011920929,
+      "smoothnessScale": 0.8500000238418579,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "metal",
+      "source": "Original analytic Coating",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.11499997228384018,
+        "g": 0.1499999761581421,
+        "b": 0.14499995112419128,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.20000000298023224,
+      "smoothnessScale": 0.8999999761581421,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "sign-white",
+      "source": "Original analytic Coating",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.9200000166893005,
+        "g": 0.9100000262260437,
+        "b": 0.8500000238418579,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.11999999731779099,
+      "smoothnessScale": 1.0,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "sandstone",
+      "source": "Poly Haven CC0: sandstone_cracks",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\sandstone_cracks_diff_1k.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\sandstone_cracks_nor_gl_1k.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\sandstone_cracks_rough_1k.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\sandstone_cracks_metallic_smoothness.png",
+      "occlusion": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\sandstone_cracks_ao_1k.png",
+      "baseColor": {
+        "r": 1.0,
+        "g": 0.9599999785423279,
+        "b": 0.9100000262260437,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "normalScale": 0.2800000011920929,
+      "smoothnessScale": 0.8999999761581421,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "sandstone-light",
+      "source": "Poly Haven CC0: sandstone_cracks",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\sandstone_cracks_diff_1k.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\sandstone_cracks_nor_gl_1k.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\sandstone_cracks_rough_1k.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\sandstone_cracks_metallic_smoothness.png",
+      "occlusion": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\sandstone_cracks_ao_1k.png",
+      "baseColor": {
+        "r": 1.0499999523162842,
+        "g": 1.0399999618530273,
+        "b": 1.0199999809265137,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "normalScale": 0.2199999988079071,
+      "smoothnessScale": 0.8999999761581421,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "hotel-stone",
+      "source": "Poly Haven CC0: concrete_wall_006",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_diff_1k.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_nor_gl_1k.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_rough_1k.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_metallic_smoothness.png",
+      "occlusion": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_ao_1k.png",
+      "baseColor": {
+        "r": 1.0700000524520874,
+        "g": 1.0299999713897705,
+        "b": 0.9599999785423279,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "normalScale": 0.3499999940395355,
+      "smoothnessScale": 0.8500000238418579,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "theatre-red",
+      "source": "Original analytic Coating",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.429999977350235,
+        "g": 0.054999977350234985,
+        "b": 0.03999999910593033,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.17000000178813934,
+      "smoothnessScale": 0.8999999761581421,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "rubber",
+      "source": "Original analytic Coating",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.06499997526407242,
+        "g": 0.06899996846914291,
+        "b": 0.06699997931718826,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.3499999940395355,
+      "smoothnessScale": 0.2800000011920929,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "yellow-marking",
+      "source": "Original analytic RoadPaint",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Road-Paint_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Road-Paint_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Road-Paint_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Road-Paint_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.9399999976158142,
+        "g": 0.6700000166893005,
+        "b": 0.10999996215105057,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.25,
+      "smoothnessScale": 0.8999999761581421,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "wood",
+      "source": "Poly Haven CC0: brown_planks_04",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\brown_planks_04_diff_1k.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\brown_planks_04_nor_gl_1k.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\brown_planks_04_rough_1k.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\brown_planks_04_metallic_smoothness.png",
+      "occlusion": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\brown_planks_04_ao_1k.png",
+      "baseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.5,
+      "smoothnessScale": 0.800000011920929,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "lamp-globe",
+      "source": "Original analytic Coating",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.9200000166893005,
+        "g": 0.8899999856948853,
+        "b": 0.7599999904632568,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.07999999821186066,
+      "smoothnessScale": 1.0,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "soil",
+      "source": "Original analytic Earth",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Earth-Grains_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Earth-Grains_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Earth-Grains_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Earth-Grains_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.19999995827674866,
+        "g": 0.1549999713897705,
+        "b": 0.09999997168779373,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.800000011920929,
+      "smoothnessScale": 0.5,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "bark",
+      "source": "Poly Haven CC0: bark_brown_01",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\bark_brown_01_diff_1k.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\bark_brown_01_nor_gl_1k.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\bark_brown_01_rough_1k.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\bark_brown_01_metallic_smoothness.png",
+      "occlusion": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\bark_brown_01_ao_1k.png",
+      "baseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.8999999761581421,
+      "smoothnessScale": 0.6499999761581421,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "leaf-vein",
+      "source": "Original analytic Leaf",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Leaf-Veins_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Leaf-Veins_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Leaf-Veins_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Leaf-Veins_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.35999998450279236,
+        "g": 0.4399999678134918,
+        "b": 0.17999997735023499,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.30000001192092896,
+      "smoothnessScale": 0.800000011920929,
+      "twoSidedFoliage": true
+    },
+    {
+      "name": "leaf",
+      "source": "Original analytic Leaf",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Leaf-Veins_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Leaf-Veins_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Leaf-Veins_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Leaf-Veins_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.2099999487400055,
+        "g": 0.3399999737739563,
+        "b": 0.09999997168779373,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.44999998807907104,
+      "smoothnessScale": 0.8500000238418579,
+      "twoSidedFoliage": true
+    },
+    {
+      "name": "leaf-dark",
+      "source": "Original analytic Leaf",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Leaf-Veins_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Leaf-Veins_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Leaf-Veins_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Leaf-Veins_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.11499997228384018,
+        "g": 0.23499995470046997,
+        "b": 0.06499997526407242,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.5,
+      "smoothnessScale": 0.8999999761581421,
+      "twoSidedFoliage": true
+    },
+    {
+      "name": "leaf-light",
+      "source": "Original analytic Leaf",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Leaf-Veins_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Leaf-Veins_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Leaf-Veins_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Leaf-Veins_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.32999998331069946,
+        "g": 0.429999977350235,
+        "b": 0.1499999761581421,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.4000000059604645,
+      "smoothnessScale": 0.800000011920929,
+      "twoSidedFoliage": true
+    },
+    {
+      "name": "signal-green",
+      "source": "Original analytic Coating",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.02500000037252903,
+        "g": 0.3999999761581421,
+        "b": 0.18999996781349182,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.07999999821186066,
+      "smoothnessScale": 1.0,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "signal-amber",
+      "source": "Original analytic Coating",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.699999988079071,
+        "g": 0.3099999725818634,
+        "b": 0.019999999552965164,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.07999999821186066,
+      "smoothnessScale": 1.0,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "signal-red",
+      "source": "Original analytic Coating",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.5799999833106995,
+        "g": 0.03500000014901161,
+        "b": 0.017999999225139618,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.07999999821186066,
+      "smoothnessScale": 1.0,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "sign-green",
+      "source": "Original analytic Coating",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Coated-Finish_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.044999971985816956,
+        "g": 0.22999995946884155,
+        "b": 0.16999995708465576,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.11999999731779099,
+      "smoothnessScale": 1.0,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "curb",
+      "source": "Poly Haven CC0: concrete_wall_006",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_diff_1k.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_nor_gl_1k.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_rough_1k.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_metallic_smoothness.png",
+      "occlusion": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_ao_1k.png",
+      "baseColor": {
+        "r": 1.0399999618530273,
+        "g": 1.0399999618530273,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "normalScale": 0.47999998927116394,
+      "smoothnessScale": 0.75,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "ground",
+      "source": "Poly Haven CC0: concrete_wall_006",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_diff_1k.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_nor_gl_1k.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_rough_1k.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_metallic_smoothness.png",
+      "occlusion": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_wall_006_ao_1k.png",
+      "baseColor": {
+        "r": 0.9399999976158142,
+        "g": 0.9799999594688416,
+        "b": 0.9599999785423279,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "normalScale": 0.44999998807907104,
+      "smoothnessScale": 0.6499999761581421,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "marking",
+      "source": "Original analytic RoadPaint",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Road-Paint_albedo.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Road-Paint_normal.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Road-Paint_roughness.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\Road-Paint_metallic_smoothness.png",
+      "occlusion": "",
+      "baseColor": {
+        "r": 0.8700000047683716,
+        "g": 0.8600000143051147,
+        "b": 0.7899999618530273,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "normalScale": 0.25,
+      "smoothnessScale": 0.8999999761581421,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "road",
+      "source": "Poly Haven CC0: asphalt_02",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\asphalt_02_diff_1k.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\asphalt_02_nor_gl_1k.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\asphalt_02_rough_1k.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\asphalt_02_metallic_smoothness.png",
+      "occlusion": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\asphalt_02_ao_1k.png",
+      "baseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 0.3333333432674408,
+        "y": 0.3333333432674408
+      },
+      "normalScale": 0.7200000286102295,
+      "smoothnessScale": 1.0,
+      "twoSidedFoliage": false
+    },
+    {
+      "name": "sidewalk",
+      "source": "Poly Haven CC0: concrete_pavement",
+      "albedo": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_pavement_diff_1k.png",
+      "normalOpenGL": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_pavement_nor_gl_1k.png",
+      "roughness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_pavement_rough_1k.png",
+      "metallicSmoothness": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_pavement_metallic_smoothness.png",
+      "occlusion": "H:\\Projects\\seattle-unreal\\SourceData\\Textures\\concrete_pavement_ao_1k.png",
+      "baseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "tiling": {
+        "x": 0.5555555820465088,
+        "y": 0.5555555820465088
+      },
+      "normalScale": 0.6499999761581421,
+      "smoothnessScale": 0.8500000238418579,
+      "twoSidedFoliage": false
+    }
+  ],
+  "meshes": [
+    {
+      "id": "osm-35824879",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-35824879.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_35824879.fbx",
+      "materials": [
+        "concrete",
+        "light-stone",
+        "roof",
+        "window-reveal",
+        "aluminium",
+        "glass-light",
+        "interior-shadow",
+        "interior-wall",
+        "warm-interior",
+        "glass",
+        "metal"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_35824879_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-35824879-collision.obj",
+      "bounds": {
+        "min": {
+          "x": -2469.4669999999996,
+          "y": -2346.142,
+          "z": 0.0
+        },
+        "max": {
+          "x": 2468.926,
+          "y": 2346.311,
+          "z": 15600.0
+        }
+      },
+      "kind": "building",
+      "nanite": true,
+      "collisionBounds": {
+        "min": {
+          "x": -2451.524,
+          "y": -2328.198,
+          "z": 0.0
+        },
+        "max": {
+          "x": 2450.982,
+          "y": 2328.368,
+          "z": 15600.0
+        }
+      }
+    },
+    {
+      "id": "osm-35824976",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-35824976.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_35824976.fbx",
+      "materials": [
+        "hotel-stone",
+        "roof",
+        "window-reveal",
+        "bronze",
+        "glass",
+        "interior-shadow",
+        "interior-wall",
+        "light-stone",
+        "glass-shadow",
+        "warm-interior",
+        "concrete",
+        "metal",
+        "aluminium",
+        "sign-white"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_35824976_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-35824976-collision.obj",
+      "bounds": {
+        "min": {
+          "x": -4106.696,
+          "y": -4188.235000000001,
+          "z": 0.0
+        },
+        "max": {
+          "x": 3557.827,
+          "y": 4157.949,
+          "z": 4600.0
+        }
+      },
+      "kind": "building",
+      "nanite": true,
+      "collisionBounds": {
+        "min": {
+          "x": -4063.8269999999998,
+          "y": -4145.365000000001,
+          "z": 0.0
+        },
+        "max": {
+          "x": 3514.956,
+          "y": 4115.079,
+          "z": 4600.0
+        }
+      }
+    },
+    {
+      "id": "osm-37585125",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-37585125.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_37585125.fbx",
+      "materials": [
+        "sandstone",
+        "roof",
+        "window-reveal",
+        "bronze",
+        "glass",
+        "interior-shadow",
+        "interior-wall",
+        "glass-shadow",
+        "sandstone-light",
+        "warm-interior",
+        "concrete",
+        "metal",
+        "aluminium",
+        "theatre-red",
+        "sign-white"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_37585125_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-37585125-collision.obj",
+      "bounds": {
+        "min": {
+          "x": -5744.767,
+          "y": -2359.8559999999998,
+          "z": 0.0
+        },
+        "max": {
+          "x": 5334.599999999999,
+          "y": 2224.969,
+          "z": 2580.0
+        }
+      },
+      "kind": "building",
+      "nanite": true,
+      "collisionBounds": {
+        "min": {
+          "x": -5701.884,
+          "y": -2316.974,
+          "z": 0.0
+        },
+        "max": {
+          "x": 5291.717,
+          "y": 2182.086,
+          "z": 2580.0
+        }
+      }
+    },
+    {
+      "id": "osm-107124282",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-107124282.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_107124282.fbx",
+      "materials": [
+        "office-stone",
+        "roof",
+        "window-reveal",
+        "aluminium",
+        "glass",
+        "interior-shadow",
+        "interior-wall",
+        "bronze",
+        "glass-shadow",
+        "glass-light",
+        "warm-interior",
+        "light-stone",
+        "concrete",
+        "metal",
+        "sign-white"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_107124282_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-107124282-collision.obj",
+      "bounds": {
+        "min": {
+          "x": -4103.624,
+          "y": -1905.2939999999999,
+          "z": 0.0
+        },
+        "max": {
+          "x": 2747.12,
+          "y": 2081.084,
+          "z": 8400.0
+        }
+      },
+      "kind": "building",
+      "nanite": true,
+      "collisionBounds": {
+        "min": {
+          "x": -4062.9240000000004,
+          "y": -1864.594,
+          "z": 0.0
+        },
+        "max": {
+          "x": 2706.439,
+          "y": 2040.4039999999998,
+          "z": 8400.0
+        }
+      }
+    },
+    {
+      "id": "osm-131705785",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-131705785.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_131705785.fbx",
+      "materials": [
+        "light-stone",
+        "roof",
+        "window-reveal",
+        "aluminium",
+        "glass",
+        "interior-shadow",
+        "interior-wall",
+        "bronze",
+        "glass-shadow",
+        "warm-interior",
+        "concrete",
+        "metal",
+        "sign-white"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_131705785_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-131705785-collision.obj",
+      "bounds": {
+        "min": {
+          "x": -3711.656,
+          "y": -2060.419,
+          "z": 0.0
+        },
+        "max": {
+          "x": 3832.3300000000004,
+          "y": 1805.1760000000002,
+          "z": 1500.0
+        }
+      },
+      "kind": "building",
+      "nanite": true,
+      "collisionBounds": {
+        "min": {
+          "x": -3684.7140000000004,
+          "y": -2033.426,
+          "z": 0.0
+        },
+        "max": {
+          "x": 3805.351,
+          "y": 1778.2150000000001,
+          "z": 1500.0
+        }
+      }
+    },
+    {
+      "id": "osm-232079314",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-232079314.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_232079314.fbx",
+      "materials": [
+        "sandstone",
+        "roof",
+        "window-reveal",
+        "bronze",
+        "glass",
+        "interior-shadow",
+        "interior-wall",
+        "glass-shadow",
+        "sandstone-light",
+        "warm-interior",
+        "concrete",
+        "metal",
+        "aluminium",
+        "sign-white"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_232079314_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-232079314-collision.obj",
+      "bounds": {
+        "min": {
+          "x": -1831.8370000000002,
+          "y": -1959.319,
+          "z": 0.0
+        },
+        "max": {
+          "x": 1819.857,
+          "y": 1955.91,
+          "z": 4400.0
+        }
+      },
+      "kind": "building",
+      "nanite": true,
+      "collisionBounds": {
+        "min": {
+          "x": -1788.966,
+          "y": -1916.449,
+          "z": 0.0
+        },
+        "max": {
+          "x": 1776.965,
+          "y": 1913.0389999999998,
+          "z": 4400.0
+        }
+      }
+    },
+    {
+      "id": "osm-358980801",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-358980801.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_358980801.fbx",
+      "materials": [
+        "office-stone",
+        "roof",
+        "window-reveal",
+        "aluminium",
+        "glass",
+        "interior-shadow",
+        "interior-wall",
+        "bronze",
+        "glass-shadow",
+        "warm-interior",
+        "light-stone",
+        "concrete",
+        "metal"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_358980801_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-358980801-collision.obj",
+      "bounds": {
+        "min": {
+          "x": -2992.5820000000003,
+          "y": -2033.276,
+          "z": 0.0
+        },
+        "max": {
+          "x": 2992.6310000000003,
+          "y": 2033.607,
+          "z": 10100.0
+        }
+      },
+      "kind": "building",
+      "nanite": true,
+      "collisionBounds": {
+        "min": {
+          "x": -2965.663,
+          "y": -2006.3580000000002,
+          "z": 0.0
+        },
+        "max": {
+          "x": 2965.712,
+          "y": 2006.689,
+          "z": 10100.0
+        }
+      }
+    },
+    {
+      "id": "osm-470300696",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-470300696.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_470300696.fbx",
+      "materials": [
+        "sandstone",
+        "roof",
+        "window-reveal",
+        "bronze",
+        "glass",
+        "interior-shadow",
+        "interior-wall",
+        "glass-shadow",
+        "sandstone-light",
+        "warm-interior",
+        "concrete",
+        "metal",
+        "aluminium",
+        "sign-white"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_470300696_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-470300696-collision.obj",
+      "bounds": {
+        "min": {
+          "x": -1036.313,
+          "y": -1892.516,
+          "z": 0.0
+        },
+        "max": {
+          "x": 1047.8249999999998,
+          "y": 1948.069,
+          "z": 2400.0
+        }
+      },
+      "kind": "building",
+      "nanite": true,
+      "collisionBounds": {
+        "min": {
+          "x": -993.4205999999999,
+          "y": -1849.645,
+          "z": 0.0
+        },
+        "max": {
+          "x": 1004.9540000000001,
+          "y": 1856.633,
+          "z": 2400.0
+        }
+      }
+    },
+    {
+      "id": "osm-686348108",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-686348108.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_686348108.fbx",
+      "materials": [
+        "office-stone",
+        "roof",
+        "metal",
+        "glass-light",
+        "interior-shadow",
+        "aluminium",
+        "glass",
+        "sign-white"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\osm_686348108_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\osm-686348108-collision.obj",
+      "bounds": {
+        "min": {
+          "x": -4650.64,
+          "y": -4663.672,
+          "z": 0.0
+        },
+        "max": {
+          "x": 6433.279,
+          "y": 3736.4400000000005,
+          "z": 25900.0
+        }
+      },
+      "kind": "building",
+      "nanite": true,
+      "collisionBounds": {
+        "min": {
+          "x": -4632.697,
+          "y": -4645.728,
+          "z": 0.0
+        },
+        "max": {
+          "x": 6415.334,
+          "y": 3718.4959999999996,
+          "z": 25876.0
+        }
+      }
+    },
+    {
+      "id": "prop-tree-0",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-tree-0.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_tree_0.fbx",
+      "materials": [
+        "bark",
+        "leaf-vein",
+        "leaf",
+        "leaf-dark",
+        "leaf-light",
+        "metal",
+        "bronze"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_tree_0_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-tree-0.obj",
+      "bounds": {
+        "min": {
+          "x": -296.7013,
+          "y": -225.7945,
+          "z": -0.6221
+        },
+        "max": {
+          "x": 229.83570000000003,
+          "y": 272.0138,
+          "z": 704.3538
+        }
+      },
+      "kind": "prop",
+      "nanite": false,
+      "collisionBounds": {
+        "min": {
+          "x": -24.4975612,
+          "y": -24.494509400000002,
+          "z": -0.611223187
+        },
+        "max": {
+          "x": 24.4975612,
+          "y": 24.494509400000002,
+          "z": 514.3823150000001
+        }
+      }
+    },
+    {
+      "id": "prop-tree-1",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-tree-1.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_tree_1.fbx",
+      "materials": [
+        "bark",
+        "leaf-vein",
+        "leaf-dark",
+        "leaf",
+        "leaf-light",
+        "metal",
+        "bronze"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_tree_1_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-tree-1.obj",
+      "bounds": {
+        "min": {
+          "x": -135.1243,
+          "y": -141.5003,
+          "z": -0.49040000000000006
+        },
+        "max": {
+          "x": 169.4685,
+          "y": 167.9128,
+          "z": 831.9088
+        }
+      },
+      "kind": "prop",
+      "nanite": false,
+      "collisionBounds": {
+        "min": {
+          "x": -20.496614299999997,
+          "y": -20.4972565,
+          "z": -0.5006142889999999
+        },
+        "max": {
+          "x": 20.496614299999997,
+          "y": 20.4972565,
+          "z": 710.0734229999999
+        }
+      }
+    },
+    {
+      "id": "prop-tree-2",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-tree-2.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_tree_2.fbx",
+      "materials": [
+        "bark",
+        "leaf-vein",
+        "leaf",
+        "leaf-dark",
+        "leaf-light",
+        "metal",
+        "bronze"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_tree_2_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-tree-2.obj",
+      "bounds": {
+        "min": {
+          "x": -231.34369999999998,
+          "y": -294.779,
+          "z": -0.8702
+        },
+        "max": {
+          "x": 203.515,
+          "y": 276.59340000000003,
+          "z": 741.7991
+        }
+      },
+      "kind": "prop",
+      "nanite": false,
+      "collisionBounds": {
+        "min": {
+          "x": -24.994775699999998,
+          "y": -26.6488522,
+          "z": -0.863225572
+        },
+        "max": {
+          "x": 24.994775699999998,
+          "y": 24.9899179,
+          "z": 364.95273099999997
+        }
+      }
+    },
+    {
+      "id": "prop-lamp",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-lamp.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_lamp.fbx",
+      "materials": [
+        "metal",
+        "bronze",
+        "lamp-globe"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_lamp_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-lamp.obj",
+      "bounds": {
+        "min": {
+          "x": -38.7111,
+          "y": -38.7111,
+          "z": 0.0
+        },
+        "max": {
+          "x": 38.7111,
+          "y": 38.7111,
+          "z": 588.0
+        }
+      },
+      "kind": "prop",
+      "nanite": false,
+      "collisionBounds": {
+        "min": {
+          "x": -28.0000001,
+          "y": -28.0000001,
+          "z": 0.0
+        },
+        "max": {
+          "x": 28.0000001,
+          "y": 28.0000001,
+          "z": 494.99998099999993
+        }
+      }
+    },
+    {
+      "id": "prop-bench",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-bench.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_bench.fbx",
+      "materials": [
+        "metal",
+        "bronze",
+        "wood"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_bench_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-bench.obj",
+      "bounds": {
+        "min": {
+          "x": -41.4754,
+          "y": -97.5,
+          "z": 0.0
+        },
+        "max": {
+          "x": 32.5,
+          "y": 97.5,
+          "z": 105.55000000000001
+        }
+      },
+      "kind": "prop",
+      "nanite": false,
+      "collisionBounds": {
+        "min": {
+          "x": -38.499999,
+          "y": -97.5000024,
+          "z": 0.0
+        },
+        "max": {
+          "x": 29.499998700000003,
+          "y": 97.5000024,
+          "z": 104.99999499999998
+        }
+      }
+    },
+    {
+      "id": "prop-signal",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-signal.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_signal.fbx",
+      "materials": [
+        "metal",
+        "yellow-marking",
+        "window-reveal",
+        "signal-green",
+        "bronze",
+        "signal-amber",
+        "signal-red",
+        "sign-white"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_signal_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-signal.obj",
+      "bounds": {
+        "min": {
+          "x": -25.0,
+          "y": -25.0,
+          "z": 0.0
+        },
+        "max": {
+          "x": 47.3,
+          "y": 360.0337,
+          "z": 586.8491
+        }
+      },
+      "kind": "prop",
+      "nanite": false,
+      "collisionBounds": {
+        "min": {
+          "x": -25.0,
+          "y": -25.0,
+          "z": 0.0
+        },
+        "max": {
+          "x": 25.0,
+          "y": 25.0,
+          "z": 570.000029
+        }
+      }
+    },
+    {
+      "id": "prop-bollard",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-bollard.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_bollard.fbx",
+      "materials": [
+        "metal",
+        "bronze",
+        "sign-white"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_bollard_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-bollard.obj",
+      "bounds": {
+        "min": {
+          "x": -17.0,
+          "y": -17.0,
+          "z": 0.0
+        },
+        "max": {
+          "x": 17.0,
+          "y": 17.0,
+          "z": 100.0
+        }
+      },
+      "kind": "prop",
+      "nanite": false,
+      "collisionBounds": {
+        "min": {
+          "x": -17.000000200000002,
+          "y": -17.000000200000002,
+          "z": 0.0
+        },
+        "max": {
+          "x": 17.000000200000002,
+          "y": 17.000000200000002,
+          "z": 100.0
+        }
+      }
+    },
+    {
+      "id": "prop-planter",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-planter.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_planter.fbx",
+      "materials": [
+        "concrete",
+        "light-stone",
+        "soil",
+        "metal",
+        "bark",
+        "leaf-vein",
+        "leaf",
+        "leaf-dark",
+        "leaf-light"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_planter_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-planter.obj",
+      "bounds": {
+        "min": {
+          "x": -65.0,
+          "y": -65.0,
+          "z": 0.0
+        },
+        "max": {
+          "x": 65.0,
+          "y": 65.0,
+          "z": 134.33870000000002
+        }
+      },
+      "kind": "prop",
+      "nanite": false,
+      "collisionBounds": {
+        "min": {
+          "x": -63.9999986,
+          "y": -63.9999986,
+          "z": 0.0
+        },
+        "max": {
+          "x": 63.9999986,
+          "y": 63.9999986,
+          "z": 81.9999993
+        }
+      }
+    },
+    {
+      "id": "prop-barrier",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-barrier.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_barrier.fbx",
+      "materials": [
+        "rubber",
+        "metal",
+        "bronze",
+        "yellow-marking",
+        "sign-white"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_barrier_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-barrier.obj",
+      "bounds": {
+        "min": {
+          "x": -47.0,
+          "y": -142.0,
+          "z": 0.0
+        },
+        "max": {
+          "x": 47.0,
+          "y": 142.0,
+          "z": 126.6984
+        }
+      },
+      "kind": "prop",
+      "nanite": false,
+      "collisionBounds": {
+        "min": {
+          "x": -46.9999999,
+          "y": -142.49999499999998,
+          "z": 0.0
+        },
+        "max": {
+          "x": 46.9999999,
+          "y": 142.49999499999998,
+          "z": 134.000003
+        }
+      }
+    },
+    {
+      "id": "prop-street-sign-5TH-AVE",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-street-sign-5TH-AVE.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_street_sign_5TH_AVE.fbx",
+      "materials": [
+        "metal",
+        "sign-white",
+        "sign-green",
+        "bronze"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_street_sign_5TH_AVE_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-street-sign-5TH-AVE.obj",
+      "bounds": {
+        "min": {
+          "x": -6.7,
+          "y": -77.75,
+          "z": 0.0
+        },
+        "max": {
+          "x": 6.7,
+          "y": 77.75,
+          "z": 372.0
+        }
+      },
+      "kind": "prop",
+      "nanite": false,
+      "collisionBounds": {
+        "min": {
+          "x": -8.08398053,
+          "y": -8.50000009,
+          "z": 0.0
+        },
+        "max": {
+          "x": 8.08398053,
+          "y": 8.50000009,
+          "z": 359.99998999999997
+        }
+      }
+    },
+    {
+      "id": "prop-street-sign-UNIVERSITY-ST",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-street-sign-UNIVERSITY-ST.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_street_sign_UNIVERSITY_ST.fbx",
+      "materials": [
+        "metal",
+        "sign-white",
+        "sign-green",
+        "bronze"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_street_sign_UNIVERSITY_ST_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-street-sign-UNIVERSITY-ST.obj",
+      "bounds": {
+        "min": {
+          "x": -6.7,
+          "y": -122.95,
+          "z": 0.0
+        },
+        "max": {
+          "x": 6.7,
+          "y": 122.95,
+          "z": 372.0
+        }
+      },
+      "kind": "prop",
+      "nanite": false,
+      "collisionBounds": {
+        "min": {
+          "x": -8.08398053,
+          "y": -8.50000009,
+          "z": 0.0
+        },
+        "max": {
+          "x": 8.08398053,
+          "y": 8.50000009,
+          "z": 359.99998999999997
+        }
+      }
+    },
+    {
+      "id": "prop-street-sign-SENECA-STREET",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-street-sign-SENECA-STREET.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_street_sign_SENECA_STREET.fbx",
+      "materials": [
+        "metal",
+        "sign-white",
+        "sign-green",
+        "bronze"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_street_sign_SENECA_STREET_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-street-sign-SENECA-STREET.obj",
+      "bounds": {
+        "min": {
+          "x": -6.7,
+          "y": -122.95,
+          "z": 0.0
+        },
+        "max": {
+          "x": 6.7,
+          "y": 122.95,
+          "z": 372.0
+        }
+      },
+      "kind": "prop",
+      "nanite": false,
+      "collisionBounds": {
+        "min": {
+          "x": -8.08398053,
+          "y": -8.50000009,
+          "z": 0.0
+        },
+        "max": {
+          "x": 8.08398053,
+          "y": 8.50000009,
+          "z": 359.99998999999997
+        }
+      }
+    },
+    {
+      "id": "prop-street-sign-UNION-STREET",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\prop-street-sign-UNION-STREET.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_street_sign_UNION_STREET.fbx",
+      "materials": [
+        "metal",
+        "sign-white",
+        "sign-green",
+        "bronze"
+      ],
+      "collisionFbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\prop_street_sign_UNION_STREET_collision.fbx",
+      "collisionObj": "H:\\Projects\\seattle-unreal\\SourceData\\Colliders\\prop-street-sign-UNION-STREET.obj",
+      "bounds": {
+        "min": {
+          "x": -6.7,
+          "y": -115.05000000000001,
+          "z": 0.0
+        },
+        "max": {
+          "x": 6.7,
+          "y": 115.05000000000001,
+          "z": 372.0
+        }
+      },
+      "kind": "prop",
+      "nanite": false,
+      "collisionBounds": {
+        "min": {
+          "x": -8.08398053,
+          "y": -8.50000009,
+          "z": 0.0
+        },
+        "max": {
+          "x": 8.08398053,
+          "y": 8.50000009,
+          "z": 359.99998999999997
+        }
+      }
+    },
+    {
+      "id": "surface-ground-0",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-ground-0.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_ground_0.fbx",
+      "materials": [
+        "ground"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -7900.0,
+          "y": -11200.0,
+          "z": -12.0
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 11200.0,
+          "z": -12.0
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-road-1",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-road-1.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_road_1.fbx",
+      "materials": [
+        "road"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -7900.0,
+          "y": -11200.0,
+          "z": 0.0
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 11200.0,
+          "z": 0.0
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-sidewalk-2",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-2.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_2.fbx",
+      "materials": [
+        "sidewalk"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -7900.0,
+          "y": -3220.13,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": -7573.75,
+          "y": -1514.71,
+          "z": 14.000000000000002
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-sidewalk-3",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-3.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_3.fbx",
+      "materials": [
+        "sidewalk"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -6694.31,
+          "y": -10711.279999999999,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 5993.589999999999,
+          "y": -976.18,
+          "z": 14.000000000000002
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-sidewalk-4",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-4.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_4.fbx",
+      "materials": [
+        "sidewalk"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 666.13,
+          "y": -11200.0,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 6051.89,
+          "y": -10849.769999999999,
+          "z": 14.000000000000002
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-sidewalk-5",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-5.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_5.fbx",
+      "materials": [
+        "sidewalk"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 6802.09,
+          "y": -11200.0,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 9692.99,
+          "y": -10552.52,
+          "z": 14.000000000000002
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-sidewalk-6",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-6.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_6.fbx",
+      "materials": [
+        "sidewalk"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 6341.38,
+          "y": -9785.4,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 15021.13,
+          "y": -253.25000000000003,
+          "z": 14.000000000000002
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-sidewalk-7",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-7.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_7.fbx",
+      "materials": [
+        "sidewalk"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 9703.619999999999,
+          "y": -10864.47,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 15542.57,
+          "y": -9996.67,
+          "z": 14.000000000000002
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-sidewalk-8",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-8.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_8.fbx",
+      "materials": [
+        "sidewalk"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15445.859999999999,
+          "y": -3835.23,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 15700.0,
+          "y": -157.36,
+          "z": 14.000000000000002
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-sidewalk-9",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-9.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_9.fbx",
+      "materials": [
+        "sidewalk"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -7900.0,
+          "y": -1003.0699999999999,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": -7729.51,
+          "y": 1431.48,
+          "z": 14.000000000000002
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-sidewalk-10",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-10.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_10.fbx",
+      "materials": [
+        "sidewalk"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -7411.21,
+          "y": 3662.1699999999996,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": -6755.95,
+          "y": 8454.699999999999,
+          "z": 14.000000000000002
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-sidewalk-11",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-11.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_11.fbx",
+      "materials": [
+        "sidewalk"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -7075.04,
+          "y": -912.06,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 5290.15,
+          "y": 9473.32,
+          "z": 14.000000000000002
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-sidewalk-12",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-12.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_12.fbx",
+      "materials": [
+        "sidewalk"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -463.31,
+          "y": -4.77,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 4439.19,
+          "y": 4651.79,
+          "z": 14.000000000000002
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-sidewalk-13",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-13.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_13.fbx",
+      "materials": [
+        "sidewalk"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 4128.71,
+          "y": 9453.140000000001,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 4570.95,
+          "y": 11162.75,
+          "z": 14.000000000000002
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-sidewalk-14",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-14.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_14.fbx",
+      "materials": [
+        "sidewalk"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 5427.79,
+          "y": 118.19999999999999,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 14401.259999999998,
+          "y": 11200.0,
+          "z": 14.000000000000002
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-sidewalk-15",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-sidewalk-15.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_sidewalk_15.fbx",
+      "materials": [
+        "sidewalk"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 14991.390000000001,
+          "y": 354.04,
+          "z": 14.000000000000002
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 6663.78,
+          "z": 14.000000000000002
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-continuous-curbs",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-continuous-curbs.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_continuous_curbs.fbx",
+      "materials": [
+        "curb"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -7900.0,
+          "y": -11200.0,
+          "z": 0.0
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 11200.0,
+          "z": 14.000000000000002
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-17",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-17.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_17.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -6110.179999999999,
+          "y": -1550.44,
+          "z": 1.2
+        },
+        "max": {
+          "x": -6021.990000000001,
+          "y": -1530.56,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-18",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-18.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_18.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -6138.320000000001,
+          "y": -1211.35,
+          "z": 1.2
+        },
+        "max": {
+          "x": -6048.59,
+          "y": -1191.6000000000001,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-19",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-19.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_19.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -5614.21,
+          "y": -1511.17,
+          "z": 1.2
+        },
+        "max": {
+          "x": -5274.240000000001,
+          "y": -1471.44,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-20",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-20.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_20.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -5640.97,
+          "y": -1172.22,
+          "z": 1.2
+        },
+        "max": {
+          "x": -5301.0,
+          "y": -1132.5,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-21",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-21.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_21.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -4866.530000000001,
+          "y": -1452.13,
+          "z": 1.2
+        },
+        "max": {
+          "x": -4526.570000000001,
+          "y": -1412.41,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-22",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-22.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_22.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -4893.3,
+          "y": -1113.18,
+          "z": 1.2
+        },
+        "max": {
+          "x": -4553.33,
+          "y": -1073.46,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-23",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-23.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_23.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -4118.86,
+          "y": -1393.09,
+          "z": 1.2
+        },
+        "max": {
+          "x": -3778.89,
+          "y": -1353.37,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-24",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-24.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_24.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -4145.62,
+          "y": -1054.1499999999999,
+          "z": 1.2
+        },
+        "max": {
+          "x": -3805.6600000000003,
+          "y": -1014.43,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-25",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-25.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_25.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -3371.19,
+          "y": -1334.06,
+          "z": 1.2
+        },
+        "max": {
+          "x": -3031.2200000000003,
+          "y": -1294.3300000000002,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-26",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-26.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_26.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -3397.9500000000003,
+          "y": -995.11,
+          "z": 1.2
+        },
+        "max": {
+          "x": -3057.98,
+          "y": -955.3900000000001,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-27",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-27.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_27.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -2623.52,
+          "y": -1275.02,
+          "z": 1.2
+        },
+        "max": {
+          "x": -2283.55,
+          "y": -1235.3,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-28",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-28.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_28.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -2650.28,
+          "y": -936.0799999999999,
+          "z": 1.2
+        },
+        "max": {
+          "x": -2310.31,
+          "y": -896.35,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-29",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-29.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_29.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -1875.8400000000001,
+          "y": -1215.99,
+          "z": 1.2
+        },
+        "max": {
+          "x": -1535.8700000000001,
+          "y": -1176.26,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-30",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-30.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_30.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -1902.61,
+          "y": -877.0400000000001,
+          "z": 1.2
+        },
+        "max": {
+          "x": -1562.64,
+          "y": -837.32,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-31",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-31.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_31.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -1128.17,
+          "y": -1156.95,
+          "z": 1.2
+        },
+        "max": {
+          "x": -788.1999999999999,
+          "y": -1117.23,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-32",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-32.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_32.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -1154.93,
+          "y": -818.0,
+          "z": 1.2
+        },
+        "max": {
+          "x": -814.9599999999999,
+          "y": -778.28,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-33",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-33.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_33.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -380.5,
+          "y": -1097.91,
+          "z": 1.2
+        },
+        "max": {
+          "x": -40.53,
+          "y": -1058.1899999999998,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-34",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-34.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_34.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -407.26000000000005,
+          "y": -758.9699999999999,
+          "z": 1.2
+        },
+        "max": {
+          "x": -67.29,
+          "y": -719.24,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-35",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-35.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_35.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 367.18,
+          "y": -1038.8799999999999,
+          "z": 1.2
+        },
+        "max": {
+          "x": 707.14,
+          "y": -999.15,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-36",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-36.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_36.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 340.41,
+          "y": -699.93,
+          "z": 1.2
+        },
+        "max": {
+          "x": 680.38,
+          "y": -660.21,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-37",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-37.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_37.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 1114.8500000000001,
+          "y": -979.8400000000001,
+          "z": 1.2
+        },
+        "max": {
+          "x": 1454.82,
+          "y": -940.1199999999999,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-38",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-38.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_38.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 1088.0900000000001,
+          "y": -640.9,
+          "z": 1.2
+        },
+        "max": {
+          "x": 1428.05,
+          "y": -601.1700000000001,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-39",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-39.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_39.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 1862.52,
+          "y": -920.8000000000001,
+          "z": 1.2
+        },
+        "max": {
+          "x": 2202.49,
+          "y": -881.08,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-40",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-40.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_40.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 1835.7600000000002,
+          "y": -581.86,
+          "z": 1.2
+        },
+        "max": {
+          "x": 2175.73,
+          "y": -542.14,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-41",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-41.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_41.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 2610.19,
+          "y": -861.77,
+          "z": 1.2
+        },
+        "max": {
+          "x": 2950.16,
+          "y": -822.04,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-42",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-42.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_42.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 2583.43,
+          "y": -522.82,
+          "z": 1.2
+        },
+        "max": {
+          "x": 2923.4,
+          "y": -483.1,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-43",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-43.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_43.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 3357.87,
+          "y": -802.73,
+          "z": 1.2
+        },
+        "max": {
+          "x": 3697.84,
+          "y": -763.01,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-44",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-44.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_44.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 3331.1,
+          "y": -463.79,
+          "z": 1.2
+        },
+        "max": {
+          "x": 3671.07,
+          "y": -424.05999999999995,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-45",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-45.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_45.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 4105.54,
+          "y": -743.7,
+          "z": 1.2
+        },
+        "max": {
+          "x": 4445.51,
+          "y": -703.97,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-46",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-46.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_46.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 4078.7799999999997,
+          "y": -404.75000000000006,
+          "z": 1.2
+        },
+        "max": {
+          "x": 4418.75,
+          "y": -365.03000000000003,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-47",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-47.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_47.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 7096.24,
+          "y": -505.46,
+          "z": 1.2
+        },
+        "max": {
+          "x": 7436.1900000000005,
+          "y": -465.36,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-48",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-48.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_48.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 7069.09,
+          "y": -166.55,
+          "z": 1.2
+        },
+        "max": {
+          "x": 7409.05,
+          "y": -126.44999999999999,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-49",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-49.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_49.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 7843.84,
+          "y": -445.59,
+          "z": 1.2
+        },
+        "max": {
+          "x": 8183.799999999999,
+          "y": -405.49,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-50",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-50.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_50.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 7816.7,
+          "y": -106.67,
+          "z": 1.2
+        },
+        "max": {
+          "x": 8156.650000000001,
+          "y": -66.57,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-51",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-51.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_51.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 8591.45,
+          "y": -385.71,
+          "z": 1.2
+        },
+        "max": {
+          "x": 8931.4,
+          "y": -345.61,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-52",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-52.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_52.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 8564.310000000001,
+          "y": -46.800000000000004,
+          "z": 1.2
+        },
+        "max": {
+          "x": 8904.259999999998,
+          "y": -6.7,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-53",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-53.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_53.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 9339.060000000001,
+          "y": -325.84,
+          "z": 1.2
+        },
+        "max": {
+          "x": 9679.01,
+          "y": -285.74,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-54",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-54.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_54.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 9311.91,
+          "y": 13.07,
+          "z": 1.2
+        },
+        "max": {
+          "x": 9651.86,
+          "y": 53.18000000000001,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-55",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-55.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_55.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 10086.66,
+          "y": -265.96999999999997,
+          "z": 1.2
+        },
+        "max": {
+          "x": 10426.609999999999,
+          "y": -225.87,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-56",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-56.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_56.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 10059.52,
+          "y": 72.95,
+          "z": 1.2
+        },
+        "max": {
+          "x": 10399.47,
+          "y": 113.05000000000001,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-57",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-57.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_57.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 10834.269999999999,
+          "y": -206.09000000000003,
+          "z": 1.2
+        },
+        "max": {
+          "x": 11174.22,
+          "y": -165.98999999999998,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-58",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-58.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_58.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 10807.12,
+          "y": 132.82,
+          "z": 1.2
+        },
+        "max": {
+          "x": 11147.08,
+          "y": 172.92000000000002,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-59",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-59.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_59.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 11581.87,
+          "y": -146.22,
+          "z": 1.2
+        },
+        "max": {
+          "x": 11921.83,
+          "y": -106.11999999999999,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-60",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-60.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_60.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 11554.730000000001,
+          "y": 192.70000000000002,
+          "z": 1.2
+        },
+        "max": {
+          "x": 11894.68,
+          "y": 232.79999999999998,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-61",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-61.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_61.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 12329.12,
+          "y": -87.26,
+          "z": 1.2
+        },
+        "max": {
+          "x": 12669.11,
+          "y": -48.04,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-62",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-62.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_62.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 12302.87,
+          "y": 251.73000000000002,
+          "z": 1.2
+        },
+        "max": {
+          "x": 12642.86,
+          "y": 290.94,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-63",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-63.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_63.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 13076.88,
+          "y": -29.349999999999998,
+          "z": 1.2
+        },
+        "max": {
+          "x": 13416.87,
+          "y": 9.86,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-64",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-64.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_64.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 13050.630000000001,
+          "y": 309.64,
+          "z": 1.2
+        },
+        "max": {
+          "x": 13390.62,
+          "y": 348.85,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-65",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-65.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_65.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 13825.380000000001,
+          "y": 28.02,
+          "z": 1.2
+        },
+        "max": {
+          "x": 13857.400000000001,
+          "y": 43.33,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-66",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-66.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_66.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 13797.7,
+          "y": 366.89,
+          "z": 1.2
+        },
+        "max": {
+          "x": 13827.6,
+          "y": 382.29,
+          "z": 1.2
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-67",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-67.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_67.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 14059.36,
+          "y": -242.83999999999997,
+          "z": 1.6
+        },
+        "max": {
+          "x": 14404.18,
+          "y": -142.75,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-68",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-68.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_68.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 14049.78,
+          "y": -128.24,
+          "z": 1.6
+        },
+        "max": {
+          "x": 14394.6,
+          "y": -28.15,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-69",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-69.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_69.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 14040.19,
+          "y": -13.639999999999999,
+          "z": 1.6
+        },
+        "max": {
+          "x": 14385.01,
+          "y": 86.45,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-70",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-70.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_70.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 14030.609999999999,
+          "y": 100.96000000000001,
+          "z": 1.6
+        },
+        "max": {
+          "x": 14375.43,
+          "y": 201.04999999999998,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-71",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-71.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_71.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 14021.019999999999,
+          "y": 215.56000000000003,
+          "z": 1.6
+        },
+        "max": {
+          "x": 14365.84,
+          "y": 315.65,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-72",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-72.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_72.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 14011.439999999999,
+          "y": 330.16,
+          "z": 1.6
+        },
+        "max": {
+          "x": 14356.25,
+          "y": 430.25,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-73",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-73.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_73.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 14001.849999999999,
+          "y": 444.76000000000005,
+          "z": 1.6
+        },
+        "max": {
+          "x": 14346.67,
+          "y": 544.85,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-74",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-74.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_74.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 13992.259999999998,
+          "y": 559.36,
+          "z": 1.6
+        },
+        "max": {
+          "x": 14337.08,
+          "y": 659.45,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-75",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-75.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_75.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15510.939999999999,
+          "y": -126.84,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": -41.04,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-76",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-76.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_76.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15502.46,
+          "y": -12.15,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 74.27,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-77",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-77.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_77.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15493.97,
+          "y": 102.53000000000002,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 189.59,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-78",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-78.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_78.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15485.480000000001,
+          "y": 217.22000000000003,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 304.9,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-79",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-79.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_79.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15476.990000000002,
+          "y": 331.91,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 419.86,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-80",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-80.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_80.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15468.5,
+          "y": 446.59000000000003,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15691.95,
+          "y": 534.54,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-81",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-81.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_81.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15460.02,
+          "y": 561.28,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15683.47,
+          "y": 649.23,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-82",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-82.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_82.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15451.529999999999,
+          "y": 675.9699999999999,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15674.98,
+          "y": 763.91,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-83",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-83.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_83.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 4951.46,
+          "y": -965.6700000000001,
+          "z": 1.6
+        },
+        "max": {
+          "x": 5296.24,
+          "y": -865.9100000000001,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-84",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-84.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_84.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 4941.99,
+          "y": -851.0600000000001,
+          "z": 1.6
+        },
+        "max": {
+          "x": 5286.7699999999995,
+          "y": -751.3,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-85",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-85.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_85.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 4932.52,
+          "y": -736.4499999999999,
+          "z": 1.6
+        },
+        "max": {
+          "x": 5277.3,
+          "y": -636.69,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-86",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-86.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_86.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 4923.05,
+          "y": -621.84,
+          "z": 1.6
+        },
+        "max": {
+          "x": 5267.82,
+          "y": -522.0799999999999,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-87",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-87.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_87.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 4913.58,
+          "y": -507.23,
+          "z": 1.6
+        },
+        "max": {
+          "x": 5258.35,
+          "y": -407.47,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-88",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-88.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_88.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 4904.11,
+          "y": -392.62,
+          "z": 1.6
+        },
+        "max": {
+          "x": 5248.88,
+          "y": -292.86,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-89",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-89.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_89.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 4894.639999999999,
+          "y": -278.01,
+          "z": 1.6
+        },
+        "max": {
+          "x": 5239.41,
+          "y": -178.26,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-90",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-90.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_90.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 4885.16,
+          "y": -163.39999999999998,
+          "z": 1.6
+        },
+        "max": {
+          "x": 5229.94,
+          "y": -63.65,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-91",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-91.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_91.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 6403.900000000001,
+          "y": -849.8699999999999,
+          "z": 1.6
+        },
+        "max": {
+          "x": 6748.33,
+          "y": -752.6099999999999,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-92",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-92.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_92.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 6395.280000000001,
+          "y": -735.1899999999999,
+          "z": 1.6
+        },
+        "max": {
+          "x": 6739.719999999999,
+          "y": -637.93,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-93",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-93.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_93.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 6386.67,
+          "y": -620.52,
+          "z": 1.6
+        },
+        "max": {
+          "x": 6731.11,
+          "y": -523.25,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-94",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-94.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_94.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 6378.05,
+          "y": -505.84,
+          "z": 1.6
+        },
+        "max": {
+          "x": 6722.490000000001,
+          "y": -408.58,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-95",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-95.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_95.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 6369.4400000000005,
+          "y": -391.15999999999997,
+          "z": 1.6
+        },
+        "max": {
+          "x": 6713.88,
+          "y": -293.9,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-96",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-96.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_96.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 6360.82,
+          "y": -276.49,
+          "z": 1.6
+        },
+        "max": {
+          "x": 6705.26,
+          "y": -179.22,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-97",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-97.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_97.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 6352.21,
+          "y": -161.81,
+          "z": 1.6
+        },
+        "max": {
+          "x": 6696.65,
+          "y": -64.53999999999999,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-98",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-98.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_98.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 6343.6,
+          "y": -47.13,
+          "z": 1.6
+        },
+        "max": {
+          "x": 6688.030000000001,
+          "y": 50.129999999999995,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-99",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-99.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_99.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15526.169999999998,
+          "y": -125.71000000000001,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": -41.04,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-100",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-100.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_100.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15517.679999999998,
+          "y": -11.03,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 74.27,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-101",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-101.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_101.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15509.2,
+          "y": 103.66,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 189.59,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-102",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-102.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_102.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15500.710000000001,
+          "y": 218.35,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 304.9,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-103",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-103.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_103.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15492.220000000001,
+          "y": 333.03,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15700.0,
+          "y": 419.86,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-104",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-104.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_104.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15483.73,
+          "y": 447.71999999999997,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15691.95,
+          "y": 534.54,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-105",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-105.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_105.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15475.24,
+          "y": 562.4100000000001,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15683.47,
+          "y": 649.23,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-106",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-106.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_106.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": 15466.759999999998,
+          "y": 677.09,
+          "z": 1.6
+        },
+        "max": {
+          "x": 15674.98,
+          "y": 763.91,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-107",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-107.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_107.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -6616.7,
+          "y": -1879.99,
+          "z": 1.6
+        },
+        "max": {
+          "x": -6272.13,
+          "y": -1781.72,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-108",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-108.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_108.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -6625.660000000001,
+          "y": -1765.3400000000001,
+          "z": 1.6
+        },
+        "max": {
+          "x": -6281.089999999999,
+          "y": -1667.07,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-109",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-109.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_109.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -6634.62,
+          "y": -1650.69,
+          "z": 1.6
+        },
+        "max": {
+          "x": -6290.04,
+          "y": -1552.42,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-110",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-110.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_110.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -6643.58,
+          "y": -1536.04,
+          "z": 1.6
+        },
+        "max": {
+          "x": -6299.0,
+          "y": -1437.77,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-111",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-111.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_111.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -6652.540000000001,
+          "y": -1421.39,
+          "z": 1.6
+        },
+        "max": {
+          "x": -6307.96,
+          "y": -1323.12,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-112",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-112.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_112.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -6661.490000000001,
+          "y": -1306.73,
+          "z": 1.6
+        },
+        "max": {
+          "x": -6316.92,
+          "y": -1208.47,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-113",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-113.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_113.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -6670.45,
+          "y": -1192.08,
+          "z": 1.6
+        },
+        "max": {
+          "x": -6325.88,
+          "y": -1093.82,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    },
+    {
+      "id": "surface-marking-114",
+      "sourceObj": "H:\\Projects\\seattle-rebuilt\\AssetsExport\\surface-marking-114.obj",
+      "fbx": "H:\\Projects\\seattle-unreal\\SourceData\\FBX\\surface_marking_114.fbx",
+      "materials": [
+        "marking"
+      ],
+      "collisionFbx": "",
+      "collisionObj": "",
+      "bounds": {
+        "min": {
+          "x": -6679.41,
+          "y": -1077.43,
+          "z": 1.6
+        },
+        "max": {
+          "x": -6334.83,
+          "y": -979.1700000000001,
+          "z": 1.6
+        }
+      },
+      "kind": "surface",
+      "nanite": false
+    }
+  ],
+  "instances": [
+    {
+      "id": "osm-35824879",
+      "label": "building:osm-35824879",
+      "mesh": "osm-35824879",
+      "position": {
+        "x": 1988.2112503051758,
+        "y": 2323.426628112793,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "osm-35824976",
+      "label": "building:osm-35824976",
+      "mesh": "osm-35824976",
+      "position": {
+        "x": 10472.241973876953,
+        "y": 4654.006195068359,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "osm-37585125",
+      "label": "building:osm-37585125",
+      "mesh": "osm-37585125",
+      "position": {
+        "x": -398.82261753082275,
+        "y": -3704.949188232422,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "osm-107124282",
+      "label": "building:osm-107124282",
+      "mesh": "osm-107124282",
+      "position": {
+        "x": 11227.261352539062,
+        "y": -3065.872573852539,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "osm-131705785",
+      "label": "building:osm-131705785",
+      "mesh": "osm-131705785",
+      "position": {
+        "x": 10731.924438476562,
+        "y": -7017.548370361328,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "osm-232079314",
+      "label": "building:osm-232079314",
+      "mesh": "osm-232079314",
+      "position": {
+        "x": -3932.2277069091797,
+        "y": -8199.513244628906,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "osm-358980801",
+      "label": "building:osm-358980801",
+      "mesh": "osm-358980801",
+      "position": {
+        "x": 2278.2459259033203,
+        "y": -7718.199157714844,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "osm-470300696",
+      "label": "building:osm-470300696",
+      "mesh": "osm-470300696",
+      "position": {
+        "x": -1415.0203704833984,
+        "y": -8010.3515625,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "osm-686348108",
+      "label": "building:osm-686348108",
+      "mesh": "osm-686348108",
+      "position": {
+        "x": -2179.920196533203,
+        "y": 4205.632400512695,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-0",
+      "label": "prop:0:tree",
+      "mesh": "prop-tree-0",
+      "position": {
+        "x": -5754.567,
+        "y": -2007.335,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.8899999999999999,
+      "collision": true
+    },
+    {
+      "id": "prop-1",
+      "label": "prop:1:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": -5405.653,
+        "y": -1979.784,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-2",
+      "label": "prop:2:bench",
+      "mesh": "prop-bench",
+      "position": {
+        "x": -6033.697999999999,
+        "y": -2029.375,
+        "z": 14.000000000000002
+      },
+      "yaw": 94.51470540782326,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-3",
+      "label": "prop:3:tree",
+      "mesh": "prop-tree-2",
+      "position": {
+        "x": -5858.469999999999,
+        "y": -691.43,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.8899999999999999,
+      "collision": true
+    },
+    {
+      "id": "prop-4",
+      "label": "prop:4:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": -5509.556,
+        "y": -663.88,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-5",
+      "label": "prop:5:bench",
+      "mesh": "prop-bench",
+      "position": {
+        "x": -6137.602,
+        "y": -713.471,
+        "z": 14.000000000000002
+      },
+      "yaw": -85.48529459217676,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-6",
+      "label": "prop:6:tree",
+      "mesh": "prop-tree-1",
+      "position": {
+        "x": -4458.599999999999,
+        "y": -1905.0049999999999,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.96,
+      "collision": true
+    },
+    {
+      "id": "prop-7",
+      "label": "prop:7:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": -4109.686,
+        "y": -1877.4550000000002,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-8",
+      "label": "prop:8:tree",
+      "mesh": "prop-tree-1",
+      "position": {
+        "x": -4562.504,
+        "y": -589.101,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.96,
+      "collision": true
+    },
+    {
+      "id": "prop-9",
+      "label": "prop:9:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": -4213.59,
+        "y": -561.5509999999999,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-10",
+      "label": "prop:10:tree",
+      "mesh": "prop-tree-0",
+      "position": {
+        "x": -3162.634,
+        "y": -1802.676,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.03,
+      "collision": true
+    },
+    {
+      "id": "prop-11",
+      "label": "prop:11:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": -2813.72,
+        "y": -1775.125,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-12",
+      "label": "prop:12:tree",
+      "mesh": "prop-tree-0",
+      "position": {
+        "x": -3266.538,
+        "y": -486.77099999999996,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.03,
+      "collision": true
+    },
+    {
+      "id": "prop-13",
+      "label": "prop:13:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": -2917.624,
+        "y": -459.22099999999995,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-14",
+      "label": "prop:14:tree",
+      "mesh": "prop-tree-1",
+      "position": {
+        "x": -1866.668,
+        "y": -1700.346,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.82,
+      "collision": true
+    },
+    {
+      "id": "prop-15",
+      "label": "prop:15:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": -1517.7540000000001,
+        "y": -1672.796,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-16",
+      "label": "prop:16:bench",
+      "mesh": "prop-bench",
+      "position": {
+        "x": -2145.799,
+        "y": -1722.3859999999997,
+        "z": 14.000000000000002
+      },
+      "yaw": 94.51470540782343,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-17",
+      "label": "prop:17:tree",
+      "mesh": "prop-tree-1",
+      "position": {
+        "x": -1970.571,
+        "y": -384.442,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.82,
+      "collision": true
+    },
+    {
+      "id": "prop-18",
+      "label": "prop:18:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": -1621.6570000000002,
+        "y": -356.892,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-19",
+      "label": "prop:19:bench",
+      "mesh": "prop-bench",
+      "position": {
+        "x": -2249.703,
+        "y": -406.482,
+        "z": 14.000000000000002
+      },
+      "yaw": -85.48529459217659,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-20",
+      "label": "prop:20:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": -221.787,
+        "y": -1570.467,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-21",
+      "label": "prop:21:tree",
+      "mesh": "prop-tree-0",
+      "position": {
+        "x": -674.605,
+        "y": -282.113,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.8899999999999999,
+      "collision": true
+    },
+    {
+      "id": "prop-22",
+      "label": "prop:22:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": -325.691,
+        "y": -254.562,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-23",
+      "label": "prop:23:tree",
+      "mesh": "prop-tree-1",
+      "position": {
+        "x": 725.265,
+        "y": -1495.6870000000001,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.96,
+      "collision": true
+    },
+    {
+      "id": "prop-24",
+      "label": "prop:24:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 1074.179,
+        "y": -1468.137,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-25",
+      "label": "prop:25:tree",
+      "mesh": "prop-tree-2",
+      "position": {
+        "x": 621.361,
+        "y": -179.78300000000002,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.96,
+      "collision": true
+    },
+    {
+      "id": "prop-26",
+      "label": "prop:26:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 970.275,
+        "y": -152.233,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-27",
+      "label": "prop:27:tree",
+      "mesh": "prop-tree-0",
+      "position": {
+        "x": 2021.2309999999998,
+        "y": -1393.358,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.03,
+      "collision": true
+    },
+    {
+      "id": "prop-28",
+      "label": "prop:28:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 2370.145,
+        "y": -1365.808,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-29",
+      "label": "prop:29:bench",
+      "mesh": "prop-bench",
+      "position": {
+        "x": 1742.1,
+        "y": -1415.3980000000001,
+        "z": 14.000000000000002
+      },
+      "yaw": 94.51470540782331,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-30",
+      "label": "prop:30:tree",
+      "mesh": "prop-tree-2",
+      "position": {
+        "x": 1917.3269999999998,
+        "y": -77.45400000000001,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.03,
+      "collision": true
+    },
+    {
+      "id": "prop-31",
+      "label": "prop:31:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 2266.241,
+        "y": -49.903,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-32",
+      "label": "prop:32:bench",
+      "mesh": "prop-bench",
+      "position": {
+        "x": 1638.196,
+        "y": -99.494,
+        "z": 14.000000000000002
+      },
+      "yaw": -85.48529459217669,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-33",
+      "label": "prop:33:tree",
+      "mesh": "prop-tree-1",
+      "position": {
+        "x": 3317.198,
+        "y": -1291.028,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.82,
+      "collision": true
+    },
+    {
+      "id": "prop-34",
+      "label": "prop:34:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 3666.1119999999996,
+        "y": -1263.4779999999998,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-35",
+      "label": "prop:35:tree",
+      "mesh": "prop-tree-2",
+      "position": {
+        "x": 3213.294,
+        "y": 24.876,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.82,
+      "collision": true
+    },
+    {
+      "id": "prop-36",
+      "label": "prop:36:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 3562.2079999999996,
+        "y": 52.425999999999995,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-37",
+      "label": "prop:37:tree",
+      "mesh": "prop-tree-1",
+      "position": {
+        "x": 4613.164,
+        "y": -1188.699,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.8899999999999999,
+      "collision": true
+    },
+    {
+      "id": "prop-38",
+      "label": "prop:38:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 4962.078,
+        "y": -1161.149,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-39",
+      "label": "prop:39:tree",
+      "mesh": "prop-tree-2",
+      "position": {
+        "x": 4509.259999999999,
+        "y": 127.20499999999998,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.8899999999999999,
+      "collision": true
+    },
+    {
+      "id": "prop-40",
+      "label": "prop:40:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 4858.174,
+        "y": 154.755,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-41",
+      "label": "prop:41:tree",
+      "mesh": "prop-tree-2",
+      "position": {
+        "x": 7205.65,
+        "y": -981.832,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.03,
+      "collision": true
+    },
+    {
+      "id": "prop-42",
+      "label": "prop:42:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 7554.533,
+        "y": -953.891,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-43",
+      "label": "prop:43:tree",
+      "mesh": "prop-tree-1",
+      "position": {
+        "x": 7100.271,
+        "y": 333.955,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.03,
+      "collision": true
+    },
+    {
+      "id": "prop-44",
+      "label": "prop:44:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 7449.154,
+        "y": 361.896,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-45",
+      "label": "prop:45:tree",
+      "mesh": "prop-tree-2",
+      "position": {
+        "x": 8501.501,
+        "y": -878.05,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.82,
+      "collision": true
+    },
+    {
+      "id": "prop-46",
+      "label": "prop:46:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 8850.383,
+        "y": -850.1089999999999,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-47",
+      "label": "prop:47:tree",
+      "mesh": "prop-tree-1",
+      "position": {
+        "x": 8396.122,
+        "y": 437.737,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.82,
+      "collision": true
+    },
+    {
+      "id": "prop-48",
+      "label": "prop:48:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 8745.005000000001,
+        "y": 465.67800000000005,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-49",
+      "label": "prop:49:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 10146.234,
+        "y": -746.327,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-50",
+      "label": "prop:50:bench",
+      "mesh": "prop-bench",
+      "position": {
+        "x": 9518.245,
+        "y": -796.621,
+        "z": 14.000000000000002
+      },
+      "yaw": 94.57892305669478,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-51",
+      "label": "prop:51:tree",
+      "mesh": "prop-tree-0",
+      "position": {
+        "x": 9691.973,
+        "y": 541.519,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.8899999999999999,
+      "collision": true
+    },
+    {
+      "id": "prop-52",
+      "label": "prop:52:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 10040.856,
+        "y": 569.46,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-53",
+      "label": "prop:53:bench",
+      "mesh": "prop-bench",
+      "position": {
+        "x": 9412.866,
+        "y": 519.1659999999999,
+        "z": 14.000000000000002
+      },
+      "yaw": -85.42107694330524,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-54",
+      "label": "prop:54:tree",
+      "mesh": "prop-tree-2",
+      "position": {
+        "x": 11093.202,
+        "y": -670.486,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.96,
+      "collision": true
+    },
+    {
+      "id": "prop-55",
+      "label": "prop:55:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 11442.085000000001,
+        "y": -642.545,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-56",
+      "label": "prop:56:tree",
+      "mesh": "prop-tree-1",
+      "position": {
+        "x": 10987.824,
+        "y": 645.301,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.96,
+      "collision": true
+    },
+    {
+      "id": "prop-57",
+      "label": "prop:57:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 11336.706,
+        "y": 673.2420000000001,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-58",
+      "label": "prop:58:tree",
+      "mesh": "prop-tree-0",
+      "position": {
+        "x": 12387.395999999999,
+        "y": -567.769,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.03,
+      "collision": true
+    },
+    {
+      "id": "prop-59",
+      "label": "prop:59:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 12736.351,
+        "y": -540.745,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-60",
+      "label": "prop:60:tree",
+      "mesh": "prop-tree-0",
+      "position": {
+        "x": 12285.478000000001,
+        "y": 748.291,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.03,
+      "collision": true
+    },
+    {
+      "id": "prop-61",
+      "label": "prop:61:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 12634.432999999999,
+        "y": 775.314,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-62",
+      "label": "prop:62:tree",
+      "mesh": "prop-tree-1",
+      "position": {
+        "x": 13683.515,
+        "y": -467.395,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.82,
+      "collision": true
+    },
+    {
+      "id": "prop-63",
+      "label": "prop:63:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 14032.470000000001,
+        "y": -440.37199999999996,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-64",
+      "label": "prop:64:bench",
+      "mesh": "prop-bench",
+      "position": {
+        "x": 13404.351,
+        "y": -489.01399999999995,
+        "z": 14.000000000000002
+      },
+      "yaw": 94.42824659712804,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-65",
+      "label": "prop:65:tree",
+      "mesh": "prop-tree-1",
+      "position": {
+        "x": 13581.597,
+        "y": 848.664,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 0.82,
+      "collision": true
+    },
+    {
+      "id": "prop-66",
+      "label": "prop:66:lamp",
+      "mesh": "prop-lamp",
+      "position": {
+        "x": 13930.552,
+        "y": 875.6880000000001,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-67",
+      "label": "prop:67:bench",
+      "mesh": "prop-bench",
+      "position": {
+        "x": 13302.432999999999,
+        "y": 827.0450000000001,
+        "z": 14.000000000000002
+      },
+      "yaw": -85.57175340287198,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-68",
+      "label": "prop:68:signal",
+      "mesh": "prop-signal",
+      "position": {
+        "x": 14126.175000000001,
+        "y": -440.127,
+        "z": 14.000000000000002
+      },
+      "yaw": 180.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-69",
+      "label": "prop:69:street-sign",
+      "mesh": "prop-street-sign-SENECA-STREET",
+      "position": {
+        "x": 13996.175,
+        "y": -440.127,
+        "z": 14.000000000000002
+      },
+      "yaw": 90.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-70",
+      "label": "prop:70:signal",
+      "mesh": "prop-signal",
+      "position": {
+        "x": 14126.175000000001,
+        "y": 899.873,
+        "z": 14.000000000000002
+      },
+      "yaw": 180.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-71",
+      "label": "prop:71:street-sign",
+      "mesh": "prop-street-sign-SENECA-STREET",
+      "position": {
+        "x": 13996.175,
+        "y": 899.873,
+        "z": 14.000000000000002
+      },
+      "yaw": 90.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-72",
+      "label": "prop:72:signal",
+      "mesh": "prop-signal",
+      "position": {
+        "x": 5018.674,
+        "y": -1163.016,
+        "z": 14.000000000000002
+      },
+      "yaw": 180.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-73",
+      "label": "prop:73:street-sign",
+      "mesh": "prop-street-sign-UNIVERSITY-ST",
+      "position": {
+        "x": 4888.674,
+        "y": -1163.016,
+        "z": 14.000000000000002
+      },
+      "yaw": 90.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-74",
+      "label": "prop:74:signal",
+      "mesh": "prop-signal",
+      "position": {
+        "x": 5018.674,
+        "y": 176.984,
+        "z": 14.000000000000002
+      },
+      "yaw": 180.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-75",
+      "label": "prop:75:street-sign",
+      "mesh": "prop-street-sign-UNIVERSITY-ST",
+      "position": {
+        "x": 4888.674,
+        "y": 176.984,
+        "z": 14.000000000000002
+      },
+      "yaw": 90.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-76",
+      "label": "prop:76:street-sign",
+      "mesh": "prop-street-sign-UNION-STREET",
+      "position": {
+        "x": 15466.818000000001,
+        "y": -323.601,
+        "z": 14.000000000000002
+      },
+      "yaw": 90.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-77",
+      "label": "prop:77:street-sign",
+      "mesh": "prop-street-sign-UNION-STREET",
+      "position": {
+        "x": 15466.818000000001,
+        "y": 1016.399,
+        "z": 14.000000000000002
+      },
+      "yaw": 90.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-78",
+      "label": "prop:78:planter",
+      "mesh": "prop-planter",
+      "position": {
+        "x": 800.0,
+        "y": 800.0,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-79",
+      "label": "prop:79:planter",
+      "mesh": "prop-planter",
+      "position": {
+        "x": 2500.0,
+        "y": 900.0,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-80",
+      "label": "prop:80:planter",
+      "mesh": "prop-planter",
+      "position": {
+        "x": 400.0,
+        "y": 3700.0,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-81",
+      "label": "prop:81:planter",
+      "mesh": "prop-planter",
+      "position": {
+        "x": 3000.0,
+        "y": 3900.0,
+        "z": 14.000000000000002
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-82",
+      "label": "prop:82:barrier",
+      "mesh": "prop-barrier",
+      "position": {
+        "x": -7401.6,
+        "y": -1804.7350000000001,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-83",
+      "label": "prop:83:barrier",
+      "mesh": "prop-barrier",
+      "position": {
+        "x": -7401.6,
+        "y": -1474.7350000000001,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-84",
+      "label": "prop:84:barrier",
+      "mesh": "prop-barrier",
+      "position": {
+        "x": -7401.6,
+        "y": -1144.7350000000001,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-85",
+      "label": "prop:85:barrier",
+      "mesh": "prop-barrier",
+      "position": {
+        "x": 15201.364000000001,
+        "y": -12.870000000000001,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-86",
+      "label": "prop:86:barrier",
+      "mesh": "prop-barrier",
+      "position": {
+        "x": 15201.364000000001,
+        "y": 317.13,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "prop-87",
+      "label": "prop:87:barrier",
+      "mesh": "prop-barrier",
+      "position": {
+        "x": 15201.364000000001,
+        "y": 647.13,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-ground-0",
+      "label": "surface:ground-0",
+      "mesh": "surface-ground-0",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-road-1",
+      "label": "surface:road-1",
+      "mesh": "surface-road-1",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-sidewalk-2",
+      "label": "surface:sidewalk-2",
+      "mesh": "surface-sidewalk-2",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-sidewalk-3",
+      "label": "surface:sidewalk-3",
+      "mesh": "surface-sidewalk-3",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-sidewalk-4",
+      "label": "surface:sidewalk-4",
+      "mesh": "surface-sidewalk-4",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-sidewalk-5",
+      "label": "surface:sidewalk-5",
+      "mesh": "surface-sidewalk-5",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-sidewalk-6",
+      "label": "surface:sidewalk-6",
+      "mesh": "surface-sidewalk-6",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-sidewalk-7",
+      "label": "surface:sidewalk-7",
+      "mesh": "surface-sidewalk-7",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-sidewalk-8",
+      "label": "surface:sidewalk-8",
+      "mesh": "surface-sidewalk-8",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-sidewalk-9",
+      "label": "surface:sidewalk-9",
+      "mesh": "surface-sidewalk-9",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-sidewalk-10",
+      "label": "surface:sidewalk-10",
+      "mesh": "surface-sidewalk-10",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-sidewalk-11",
+      "label": "surface:sidewalk-11",
+      "mesh": "surface-sidewalk-11",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-sidewalk-12",
+      "label": "surface:sidewalk-12",
+      "mesh": "surface-sidewalk-12",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-sidewalk-13",
+      "label": "surface:sidewalk-13",
+      "mesh": "surface-sidewalk-13",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-sidewalk-14",
+      "label": "surface:sidewalk-14",
+      "mesh": "surface-sidewalk-14",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-sidewalk-15",
+      "label": "surface:sidewalk-15",
+      "mesh": "surface-sidewalk-15",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-continuous-curbs",
+      "label": "surface:continuous-curbs",
+      "mesh": "surface-continuous-curbs",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": true
+    },
+    {
+      "id": "surface-marking-17",
+      "label": "surface:marking-17",
+      "mesh": "surface-marking-17",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-18",
+      "label": "surface:marking-18",
+      "mesh": "surface-marking-18",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-19",
+      "label": "surface:marking-19",
+      "mesh": "surface-marking-19",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-20",
+      "label": "surface:marking-20",
+      "mesh": "surface-marking-20",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-21",
+      "label": "surface:marking-21",
+      "mesh": "surface-marking-21",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-22",
+      "label": "surface:marking-22",
+      "mesh": "surface-marking-22",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-23",
+      "label": "surface:marking-23",
+      "mesh": "surface-marking-23",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-24",
+      "label": "surface:marking-24",
+      "mesh": "surface-marking-24",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-25",
+      "label": "surface:marking-25",
+      "mesh": "surface-marking-25",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-26",
+      "label": "surface:marking-26",
+      "mesh": "surface-marking-26",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-27",
+      "label": "surface:marking-27",
+      "mesh": "surface-marking-27",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-28",
+      "label": "surface:marking-28",
+      "mesh": "surface-marking-28",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-29",
+      "label": "surface:marking-29",
+      "mesh": "surface-marking-29",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-30",
+      "label": "surface:marking-30",
+      "mesh": "surface-marking-30",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-31",
+      "label": "surface:marking-31",
+      "mesh": "surface-marking-31",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-32",
+      "label": "surface:marking-32",
+      "mesh": "surface-marking-32",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-33",
+      "label": "surface:marking-33",
+      "mesh": "surface-marking-33",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-34",
+      "label": "surface:marking-34",
+      "mesh": "surface-marking-34",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-35",
+      "label": "surface:marking-35",
+      "mesh": "surface-marking-35",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-36",
+      "label": "surface:marking-36",
+      "mesh": "surface-marking-36",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-37",
+      "label": "surface:marking-37",
+      "mesh": "surface-marking-37",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-38",
+      "label": "surface:marking-38",
+      "mesh": "surface-marking-38",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-39",
+      "label": "surface:marking-39",
+      "mesh": "surface-marking-39",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-40",
+      "label": "surface:marking-40",
+      "mesh": "surface-marking-40",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-41",
+      "label": "surface:marking-41",
+      "mesh": "surface-marking-41",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-42",
+      "label": "surface:marking-42",
+      "mesh": "surface-marking-42",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-43",
+      "label": "surface:marking-43",
+      "mesh": "surface-marking-43",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-44",
+      "label": "surface:marking-44",
+      "mesh": "surface-marking-44",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-45",
+      "label": "surface:marking-45",
+      "mesh": "surface-marking-45",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-46",
+      "label": "surface:marking-46",
+      "mesh": "surface-marking-46",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-47",
+      "label": "surface:marking-47",
+      "mesh": "surface-marking-47",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-48",
+      "label": "surface:marking-48",
+      "mesh": "surface-marking-48",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-49",
+      "label": "surface:marking-49",
+      "mesh": "surface-marking-49",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-50",
+      "label": "surface:marking-50",
+      "mesh": "surface-marking-50",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-51",
+      "label": "surface:marking-51",
+      "mesh": "surface-marking-51",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-52",
+      "label": "surface:marking-52",
+      "mesh": "surface-marking-52",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-53",
+      "label": "surface:marking-53",
+      "mesh": "surface-marking-53",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-54",
+      "label": "surface:marking-54",
+      "mesh": "surface-marking-54",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-55",
+      "label": "surface:marking-55",
+      "mesh": "surface-marking-55",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-56",
+      "label": "surface:marking-56",
+      "mesh": "surface-marking-56",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-57",
+      "label": "surface:marking-57",
+      "mesh": "surface-marking-57",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-58",
+      "label": "surface:marking-58",
+      "mesh": "surface-marking-58",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-59",
+      "label": "surface:marking-59",
+      "mesh": "surface-marking-59",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-60",
+      "label": "surface:marking-60",
+      "mesh": "surface-marking-60",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-61",
+      "label": "surface:marking-61",
+      "mesh": "surface-marking-61",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-62",
+      "label": "surface:marking-62",
+      "mesh": "surface-marking-62",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-63",
+      "label": "surface:marking-63",
+      "mesh": "surface-marking-63",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-64",
+      "label": "surface:marking-64",
+      "mesh": "surface-marking-64",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-65",
+      "label": "surface:marking-65",
+      "mesh": "surface-marking-65",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-66",
+      "label": "surface:marking-66",
+      "mesh": "surface-marking-66",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-67",
+      "label": "surface:marking-67",
+      "mesh": "surface-marking-67",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-68",
+      "label": "surface:marking-68",
+      "mesh": "surface-marking-68",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-69",
+      "label": "surface:marking-69",
+      "mesh": "surface-marking-69",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-70",
+      "label": "surface:marking-70",
+      "mesh": "surface-marking-70",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-71",
+      "label": "surface:marking-71",
+      "mesh": "surface-marking-71",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-72",
+      "label": "surface:marking-72",
+      "mesh": "surface-marking-72",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-73",
+      "label": "surface:marking-73",
+      "mesh": "surface-marking-73",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-74",
+      "label": "surface:marking-74",
+      "mesh": "surface-marking-74",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-75",
+      "label": "surface:marking-75",
+      "mesh": "surface-marking-75",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-76",
+      "label": "surface:marking-76",
+      "mesh": "surface-marking-76",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-77",
+      "label": "surface:marking-77",
+      "mesh": "surface-marking-77",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-78",
+      "label": "surface:marking-78",
+      "mesh": "surface-marking-78",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-79",
+      "label": "surface:marking-79",
+      "mesh": "surface-marking-79",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-80",
+      "label": "surface:marking-80",
+      "mesh": "surface-marking-80",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-81",
+      "label": "surface:marking-81",
+      "mesh": "surface-marking-81",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-82",
+      "label": "surface:marking-82",
+      "mesh": "surface-marking-82",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-83",
+      "label": "surface:marking-83",
+      "mesh": "surface-marking-83",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-84",
+      "label": "surface:marking-84",
+      "mesh": "surface-marking-84",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-85",
+      "label": "surface:marking-85",
+      "mesh": "surface-marking-85",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-86",
+      "label": "surface:marking-86",
+      "mesh": "surface-marking-86",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-87",
+      "label": "surface:marking-87",
+      "mesh": "surface-marking-87",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-88",
+      "label": "surface:marking-88",
+      "mesh": "surface-marking-88",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-89",
+      "label": "surface:marking-89",
+      "mesh": "surface-marking-89",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-90",
+      "label": "surface:marking-90",
+      "mesh": "surface-marking-90",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-91",
+      "label": "surface:marking-91",
+      "mesh": "surface-marking-91",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-92",
+      "label": "surface:marking-92",
+      "mesh": "surface-marking-92",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-93",
+      "label": "surface:marking-93",
+      "mesh": "surface-marking-93",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-94",
+      "label": "surface:marking-94",
+      "mesh": "surface-marking-94",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-95",
+      "label": "surface:marking-95",
+      "mesh": "surface-marking-95",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-96",
+      "label": "surface:marking-96",
+      "mesh": "surface-marking-96",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-97",
+      "label": "surface:marking-97",
+      "mesh": "surface-marking-97",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-98",
+      "label": "surface:marking-98",
+      "mesh": "surface-marking-98",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-99",
+      "label": "surface:marking-99",
+      "mesh": "surface-marking-99",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-100",
+      "label": "surface:marking-100",
+      "mesh": "surface-marking-100",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-101",
+      "label": "surface:marking-101",
+      "mesh": "surface-marking-101",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-102",
+      "label": "surface:marking-102",
+      "mesh": "surface-marking-102",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-103",
+      "label": "surface:marking-103",
+      "mesh": "surface-marking-103",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-104",
+      "label": "surface:marking-104",
+      "mesh": "surface-marking-104",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-105",
+      "label": "surface:marking-105",
+      "mesh": "surface-marking-105",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-106",
+      "label": "surface:marking-106",
+      "mesh": "surface-marking-106",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-107",
+      "label": "surface:marking-107",
+      "mesh": "surface-marking-107",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-108",
+      "label": "surface:marking-108",
+      "mesh": "surface-marking-108",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-109",
+      "label": "surface:marking-109",
+      "mesh": "surface-marking-109",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-110",
+      "label": "surface:marking-110",
+      "mesh": "surface-marking-110",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-111",
+      "label": "surface:marking-111",
+      "mesh": "surface-marking-111",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-112",
+      "label": "surface:marking-112",
+      "mesh": "surface-marking-112",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-113",
+      "label": "surface:marking-113",
+      "mesh": "surface-marking-113",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    },
+    {
+      "id": "surface-marking-114",
+      "label": "surface:marking-114",
+      "mesh": "surface-marking-114",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "yaw": 0.0,
+      "scale": 1.0,
+      "collision": false
+    }
+  ],
+  "expected": {
+    "buildings": 9,
+    "props": 88,
+    "surfaces": 115
+  },
+  "coordinatePolicy": "UE(cm)=(UnityZ,UnityX,UnityY)*100; FBX export uses Blender Zup/-Yforward and baked -90degZ object rotation.",
+  "colliderExtraction": [
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\Unity\\Assets\\Generated\\Meshes\\Prop-tree-0-Collision.asset",
+      "sha256": "ef0b20450afd5baa6e675b118f2c9127b35bf927d335019c1ceae56c33b284f4",
+      "vertices": 288,
+      "triangles": 96
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\Unity\\Assets\\Generated\\Meshes\\Prop-tree-1-Collision.asset",
+      "sha256": "feefffac09c01b8f18d0160453d76c476bbbf7415bdb915331c678925076f5a7",
+      "vertices": 336,
+      "triangles": 112
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\Unity\\Assets\\Generated\\Meshes\\Prop-tree-2-Collision.asset",
+      "sha256": "234b4d57a87b212fa8cbc43501579b05a5eaf60d4e7ff28025788a2eda33dfc1",
+      "vertices": 240,
+      "triangles": 80
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\Unity\\Assets\\Generated\\Meshes\\Prop-lamp-Collision.asset",
+      "sha256": "914697563dcb7b4211bd8102f36937f6d8eceeea609ab1fc8891f62e98eb064d",
+      "vertices": 320,
+      "triangles": 128
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\Unity\\Assets\\Generated\\Meshes\\Prop-bench-Collision.asset",
+      "sha256": "2ac90ea81c58688f1e7d989cf236ac5d6cac8be2497c1a3d0be099a73096d3b2",
+      "vertices": 48,
+      "triangles": 24
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\Unity\\Assets\\Generated\\Meshes\\Prop-signal-Collision.asset",
+      "sha256": "db769a9180605107ffadcb7ee89121128598cef03396c147ff9cd7ae983c60bc",
+      "vertices": 220,
+      "triangles": 88
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\Unity\\Assets\\Generated\\Meshes\\Prop-bollard-Collision.asset",
+      "sha256": "782dc33167642ffdedffb90ed3a1eb18a628ca18ec0e027fd156ff47e120fe76",
+      "vertices": 240,
+      "triangles": 96
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\Unity\\Assets\\Generated\\Meshes\\Prop-planter-Collision.asset",
+      "sha256": "da50d2c7a18f60abe14187aaff07d9d5e50304d0ab0015d28bf4ecbb012b6585",
+      "vertices": 120,
+      "triangles": 48
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\Unity\\Assets\\Generated\\Meshes\\Prop-barrier-Collision.asset",
+      "sha256": "aa3fa6497e048c2692abd181f5668cdfbc838dc548fd82a2c990c918cd7a928b",
+      "vertices": 72,
+      "triangles": 36
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\Unity\\Assets\\Generated\\Meshes\\Prop-street-sign-5TH-AVE-Collision.asset",
+      "sha256": "53003225aefdea9f73a90e3c38b7cee5a331d1adc83b3200d9bcc37154422896",
+      "vertices": 100,
+      "triangles": 40
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\Unity\\Assets\\Generated\\Meshes\\Prop-street-sign-UNIVERSITY-ST-Collision.asset",
+      "sha256": "6a864bdae8c5f9682bcf3c30057fed018948a1d8fd813493704e02f1513b8c99",
+      "vertices": 100,
+      "triangles": 40
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\Unity\\Assets\\Generated\\Meshes\\Prop-street-sign-SENECA-STREET-Collision.asset",
+      "sha256": "d8e8b1ef9bda0fd50d4974db20e3cbf25fa5b6d8215a2f8471d882f6f4cb293c",
+      "vertices": 100,
+      "triangles": 40
+    },
+    {
+      "source": "H:\\Projects\\seattle-rebuilt\\Unity\\Assets\\Generated\\Meshes\\Prop-street-sign-UNION-STREET-Collision.asset",
+      "sha256": "11b6a31ee528270bfd8b90f74f4086e4cbd4430a41b11dad1e1b4cd69ebee654",
+      "vertices": 100,
+      "triangles": 40
+    }
+  ],
+  "sourceLayoutSha256": "5270945440f03e5d98296b79f2f9e6938270c67b42c3f737945985831dc433c5"
+}

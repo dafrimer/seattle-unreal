@@ -1,0 +1,26 @@
+{
+  "status": "blocked",
+  "engine": "Unreal5.8.2",
+  "missing": [
+    "VisualStudio2022 MSVC v14314.44 supported compiler",
+    "Windows11SDK10.0.22621"
+  ],
+  "attempts": [
+    {
+      "method": "winget silent",
+      "exitCode": 1602
+    },
+    {
+      "method": "winget passive after user approved reopening",
+      "exitCode": 1602
+    },
+    {
+      "method": "direct Windows RunAs prompt",
+      "error": "The operation was canceled by the user."
+    }
+  ],
+  "installer": "H:\\Projects\\seattle-unreal\\Prerequisites\\vs_BuildTools.exe",
+  "sha256": "37bb0fb429d163ecebd272a865d11a37b906d152bef960da2ddb29c2e2fd6eeb",
+  "native_runtime_compiled": false,
+  "no_security_bypass_attempted": true
+}
