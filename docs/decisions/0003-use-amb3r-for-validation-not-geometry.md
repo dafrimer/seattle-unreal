@@ -1,7 +1,8 @@
 ---
 id: adr-0003-use-amb3r-for-validation-not-geometry
 class: ledger
-status: accepted
+status: superseded
+superseded_by: 0005-target-stylized-game-art-not-photoreal-capture
 owner: "@dafrimer"
 updated: 2026-10-03
 date: 2026-10-03

@@ -1,7 +1,7 @@
 ---
 id: amb3r-validation-pilot
 class: flow
-status: backlog
+status: dropped
 owner: "@dafrimer"
 updated: 2026-10-03
 ---
@@ -31,3 +31,7 @@ Generated geometry rests on OSM tags that are partly missing or unverified. A vi
 
 ## Closing
 
+- **Date:** 2026-10-03
+- **Shipped:** Nothing. No environment, footage or runs were produced.
+- **Changed vs the plan:** All criteria were dropped.
+- **If dropped:** The target art style is stylized and game-ready (ADR 0005), so video-measured heights and setbacks cannot change the shipped look. Reopen only if a future ADR makes measured geometry accuracy a requirement.

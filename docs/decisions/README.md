@@ -54,8 +54,9 @@ Keep the table below current — it is the only reason this folder is scannable.
 | --- | --- | --- | --- |
 | [0001](0001-generate-buildings-in-unreal-pcg-from-osm.md) | Generate expansion buildings in Unreal PCG from OSM, assembled from a modular Nanite facade kit | accepted | 2026-10-03 |
 | [0002](0002-derive-facade-appearance-from-street-imagery.md) | Derive facade appearance from openly licensed street imagery via automated tagging | accepted | 2026-10-03 |
-| [0003](0003-use-amb3r-for-validation-not-geometry.md) | Use AMB3R video reconstruction to measure and validate, not to supply runtime geometry | accepted | 2026-10-03 |
+| [0003](0003-use-amb3r-for-validation-not-geometry.md) | Use AMB3R video reconstruction to measure and validate, not to supply runtime geometry | superseded | 2026-10-03 |
 | [0004](0004-keep-existing-buildings-as-hero-landmarks.md) | Keep the 9 existing buildings as hand-tuned hero landmarks; generators skip their footprints | accepted | 2026-10-03 |
+| [0005](0005-target-stylized-game-art-not-photoreal-capture.md) | Target stylized, game-ready art (GTA V-like), not photoreal capture; drop video reconstruction | accepted | 2026-10-03 |
 
 `Status` is copied from the record's frontmatter: `accepted`, `superseded`, or `reverted`. A superseded row stays in the table — deleting it recreates exactly the hole this folder exists to prevent.
 

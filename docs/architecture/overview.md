@@ -63,7 +63,7 @@ flowchart LR
   M -.import contract failure.-> X[Build-Unreal-Street.cmd gate exits 1]
 ```
 
-The planned expansion adds a second producer of buildings (OSM tiles → facade attributes → PCG graph) alongside the hero path; see `docs/decisions/0001` through `0004` and `docs/stories/`.
+The planned expansion adds a second producer of buildings (OSM tiles → facade attributes → PCG graph) alongside the hero path; see `docs/decisions/0001`, `0002`, `0004` and `0005` and `docs/stories/`.
 
 ## External dependencies
 
@@ -75,7 +75,7 @@ The planned expansion adds a second producer of buildings (OSM tiles → facade 
 | Git LFS | binary assets | `.gitattributes` | **no ADR — gap** |
 | UE PCG framework (+ beta interops) | generated buildings | not yet enabled | `docs/decisions/0001-generate-buildings-in-unreal-pcg-from-osm.md` |
 | Street-imagery vision tagging | facade attributes | not yet chosen | `docs/decisions/0002-derive-facade-appearance-from-street-imagery.md` |
-| AMB3R / AMB3R-SLAM | measurement and validation only | not yet installed | `docs/decisions/0003-use-amb3r-for-validation-not-geometry.md` |
+| Art direction | stylized game-ready assets; no photoreal capture or video reconstruction | — | `docs/decisions/0005-target-stylized-game-art-not-photoreal-capture.md` |
 | ffmpeg (libx264) | walkthrough MP4 | `Scripts/encode_walkthrough.py:7` (sibling WSL env) | **no ADR — gap** |
 
 ## Known gaps
