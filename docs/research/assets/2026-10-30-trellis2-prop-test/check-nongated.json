@@ -1,0 +1,18 @@
+{
+  "torch": "2.6.0+cu124",
+  "gpu": "NVIDIA GeForce RTX 3090 Ti",
+  "models_loaded": [
+    "shape_slat_decoder",
+    "shape_slat_flow_model_1024",
+    "shape_slat_flow_model_512",
+    "sparse_structure_decoder",
+    "sparse_structure_flow_model",
+    "tex_slat_decoder",
+    "tex_slat_flow_model_1024",
+    "tex_slat_flow_model_512"
+  ],
+  "load_seconds": 86.0,
+  "all_flow_models_on_gpu_gb": 14.11,
+  "rmbg_foreground_fraction": 0.043,
+  "peak_vram_gb": 14.11
+}
