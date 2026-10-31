@@ -1,0 +1,120 @@
+{
+  "lamp": {
+    "box": [
+      325,
+      25,
+      460,
+      725
+    ],
+    "mask_score": 0.94140625,
+    "mask_fraction": 0.0432,
+    "generate_seconds": 11.5,
+    "glb_seconds": 16.1,
+    "peak_vram_gb": 9.44,
+    "raw_mesh_triangles": 40472,
+    "glb_triangles": 1186,
+    "game_triangles": 1186,
+    "game_budget": 3000,
+    "extent_units": [
+      0.103,
+      0.991,
+      0.103
+    ]
+  },
+  "signal": {
+    "box": [
+      85,
+      20,
+      1010,
+      930
+    ],
+    "mask_score": 0.734375,
+    "mask_fraction": 0.0474,
+    "generate_seconds": 10.9,
+    "glb_seconds": 19.1,
+    "peak_vram_gb": 9.61,
+    "raw_mesh_triangles": 177744,
+    "glb_triangles": 8662,
+    "game_triangles": 7790,
+    "game_budget": 8000,
+    "extent_units": [
+      1.0,
+      0.875,
+      0.351
+    ]
+  },
+  "trash": {
+    "box": [
+      65,
+      55,
+      445,
+      455
+    ],
+    "mask_score": 0.96484375,
+    "mask_fraction": 0.4596,
+    "generate_seconds": 11.9,
+    "glb_seconds": 18.0,
+    "peak_vram_gb": 9.8,
+    "raw_mesh_triangles": 269824,
+    "glb_triangles": 6530,
+    "game_triangles": 932,
+    "game_budget": 2000,
+    "extent_units": [
+      1.0,
+      0.34,
+      0.262
+    ]
+  },
+  "aframe": {
+    "box": [
+      172,
+      88,
+      378,
+      418
+    ],
+    "mask_score": 0.96875,
+    "mask_fraction": 0.1412,
+    "generate_seconds": 17.5,
+    "glb_seconds": 18.6,
+    "peak_vram_gb": 9.68,
+    "raw_mesh_triangles": 208710,
+    "glb_triangles": 6969,
+    "game_triangles": 684,
+    "game_budget": 1000,
+    "extent_units": [
+      0.367,
+      0.995,
+      0.17
+    ]
+  },
+  "planter": {
+    "box": [
+      0,
+      0,
+      768,
+      768
+    ],
+    "mask_score": 0.65234375,
+    "mask_fraction": 0.2528,
+    "generate_seconds": 10.3,
+    "glb_seconds": 20.2,
+    "peak_vram_gb": 9.66,
+    "raw_mesh_triangles": 229096,
+    "glb_triangles": 11453,
+    "game_triangles": 6000,
+    "game_budget": 6000,
+    "extent_units": [
+      0.942,
+      1.002,
+      0.02
+    ]
+  },
+  "_meta": {
+    "trellis_commit": "442aa1e1afb9014e80681d3bf604e8d728a86ee7",
+    "sam2_commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "gpu": "NVIDIA GeForce RTX 3090 Ti",
+    "model": "microsoft/TRELLIS-image-large (MIT)",
+    "masks": "SAM 2.1 hiera-large (Apache-2.0)",
+    "inputs": "Panoramax CC-BY-SA-4.0 crops; see work/inputs and scripts/inputs.sh"
+  }
+}

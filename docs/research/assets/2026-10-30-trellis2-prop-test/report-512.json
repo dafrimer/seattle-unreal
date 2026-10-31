@@ -1,0 +1,126 @@
+{
+  "lamp": {
+    "box": [
+      325,
+      25,
+      460,
+      725
+    ],
+    "mask_score": 0.94140625,
+    "mask_fraction": 0.0432,
+    "generate_seconds": 122.9,
+    "glb_seconds": 15.4,
+    "peak_vram_gb": 2.63,
+    "peak_vram_generate_gb": 2.63,
+    "raw_mesh_triangles": 135804,
+    "glb_triangles": 187210,
+    "game_triangles": 2968,
+    "game_budget": 3000,
+    "extent_units": [
+      0.14,
+      1.001,
+      0.167
+    ]
+  },
+  "signal": {
+    "box": [
+      85,
+      20,
+      1010,
+      930
+    ],
+    "mask_score": 0.734375,
+    "mask_fraction": 0.0474,
+    "generate_seconds": 48.8,
+    "glb_seconds": 28.3,
+    "peak_vram_gb": 2.9,
+    "peak_vram_generate_gb": 2.9,
+    "raw_mesh_triangles": 234576,
+    "glb_triangles": 195297,
+    "game_triangles": 7871,
+    "game_budget": 8000,
+    "extent_units": [
+      0.898,
+      0.958,
+      1.001
+    ]
+  },
+  "trash": {
+    "box": [
+      65,
+      55,
+      445,
+      455
+    ],
+    "mask_score": 0.96484375,
+    "mask_fraction": 0.4596,
+    "generate_seconds": 44.2,
+    "glb_seconds": 13.2,
+    "peak_vram_gb": 2.9,
+    "peak_vram_generate_gb": 2.9,
+    "raw_mesh_triangles": 578490,
+    "glb_triangles": 193796,
+    "game_triangles": 1916,
+    "game_budget": 2000,
+    "extent_units": [
+      1.004,
+      0.37,
+      0.275
+    ]
+  },
+  "aframe": {
+    "box": [
+      172,
+      88,
+      378,
+      418
+    ],
+    "mask_score": 0.96875,
+    "mask_fraction": 0.1412,
+    "generate_seconds": 51.8,
+    "glb_seconds": 32.0,
+    "peak_vram_gb": 2.92,
+    "peak_vram_generate_gb": 2.92,
+    "raw_mesh_triangles": 53308,
+    "glb_triangles": 115780,
+    "game_triangles": 974,
+    "game_budget": 1000,
+    "extent_units": [
+      1.001,
+      0.959,
+      0.056
+    ]
+  },
+  "planter": {
+    "box": [
+      0,
+      0,
+      768,
+      768
+    ],
+    "mask_score": 0.65234375,
+    "mask_fraction": 0.2528,
+    "generate_seconds": 26.5,
+    "glb_seconds": 10.8,
+    "peak_vram_gb": 2.9,
+    "peak_vram_generate_gb": 2.9,
+    "raw_mesh_triangles": 104502,
+    "glb_triangles": 199240,
+    "game_triangles": 5948,
+    "game_budget": 6000,
+    "extent_units": [
+      0.564,
+      0.502,
+      0.99
+    ]
+  },
+  "_meta": {
+    "trellis2_commit": "75fbf0183001ed9876c8dbb35de6b68552ee08bd",
+    "pipeline_type": "512",
+    "gpu": "NVIDIA GeForce RTX 3090 Ti",
+    "torch": "2.6.0+cu124",
+    "model": "microsoft/TRELLIS.2-4B (MIT); image encoder facebook/dinov3-vitl16-pretrain-lvd1689m (DINOv3 License)",
+    "masks": "SAM 2.1 hiera-large (Apache-2.0), reused from the v1 test",
+    "inputs": "Panoramax CC-BY-SA-4.0 crops; see work/inputs and scripts/inputs.sh"
+  }
+}
